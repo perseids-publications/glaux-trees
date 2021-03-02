@@ -1,0 +1,37 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0006-031" subdoc="AG.107">
+    <word id="386604" form="θεοῦ" line="1" lemma="θεός" postag="n-s---mg-" head="386606" relation="ATR"/>
+    <word id="386605" form="μὲν" line="1" lemma="μέν" postag="d--------" head="386606" relation="AuxY"/>
+    <word id="386606" form="οὐδεὶς" line="1" lemma="οὐδείς" postag="a-s---mn-" head="386609" relation="ATR"/>
+    <word id="386607" form="ἐκτὸς" line="1" lemma="ἐκτός" postag="r--------" head="386609" relation="AuxP"/>
+    <word id="386608" form="εὐτυχεῖ" line="1" lemma="εὐτυχής" postag="a-s---md-" head="386607" relation="ATR"/>
+    <word id="386609" form="βροτός" line="1" lemma="βροτός" postag="n-s---mn-" head="0" relation="PRED/SBJ"/>
+    <word id="386610" form="." line="1" lemma="." postag="u--------" head="386604" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0006-031" subdoc="AG.107">
+    <word id="386611" form="φεῦ" line="2" lemma="φεῦ" postag="i--------" head="386616" relation="AuxZ"/>
+    <word id="386612" form="τῶν" line="2" lemma="ὁ" postag="l-p---ng-" head="386613" relation="ATR"/>
+    <word id="386613" form="βροτείων" line="2" lemma="βρότειος" postag="a-p---ng-" head="386616" relation="ATR"/>
+    <word id="386614" form="ὡς" line="2" lemma="ὡς" postag="c--------" head="386615" relation="AuxZ"/>
+    <word id="386615" form="ἀνώμαλοι" line="2" lemma="ἀνώμαλος" postag="a-p---fn-" head="386616" relation="ATR"/>
+    <word id="386616" form="τύχαι" line="2" lemma="τύχη" postag="n-p---fn-" head="0" relation="PRED/SBJ"/>
+    <word id="386617" form="·" line="2" lemma="·" postag="u--------" head="386611" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0006-031" subdoc="AG.107">
+    <word id="386618" form="οἱ" line="3" lemma="ὁ" postag="l-p---mn-" head="386622" relation="SBJ"/>
+    <word id="386619" form="μὲν" line="3" lemma="μέν" postag="d--------" head="386622" relation="AuxY"/>
+    <word id="386620" form="γὰρ" line="3" lemma="γάρ" postag="d--------" head="386622" relation="AuxY"/>
+    <word id="386621" form="εὖ" line="3" lemma="εὖ" postag="d--------" head="386622" relation="ADV"/>
+    <word id="386622" form="πράσσουσι" line="3" lemma="πράσσω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="386623" form="," line="3" lemma="," postag="u--------" head="386618" relation="PUNCT"/>
+    <word id="386624" form="τοῖς" line="3" lemma="ὁ" postag="l-p---md-" head="386628" relation="OBJ"/>
+    <word id="386625" form="δὲ" line="3" lemma="δέ" postag="b--------" head="386628" relation="AuxY"/>
+    <word id="386626" form="συμφοραὶ" line="3" lemma="συμφορά" postag="n-p---fn-" head="386628" relation="SBJ"/>
+    <word id="386627" form="σκληραὶ" line="4" lemma="σκληρός" postag="a-p---fn-" head="386626" relation="ATR"/>
+    <word id="386628" form="πάρεισιν" line="4" lemma="πάρειμι" postag="v3ppia---" head="386622" relation="CO"/>
+    <word id="386629" form="εὐσεβοῦσι" line="4" lemma="εὐσεβέω" postag="v-pppamd-" head="386628" relation="ADV"/>
+    <word id="386630" form="πρὸς" line="4" lemma="πρός" postag="r--------" head="386629" relation="AuxP"/>
+    <word id="386631" form="θεούς" line="4" lemma="θεός" postag="n-p---ma-" head="386630" relation="ADV"/>
+    <word id="386632" form="." line="4" lemma="." postag="u--------" head="386618" relation="PUNCT"/>
+  </sentence>
+</treebank>

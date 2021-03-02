@@ -1,0 +1,41 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0012-003" subdoc="AG.147">
+    <word id="690875" form="Ἑλλήνων" line="1" section="AG" sub_section="147" lemma="Ἕλλην" postag="n-p---mg-" head="690876" relation="ATR"/>
+    <word id="690876" form="πλῆθος" line="1" section="AG" sub_section="147" lemma="πλῆθος" postag="n-s---na-" head="690883" relation="SBJ"/>
+    <word id="690877" form="τὸ" line="1" section="AG" sub_section="147" lemma="ὁ" postag="l-s---na-" head="690876" relation="ATR"/>
+    <word id="690878" form="κατὰ" line="1" section="AG" sub_section="147" lemma="κατά" postag="r--------" head="690881" relation="AuxP"/>
+    <word id="690879" form="τῆς" line="1" section="AG" sub_section="147" lemma="ὁ" postag="l-s---fg-" head="690880" relation="ATR"/>
+    <word id="690880" form="Ἰλίου" line="1" section="AG" sub_section="147" lemma="Ἴλιος" postag="a-s---fg-" head="690878" relation="ADV"/>
+    <word id="690881" form="στρατεῦσαν" line="1" section="AG" sub_section="147" lemma="στρατόω" postag="v-sppafa-" head="690876" relation="ATR"/>
+    <word id="690882" form="ἑπτὰ" line="2" section="AG" sub_section="147" lemma="ἑπτά" postag="a--------" head="690876" relation="ATR"/>
+    <word id="690883" form="ἔσαν" line="2" section="AG" sub_section="147" lemma="εἰμί" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="690884" form="μαλεροῦ" line="2" section="AG" sub_section="147" lemma="μαλερός" postag="a-s---ng-" head="690885" relation="ATR"/>
+    <word id="690885" form="πυρὸς" line="2" section="AG" sub_section="147" lemma="πῦρ" postag="n-s---ng-" head="690886" relation="ATR"/>
+    <word id="690886" form="ἐσχάραι" line="2" section="AG" sub_section="147" lemma="ἐσχάρα" postag="n-p---fn-" head="690883" relation="SBJ"/>
+    <word id="690887" form="·" line="2" section="AG" sub_section="147" lemma="·" postag="u--------" head="690875" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0012-003" subdoc="AG.147">
+    <word id="690888" form="ἐν" line="2" section="AG" sub_section="147" lemma="ἐν" postag="r--------" head="690892" relation="AuxP"/>
+    <word id="690889" form="δὲ" line="2" section="AG" sub_section="147" lemma="δέ" postag="b--------" head="690892" relation="AuxY"/>
+    <word id="690890" form="ἑκάστῃ" line="2" section="AG" sub_section="147" lemma="ἕκαστος" postag="a-s---fd-" head="690888" relation="ADV"/>
+    <word id="690891" form="πεντήκοντ’" line="3" section="AG" sub_section="147" lemma="πεντήκοντα" postag="a--------" head="690892" relation="ATR"/>
+    <word id="690892" form="ὀβελοί" line="3" section="AG" sub_section="147" lemma="ὀβελός" postag="n-p---mn-" head="0" relation="PRED/SBJ"/>
+    <word id="690893" form="," line="3" section="AG" sub_section="147" lemma="," postag="u--------" head="690888" relation="PUNCT"/>
+    <word id="690894" form="περὶ" line="3" section="AG" sub_section="147" lemma="περί" postag="r--------" head="690896" relation="ATR"/>
+    <word id="690895" form="δὲ" line="3" section="AG" sub_section="147" lemma="δέ" postag="b--------" head="690896" relation="AuxY"/>
+    <word id="690896" form="κρέα" line="3" section="AG" sub_section="147" lemma="κρέας" postag="n-p---na-" head="690892" relation="CO"/>
+    <word id="690897" form="πεντήκοντα" line="3" section="AG" sub_section="147" lemma="πεντήκοντα" postag="a--------" head="690896" relation="ATR"/>
+    <word id="690898" form="·" line="3" section="AG" sub_section="147" lemma="·" postag="u--------" head="690888" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0012-003" subdoc="AG.147">
+    <word id="690899" form="τρὶς" line="4" section="AG" sub_section="147" lemma="τρίς" postag="d--------" head="690905" relation="ADV"/>
+    <word id="690900" form="δὲ" line="4" section="AG" sub_section="147" lemma="δέ" postag="b--------" head="690905" relation="AuxY"/>
+    <word id="690901" form="τριηκόσιοι" line="4" section="AG" sub_section="147" lemma="τριακόσιοι" postag="a-p---mn-" head="690905" relation="SBJ"/>
+    <word id="690902" form="περὶ" line="4" section="AG" sub_section="147" lemma="περί" postag="r--------" head="690901" relation="AuxP"/>
+    <word id="690903" form="ἓν" line="4" section="AG" sub_section="147" lemma="εἷς" postag="a-s---na-" head="690904" relation="ATR"/>
+    <word id="690904" form="κρέας" line="4" section="AG" sub_section="147" lemma="κρέας" postag="n-s---na-" head="690902" relation="ADV"/>
+    <word id="690905" form="ἦσαν" line="4" section="AG" sub_section="147" lemma="εἰμί" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="690906" form="Ἀχαιοί" line="4" section="AG" sub_section="147" lemma="Ἀχαιός" postag="a-p---mn-" head="690905" relation="SBJ"/>
+    <word id="690907" form="." line="4" section="AG" sub_section="147" lemma="." postag="u--------" head="690899" relation="PUNCT"/>
+  </sentence>
+</treebank>

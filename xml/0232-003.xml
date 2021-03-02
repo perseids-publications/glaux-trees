@@ -1,0 +1,32 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0232-003" subdoc="AG.133">
+    <word id="69328" form="Ἀλκιβίη" line="1" section="AG" sub_section="133" lemma="Ἀλκιβία" postag="n-s---fn-" head="69331" relation="SBJ"/>
+    <word id="69329" form="πλοκάμων" line="1" section="AG" sub_section="133" lemma="πλόκαμος" postag="n-p---mg-" head="69328" relation="ATR"/>
+    <word id="69330" form="ἱερὴν" line="1" section="AG" sub_section="133" lemma="ἱερός" postag="a-s---fa-" head="69332" relation="ATR"/>
+    <word id="69331" form="ἀνέθηκε" line="1" section="AG" sub_section="133" lemma="ἀνατίθημι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="69332" form="καλύπτρην" line="1" section="AG" sub_section="133" lemma="καλύπτρα" postag="n-s---fa-" head="69331" relation="OBJ"/>
+    <word id="69333" form="Ἥρῃ" line="2" section="AG" sub_section="133" lemma="Ἥρα" postag="n-s---fd-" head="69331" relation="OBJ"/>
+    <word id="69334" form="," line="2" section="AG" sub_section="133" lemma="," postag="u--------" head="69328" relation="PUNCT"/>
+    <word id="69335" form="κουριδίων" line="2" section="AG" sub_section="133" lemma="κουρίδιος" postag="a-p---mg-" head="69338" relation="ATR"/>
+    <word id="69336" form="εὖτ’" line="2" section="AG" sub_section="133" lemma="εὖτε" postag="c--------" head="69331" relation="AuxC"/>
+    <word id="69337" form="ἐκύρησε" line="2" section="AG" sub_section="133" lemma="κυρέω" postag="v3saia---" head="69336" relation="ADV"/>
+    <word id="69338" form="γάμων" line="2" section="AG" sub_section="133" lemma="γάμος" postag="n-p---mg-" head="69337" relation="OBJ"/>
+    <word id="69339" form="." line="2" section="AG" sub_section="133" lemma="." postag="u--------" head="69328" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0232-003" subdoc="AG.441">
+    <word id="69340" form="ὑψηλοὺς" line="1" section="AG" sub_section="441" lemma="ὑψηλός" postag="a-p---ma-" head="69341" relation="ATR"/>
+    <word id="69341" form="Μεγάτιμον" line="1" section="AG" sub_section="441" lemma="Μεγάτιμος" postag="n-s---ma-" head="69352" relation="OBJ"/>
+    <word id="69342" form="Ἀριστοφόωντά" line="1" section="AG" sub_section="441" lemma="Ἀριστοφόωις" postag="a-s---ma-" head="69345" relation="ATR"/>
+    <word id="69343" form="τε" line="1" section="AG" sub_section="441" lemma="τε" postag="b--------" head="69345" relation="AuxY"/>
+    <word id="69344" form="Νάξου" line="1" section="AG" sub_section="441" lemma="Νάξος" postag="n-s---fg-" head="69345" relation="ATR"/>
+    <word id="69345" form="κίονας" line="2" section="AG" sub_section="441" lemma="κίων" postag="n-p---ma-" head="69341" relation="CO"/>
+    <word id="69346" form="," line="2" section="AG" sub_section="441" lemma="," postag="u--------" head="69340" relation="PUNCT"/>
+    <word id="69347" form="ὦ" line="2" section="AG" sub_section="441" lemma="ὦ" postag="i--------" head="69349" relation="AuxZ"/>
+    <word id="69348" form="μεγάλη" line="2" section="AG" sub_section="441" lemma="μέγας" postag="a-s---fn-" head="69349" relation="ATR"/>
+    <word id="69349" form="γαῖ’" line="2" section="AG" sub_section="441" lemma="γῆ" postag="n-s---fv-" head="69352" relation="ExD"/>
+    <word id="69350" form="," line="2" section="AG" sub_section="441" lemma="," postag="u--------" head="69340" relation="PUNCT"/>
+    <word id="69351" form="ὑπένερθεν" line="2" section="AG" sub_section="441" lemma="ὑπένερθε" postag="d--------" head="69352" relation="ADV"/>
+    <word id="69352" form="ἔχεις" line="2" section="AG" sub_section="441" lemma="ἔχω" postag="v2spia---" head="0" relation="PRED"/>
+    <word id="69353" form="." line="2" section="AG" sub_section="441" lemma="." postag="u--------" head="69340" relation="PUNCT"/>
+  </sentence>
+</treebank>

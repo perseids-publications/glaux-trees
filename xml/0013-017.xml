@@ -1,0 +1,43 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0013-017">
+    <word id="397187" form="Κάστορα" line="1" lemma="Κάστωρ" postag="n-s---ma-" head="397190" relation="OBJ"/>
+    <word id="397188" form="καὶ" line="1" lemma="καί" postag="b--------" head="397189" relation="AuxY"/>
+    <word id="397189" form="Πολυδεύκε" line="1" lemma="Πολυδεύκω" postag="v2spma---" head="397187" relation="CO"/>
+    <word id="397190" form="ἀείσεο" line="1" lemma="ἀείδω" postag="v2samm---" head="0" relation="PRED"/>
+    <word id="397191" form="," line="1" lemma="," postag="u--------" head="397187" relation="PUNCT"/>
+    <word id="397192" form="Μοῦσα" line="1" lemma="Μοῦσα" postag="n-s---fv-" head="397187" relation="APOS"/>
+    <word id="397193" form="λίγεια" line="1" lemma="λίγειος" postag="a-s---fv-" head="397192" relation="ATR"/>
+    <word id="397194" form="," line="1" lemma="," postag="u--------" head="397187" relation="PUNCT"/>
+    <word id="397195" form="Τυνδαρίδας" line="2" lemma="Τυνδαρίδης" postag="n-p---ma-" head="397189" relation="CO"/>
+    <word id="397196" form="," line="2" lemma="," postag="u--------" head="397187" relation="PUNCT"/>
+    <word id="397197" form="οἳ" line="2" lemma="ὅς" postag="p-p---mn-" head="397200" relation="SBJ"/>
+    <word id="397198" form="Ζηνὸς" line="2" lemma="Ζεύς" postag="n-s---mg-" head="397200" relation="OBJ"/>
+    <word id="397199" form="Ὀλυμπίου" line="2" lemma="Ὀλύμπιος" postag="a-s---mg-" head="397198" relation="ATR"/>
+    <word id="397200" form="ἐξεγένοντο" line="2" lemma="ἐκγίγνομαι" postag="v3paim---" head="397195" relation="ATR"/>
+    <word id="397201" form="·" line="2" lemma="·" postag="u--------" head="397187" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0013-017">
+    <word id="397202" form="τοὺς" line="3" lemma="ὁ" postag="l-p---ma-" head="397205" relation="ATR"/>
+    <word id="397203" form="ὑπὸ" line="3" lemma="ὑπό" postag="r--------" head="397205" relation="AuxP"/>
+    <word id="397204" form="Τηϋγέτου" line="3" lemma="Ταύγετον" postag="n-s---mg-" head="397203" relation="ATR"/>
+    <word id="397205" form="κορυφῇς" line="3" lemma="κορυφή" postag="n-p---fd-" head="397206" relation="OBJ"/>
+    <word id="397206" form="τέκε" line="3" lemma="τίκτω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="397207" form="πότνια" line="3" lemma="πότνια" postag="n-s---fn-" head="397208" relation="ATR"/>
+    <word id="397208" form="Λήδη" line="3" lemma="Λήδη" postag="n-s---fn-" head="397206" relation="SBJ"/>
+    <word id="397209" form="λάθρη" line="4" lemma="λάθρῃ" postag="d--------" head="397210" relation="ADV"/>
+    <word id="397210" form="ὑποδμηθεῖσα" line="4" lemma="ὑποδμάομαι" postag="v-sapmfn-" head="397206" relation="ADV"/>
+    <word id="397211" form="κελαινεφέι" line="4" lemma="κελαινεφής" postag="a-s----d-" head="397212" relation="ATR"/>
+    <word id="397212" form="Κρονίωνι" line="4" lemma="Κρονίων" postag="n-s---md-" head="397210" relation="OBJ"/>
+    <word id="397213" form="." line="4" lemma="." postag="u--------" head="397202" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0013-017">
+    <word id="397214" form="χαίρετε" line="5" lemma="χαίρω" postag="v2ppma---" head="0" relation="PRED"/>
+    <word id="397215" form="," line="5" lemma="," postag="u--------" head="397214" relation="PUNCT"/>
+    <word id="397216" form="Τυνδαρίδαι" line="5" lemma="Τυνδαρίδης" postag="n-p---mv-" head="397214" relation="ExD"/>
+    <word id="397217" form="," line="5" lemma="," postag="u--------" head="397214" relation="PUNCT"/>
+    <word id="397218" form="ταχέων" line="5" lemma="τάχος" postag="n-p---ng-" head="397219" relation="ATR"/>
+    <word id="397219" form="ἐπιβήτορες" line="5" lemma="ἐπιβήτωρ" postag="n-p---mn-" head="397216" relation="APOS"/>
+    <word id="397220" form="ἵππων" line="5" lemma="ἵππος" postag="n-p---mg-" head="397219" relation="ATR"/>
+    <word id="397221" form="." line="5" lemma="." postag="u--------" head="397214" relation="PUNCT"/>
+  </sentence>
+</treebank>

@@ -1,0 +1,24 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0487-008" subdoc="AG.450">
+    <word id="723542" form="εἰ" line="1" lemma="εἰ" postag="c--------" head="723555" relation="AuxC"/>
+    <word id="723543" form="ταῖς" line="1" lemma="ὁ" postag="l-p---fd-" head="723544" relation="ATR"/>
+    <word id="723544" form="ἀληθείαισιν" line="1" lemma="ἀλήθεια" postag="n-p---fd-" head="723548" relation="OBJ"/>
+    <word id="723545" form="οἱ" line="1" lemma="ὁ" postag="l-p---mn-" head="723546" relation="ATR"/>
+    <word id="723546" form="τεθνηκότες" line="1" lemma="θνῄσκω" postag="v-prpamn-" head="723548" relation="SBJ"/>
+    <word id="723547" form="αἴσθησιν" line="2" lemma="αἴσθησις" postag="n-s---fa-" head="723548" relation="OBJ"/>
+    <word id="723548" form="εἶχον" line="2" lemma="ἔχω" postag="v3piia---" head="723542" relation="ADV"/>
+    <word id="723549" form="," line="2" lemma="," postag="u--------" head="723542" relation="PUNCT"/>
+    <word id="723550" form="ἄνδρες" line="2" lemma="ἀνήρ" postag="n-p---mn-" head="723555" relation="ExD"/>
+    <word id="723551" form="ὥς" line="2" lemma="ὡς" postag="c--------" head="723555" relation="AuxC"/>
+    <word id="723552" form="φασίν" line="2" lemma="φημί" postag="v3ppia---" head="723551" relation="ADV"/>
+    <word id="723553" form="τινες" line="2" lemma="τις" postag="a-p---cn-" head="723552" relation="SBJ"/>
+    <word id="723554" form="," line="2" lemma="," postag="u--------" head="723542" relation="PUNCT"/>
+    <word id="723555" form="ἀπηγξάμην" line="3" lemma="ἀπάγχω" postag="v1saim---" head="0" relation="PRED"/>
+    <word id="723556" form="ἄν" line="3" lemma="ἄν" postag="d--------" head="723555" relation="AuxY"/>
+    <word id="723557" form="," line="3" lemma="," postag="u--------" head="723542" relation="PUNCT"/>
+    <word id="723558" form="ὥστ’" line="3" lemma="ὥστε" postag="c--------" head="723555" relation="AuxC"/>
+    <word id="723559" form="ἰδεῖν" line="3" lemma="ὁράω" postag="v--ana---" head="723558" relation="ADV"/>
+    <word id="723560" form="Εὐριπίδην" line="3" lemma="Εὐριπίδης" postag="n-s---ma-" head="723559" relation="OBJ"/>
+    <word id="723561" form="." line="3" lemma="." postag="u--------" head="723542" relation="PUNCT"/>
+  </sentence>
+</treebank>

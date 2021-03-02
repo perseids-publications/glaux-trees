@@ -1,0 +1,39 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0267-003" subdoc="AG.120">
+    <word id="740020" form="καὶ" line="1" lemma="καί" postag="b--------" head="740026" relation="AuxY"/>
+    <word id="740021" form="ποτέ" line="1" lemma="ποτέ" postag="d--------" head="740026" relation="ADV"/>
+    <word id="740022" form="μιν" line="1" lemma="μιν" postag="p-s---ma-" head="740027" relation="SBJ"/>
+    <word id="740023" form="στυφελιζομένου" line="1" lemma="στυφελίζω" postag="v-sppemg-" head="740026" relation="ADV"/>
+    <word id="740024" form="σκύλακος" line="1" lemma="σκύλαξ" postag="n-s---mg-" head="740023" relation="SBJ"/>
+    <word id="740025" form="παριόντα" line="1" lemma="παρέρχομαι" postag="v-sppama-" head="740027" relation="ADV"/>
+    <word id="740026" form="φασὶν" line="2" lemma="φημί" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="740027" form="ἐποικτεῖραι" line="2" lemma="ἐποικτείρω" postag="v--ana---" head="740026" relation="OBJ"/>
+    <word id="740028" form="," line="2" lemma="," postag="u--------" head="740020" relation="PUNCT"/>
+    <word id="740029" form="καὶ" line="2" lemma="καί" postag="b--------" head="740031" relation="AuxY"/>
+    <word id="740030" form="τόδε" line="2" lemma="ὅδε" postag="a-s---na-" head="740032" relation="ATR"/>
+    <word id="740031" form="φάσθαι" line="2" lemma="φημί" postag="v--pne---" head="740027" relation="CO"/>
+    <word id="740032" form="ἔπος" line="2" lemma="ἔπος" postag="n-s---na-" head="740031" relation="OBJ"/>
+    <word id="740033" form="·" line="2" lemma="·" postag="u--------" head="740020" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0267-003" subdoc="AG.120">
+    <word id="740034" form="&quot;" line="3" lemma="&quot;" postag="u--------" head="740050" relation="PUNCT"/>
+    <word id="740035" form="παῦσαι" line="3" lemma="παύω" postag="v2samm---" head="0" relation="PRED"/>
+    <word id="740036" form="," line="3" lemma="," postag="u--------" head="740035" relation="PUNCT"/>
+    <word id="740037" form="μηδὲ" line="3" lemma="μηδέ" postag="b--------" head="740038" relation="AuxY"/>
+    <word id="740038" form="ῥάπιζ’" line="3" lemma="ῥαπίζω" postag="v2spma---" head="740035" relation="CO"/>
+    <word id="740039" form="," line="3" lemma="," postag="u--------" head="740035" relation="PUNCT"/>
+    <word id="740040" form="ἐπειὴ" line="3" lemma="ἐπειή" postag="d--------" head="740043" relation="ADV"/>
+    <word id="740041" form="φίλου" line="3" lemma="φίλος" postag="a-s---mg-" head="740042" relation="ATR"/>
+    <word id="740042" form="ἀνέρος" line="3" lemma="ἀνήρ" postag="n-s---mg-" head="740044" relation="ATR"/>
+    <word id="740043" form="ἐστὶ" line="3" lemma="εἰμί" postag="v3spia---" head="740038" relation="CO"/>
+    <word id="740044" form="ψυχή" line="4" lemma="ψυχή" postag="n-s---fn-" head="740043" relation="SBJ"/>
+    <word id="740045" form="," line="4" lemma="," postag="u--------" head="740035" relation="PUNCT"/>
+    <word id="740046" form="τὴν" line="4" lemma="ὁ" postag="l-s---fa-" head="740047" relation="OBJ"/>
+    <word id="740047" form="ἔγνων" line="4" lemma="γιγνώσκω" postag="v1saia---" head="740038" relation="CO"/>
+    <word id="740048" form="," line="4" lemma="," postag="u--------" head="740035" relation="PUNCT"/>
+    <word id="740049" form="φθεγξαμένης" line="4" lemma="φθέγγομαι" postag="v-sapmfg-" head="740050" relation="ADV"/>
+    <word id="740050" form="ἀίων" line="4" lemma="ἀίω" postag="v-sppamn-" head="740047" relation="ADV"/>
+    <word id="740051" form="&quot;" line="4" lemma="&quot;" postag="u--------" head="740035" relation="PUNCT"/>
+    <word id="740052" form="." line="4" lemma="." postag="u--------" head="740035" relation="PUNCT"/>
+  </sentence>
+</treebank>

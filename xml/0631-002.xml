@@ -1,0 +1,15 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0631-002" subdoc="AG.440">
+    <word id="723804" form="Μεγαρεῖς" line="1" section="AG" sub_section="440" lemma="Μεγαρεύς" postag="n-p---ma-" head="723806" relation="SBJ"/>
+    <word id="723805" form="δὲ" line="1" section="AG" sub_section="440" lemma="δέ" postag="b--------" head="723806" relation="AuxY"/>
+    <word id="723806" form="φεῦγε" line="1" section="AG" sub_section="440" lemma="φεύγω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="723807" form="πάντας" line="1" section="AG" sub_section="440" lemma="πᾶς" postag="a-p---ma-" head="723806" relation="OBJ"/>
+    <word id="723808" form="·" line="1" section="AG" sub_section="440" lemma="·" postag="u--------" head="723804" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0631-002" subdoc="AG.440">
+    <word id="723809" form="εἰσὶ" line="1" section="AG" sub_section="440" lemma="εἰμί" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="723810" form="γὰρ" line="1" section="AG" sub_section="440" lemma="γάρ" postag="d--------" head="723809" relation="AuxY"/>
+    <word id="723811" form="πικροί" line="1" section="AG" sub_section="440" lemma="πικρός" postag="a-p---mn-" head="723809" relation="PNOM"/>
+    <word id="723812" form="." line="1" section="AG" sub_section="440" lemma="." postag="u--------" head="723809" relation="PUNCT"/>
+  </sentence>
+</treebank>

@@ -1,0 +1,33 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0541-044" subdoc="AG.72">
+    <word id="462834" form="χαῖρε" line="1" lemma="χαίρω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="462835" form="," line="1" lemma="," postag="u--------" head="462834" relation="PUNCT"/>
+    <word id="462836" form="Νεοκλείδα" line="1" lemma="Νεοκλείδης" postag="n-d---mv-" head="462834" relation="ExD"/>
+    <word id="462837" form="," line="1" lemma="," postag="u--------" head="462834" relation="PUNCT"/>
+    <word id="462838" form="δίδυμον" line="1" lemma="δίδυμος" postag="a-s---na-" head="462839" relation="ATR"/>
+    <word id="462839" form="γένος" line="1" lemma="γένος" postag="n-s---na-" head="462834" relation="OBJ"/>
+    <word id="462840" form="," line="1" lemma="," postag="u--------" head="462834" relation="PUNCT"/>
+    <word id="462841" form="ὧν" line="1" lemma="ὅς" postag="p-p---ng-" head="462842" relation="ATR"/>
+    <word id="462842" form="ὁ" line="1" lemma="ὁ" postag="l-s---mn-" head="462847" relation="SBJ"/>
+    <word id="462843" form="μὲν" line="1" lemma="μέν" postag="d--------" head="462847" relation="AuxY"/>
+    <word id="462844" form="ὑμῶν" line="1" lemma="σύ" postag="p-p---cg-" head="462842" relation="ATR"/>
+    <word id="462845" form="πατρίδα" line="2" lemma="πατρίς" postag="n-s---fa-" head="462847" relation="OBJ"/>
+    <word id="462846" form="δουλοσύνας" line="2" lemma="δουλοσύνη" postag="n-s---fg-" head="462847" relation="OBJ"/>
+    <word id="462847" form="ῥύσαθ’" line="2" lemma="ῥύομαι" postag="v3saim---" head="462836" relation="ATR"/>
+    <word id="462848" form="," line="2" lemma="," postag="u--------" head="462834" relation="PUNCT"/>
+    <word id="462849" form="ὁ" line="2" lemma="ὁ" postag="l-s---mn-" head="462847" relation="CO/SBJ"/>
+    <word id="462850" form="δ’" line="2" lemma="δέ" postag="b--------" head="462847" relation="CO/AuxY"/>
+    <word id="462851" form="ἀφροσύνας" line="2" lemma="ἀφροσύνη" postag="n-s---fg-" head="462847" relation="CO/OBJ"/>
+    <word id="462852" form="." line="2" lemma="." postag="u--------" head="462834" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0541-044" subdoc="AG.438">
+    <word id="462853" form="Κορινθίῳ" line="1" lemma="Κορίνθιος" postag="n-s---md-" head="462854" relation="OBJ"/>
+    <word id="462854" form="πίστευε" line="1" lemma="πιστεύω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="462855" form="," line="1" lemma="," postag="u--------" head="462853" relation="PUNCT"/>
+    <word id="462856" form="καὶ" line="1" lemma="καί" postag="b--------" head="462858" relation="AuxY"/>
+    <word id="462857" form="μὴ" line="1" lemma="μή" postag="d--------" head="462858" relation="AuxZ"/>
+    <word id="462858" form="χρῶ" line="1" lemma="χράω" postag="v2spme---" head="462854" relation="CO"/>
+    <word id="462859" form="φίλῳ" line="1" lemma="φίλος" postag="a-s---md-" head="462858" relation="OBJ"/>
+    <word id="462860" form="." line="1" lemma="." postag="u--------" head="462853" relation="PUNCT"/>
+  </sentence>
+</treebank>
