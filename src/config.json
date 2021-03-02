@@ -1,25 +1,23 @@
 {
   "title": "GLAUx",
-  "subtitle": "Template for publishing collections of treebanks. See the [repository](https://github.com/perseids-publications/treebank-template/) for more information and documentation. If you would like to create a template with your own treebanks, send us a [message](https://docs.google.com/forms/d/e/1FAIpQLSf8yf6B3xlV31x0JKquRuIdXd6LVuX0V7I7id7ZLXbMwDo-UA/viewform).",
+  "subtitle": "The Greek Language AUtomated.",
   "doi": "10.5281/zenodo.3827930",
-  "copyright": "The Perseids Project",
-  "report": "https://github.com/perseids-publications/treebank-template/issues",
-  "github": "https://github.com/perseids-publications/treebank-template/",
-  "twitter": "https://twitter.com/PerseidsProject",
+  "copyright": "Pedalion",
+  "github": "https://github.com/perseids-publications/glaux",
+  "twitter": "https://twitter.com/pedalion_DH",
   "treebankReact": true,
   "collections": [
     {
-      "title": "Information",
-      "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/instructions/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more."
+      "title": "...",
+      "text": "..."
     },
     {
       "title": "Collection 1",
       "publications": [
         {
-          "path": "on-the-murder-of-eratosthenes",
-          "author": "Lysias",
+          "path": "bacchylides",
+          "author": "bacchylides",
           "work": "On the Murder of Eratosthenes",
-          "editors": "Vanessa Gorman",
           "sections": [
             {
               "locus": "1-50",
