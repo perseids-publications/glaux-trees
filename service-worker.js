@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glaux-trees/precache-manifest.cb344a629fdd5cdeeb511f0a21f385b6.js"
+  "/glaux-trees/precache-manifest.2c69e28588b0195d3ddca49b89c31841.js"
 );
 
 self.addEventListener('message', (event) => {
