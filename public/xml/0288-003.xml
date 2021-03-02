@@ -1,0 +1,43 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0288-003" subdoc="AG.304">
+    <word id="706424" form="ἀνδρὶ" line="1" section="AG" sub_section="304" lemma="ἀνήρ" postag="n-s---md-" head="706428" relation="ADV"/>
+    <word id="706425" form="μὲν" line="1" section="AG" sub_section="304" lemma="μέν" postag="d--------" head="706428" relation="AuxY"/>
+    <word id="706426" form="Ἱππαίμων" line="1" section="AG" sub_section="304" lemma="Ἱππαίμων" postag="n-s---mn-" head="706427" relation="ATR"/>
+    <word id="706427" form="ὄνομ’" line="1" section="AG" sub_section="304" lemma="ὄνομα" postag="n-s---na-" head="706428" relation="SBJ"/>
+    <word id="706428" form="ἦν" line="1" section="AG" sub_section="304" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="706429" form="," line="1" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706430" form="ἵππῳ" line="1" section="AG" sub_section="304" lemma="ἵππος" postag="n-s---md-" head="706428" relation="CO/ADV"/>
+    <word id="706431" form="δὲ" line="1" section="AG" sub_section="304" lemma="δέ" postag="b--------" head="706428" relation="AuxY"/>
+    <word id="706432" form="Πόδαργος" line="1" section="AG" sub_section="304" lemma="Πόδαργος" postag="n-s---mn-" head="706428" relation="CO/SBJ"/>
+    <word id="706433" form="," line="1" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706434" form="καὶ" line="2" section="AG" sub_section="304" lemma="καί" postag="b--------" head="706428" relation="CO/AuxY"/>
+    <word id="706435" form="κυνὶ" line="2" section="AG" sub_section="304" lemma="κύων" postag="n-s---md-" head="706428" relation="CO/SBJ"/>
+    <word id="706436" form="Λήθαργος" line="2" section="AG" sub_section="304" lemma="Λήθαργος" postag="a-s---mn-" head="706435" relation="ATR"/>
+    <word id="706437" form="," line="2" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706438" form="καὶ" line="2" section="AG" sub_section="304" lemma="καί" postag="b--------" head="706428" relation="CO/AuxY"/>
+    <word id="706439" form="θεράποντι" line="2" section="AG" sub_section="304" lemma="θεράπων" postag="n-s---md-" head="706428" relation="CO/ADV"/>
+    <word id="706440" form="Βάβης" line="2" section="AG" sub_section="304" lemma="Βάβα" postag="n-s---fg-" head="706428" relation="CO/SBJ"/>
+    <word id="706441" form="," line="2" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706442" form="Θεσσαλός" line="3" section="AG" sub_section="304" lemma="Θεσσαλός" postag="a-s---mn-" head="706440" relation="CO"/>
+    <word id="706443" form="," line="3" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706444" form="ἐκ" line="3" section="AG" sub_section="304" lemma="ἐκ" postag="r--------" head="706428" relation="CO/AuxP"/>
+    <word id="706445" form="Κρήτης" line="3" section="AG" sub_section="304" lemma="Κρήτη" postag="n-s---fg-" head="706444" relation="ATR"/>
+    <word id="706446" form="," line="3" section="AG" sub_section="304" lemma="," postag="u--------" head="706424" relation="PUNCT"/>
+    <word id="706447" form="Μάγνης" line="3" section="AG" sub_section="304" lemma="Μάγνης" postag="a-s---mn-" head="706448" relation="ATR"/>
+    <word id="706448" form="γένος" line="3" section="AG" sub_section="304" lemma="γένος" postag="n-s---nn-" head="706442" relation="CO"/>
+    <word id="706449" form="," line="3" section="AG" sub_section="304" lemma="," postag="u--------" head="706450" relation="AuxY"/>
+    <word id="706450" form="Αἵμονος" line="3" section="AG" sub_section="304" lemma="Αἵμων" postag="n-s---mg-" head="706448" relation="CO"/>
+    <word id="706451" form="υἱός" line="3" section="AG" sub_section="304" lemma="υἱός" postag="n-s---mn-" head="706450" relation="ATR"/>
+    <word id="706452" form="·" line="3" section="AG" sub_section="304" lemma="·" postag="u--------" head="706424" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0288-003" subdoc="AG.304">
+    <word id="706453" form="ὤλετο" line="4" section="AG" sub_section="304" lemma="ὄλλυμι" postag="v3saim---" head="0" relation="PRED"/>
+    <word id="706454" form="δ’" line="4" section="AG" sub_section="304" lemma="δέ" postag="b--------" head="706453" relation="AuxY"/>
+    <word id="706455" form="ἐν" line="4" section="AG" sub_section="304" lemma="ἐν" postag="r--------" head="706453" relation="AuxP"/>
+    <word id="706456" form="προμάχοις" line="4" section="AG" sub_section="304" lemma="πρόμαχος" postag="a-p---nd-" head="706455" relation="ADV"/>
+    <word id="706457" form="ὀξὺν" line="4" section="AG" sub_section="304" lemma="ὀξύς" postag="a-s---ma-" head="706458" relation="ATR"/>
+    <word id="706458" form="Ἄρη" line="4" section="AG" sub_section="304" lemma="Ἄρης" postag="n-s---ma-" head="706459" relation="OBJ"/>
+    <word id="706459" form="συνάγων" line="4" section="AG" sub_section="304" lemma="συνάγω" postag="v-sppamn-" head="706453" relation="ADV"/>
+    <word id="706460" form="." line="4" section="AG" sub_section="304" lemma="." postag="u--------" head="706453" relation="PUNCT"/>
+  </sentence>
+</treebank>

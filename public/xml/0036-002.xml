@@ -1,0 +1,308 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0036-002" subdoc="1">
+    <word id="189594" form="λῇς" line="1" speaker="ΜΥΡΣΩΝ" lemma="λάω" postag="v2spia---" head="0" relation="PRED"/>
+    <word id="189595" form="νύ" line="1" speaker="ΜΥΡΣΩΝ" lemma="νῦν" postag="d--------" head="189594" relation="ADV"/>
+    <word id="189596" form="τί" line="1" speaker="ΜΥΡΣΩΝ" lemma="τίς" postag="a-s---na-" head="189594" relation="ADV"/>
+    <word id="189597" form="μοι" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="189594" relation="OBJ"/>
+    <word id="189598" form="Λυκίδα" line="1" speaker="ΜΥΡΣΩΝ" lemma="Λυκίδης" postag="n-s---mg-" head="189594" relation="SBJ"/>
+    <word id="189599" form="Σικελὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="Σικελός" postag="a-s---na-" head="189600" relation="ATR"/>
+    <word id="189600" form="μέλος" line="1" speaker="ΜΥΡΣΩΝ" lemma="μέλος" postag="n-s---na-" head="189602" relation="OBJ"/>
+    <word id="189601" form="ἁδὺ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-s---na-" head="189600" relation="ATR"/>
+    <word id="189602" form="λιγαίνειν" line="1" speaker="ΜΥΡΣΩΝ" lemma="λιγαίνω" postag="v--pna---" head="189594" relation="OBJ"/>
+    <word id="189603" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189594" relation="PUNCT"/>
+    <word id="189604" form="ἱμερόεν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἱμερόεις" postag="a-s---nn-" head="189600" relation="ATR"/>
+    <word id="189605" form="γλυκύθυμον" line="2" speaker="ΜΥΡΣΩΝ" lemma="γλυκύθυμος" postag="a-s---nn-" head="189600" relation="ATR"/>
+    <word id="189606" form="ἐρωτικόν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐρωτικός" postag="a-s---nn-" head="189605" relation="ATR"/>
+    <word id="189607" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189594" relation="PUNCT"/>
+    <word id="189608" form="οἷον" line="2" speaker="ΜΥΡΣΩΝ" lemma="οἷος" postag="p-s---na-" head="189611" relation="OBJ"/>
+    <word id="189609" form="ὁ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="189612" relation="ATR"/>
+    <word id="189610" form="Κύκλωψ" line="2" speaker="ΜΥΡΣΩΝ" lemma="Κύκλωψ" postag="n-s---mn-" head="189611" relation="SBJ"/>
+    <word id="189611" form="ἄεισεν" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀείδω" postag="v3saia---" head="189600" relation="ATR"/>
+    <word id="189612" form="Πολύφαμος" line="3" speaker="ΜΥΡΣΩΝ" lemma="Πολύφαμος" postag="n-s---mn-" head="189611" relation="SBJ"/>
+    <word id="189613" form="ἐπᾳονίᾳ" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἐπᾳόνιος" postag="a-s---fd-" head="189614" relation="ATR"/>
+    <word id="189614" form="Γαλατείᾳ" line="3" speaker="ΜΥΡΣΩΝ" lemma="Γαλάτεια" postag="n-s---fd-" head="189611" relation="OBJ"/>
+    <word id="189615" form=";" line="3" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="189594" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0036-002" subdoc="4">
+    <word id="189616" form="κ-" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189618" relation="AuxY"/>
+    <word id="189617" form="ἐμοὶ" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="ἐγώ" postag="p-s---cd-" head="189618" relation="OBJ"/>
+    <word id="189618" form="συρίσδεν" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="συρίζω" postag="v--pna---" head="0" relation="PRED"/>
+    <word id="189619" form="," line="4" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189616" relation="PUNCT"/>
+    <word id="189620" form="Μύρσων" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="Μύρσος" postag="n-p---mg-" head="189618" relation="ExD"/>
+    <word id="189621" form="," line="4" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189616" relation="PUNCT"/>
+    <word id="189622" form="φίλον" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="φίλος" postag="a-s---ma-" head="189618" relation="OBJ"/>
+    <word id="189623" form="·" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189616" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0036-002" subdoc="4">
+    <word id="189624" form="ἀλλὰ" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="ἀλλά" postag="b--------" head="189626" relation="AuxY"/>
+    <word id="189625" form="τί" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="τίς" postag="a-s---na-" head="189626" relation="OBJ"/>
+    <word id="189626" form="μέλψω" line="4" speaker="ΛΥΚΙΔΑΣ" lemma="μέλπω" postag="v1sfia---" head="0" relation="PRED"/>
+    <word id="189627" form=";" line="4" speaker="ΛΥΚΙΔΑΣ" lemma=";" postag="u--------" head="189624" relation="PUNCT"/>
+  </sentence>
+  <sentence id="4" document_id="0036-002" subdoc="5">
+    <word id="189628" form="Σκύριον" line="5" speaker="ΜΥΡΣΩΝ" lemma="Σκύριος" postag="a-s---ma-" head="189633" relation="ATR"/>
+    <word id="189629" form="ὦ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὦ" postag="i--------" head="189630" relation="AuxZ"/>
+    <word id="189630" form="Λυκίδα" line="5" speaker="ΜΥΡΣΩΝ" lemma="Λυκίδης" postag="n-s---mg-" head="189633" relation="ATR"/>
+    <word id="189631" form="ζαλώμενον" line="5" speaker="ΜΥΡΣΩΝ" lemma="ζαλάω" postag="v-sppema-" head="189633" relation="ATR"/>
+    <word id="189632" form="ἁδὺν" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-s---ma-" head="189633" relation="ATR"/>
+    <word id="189633" form="ἔρωτα" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἔρως" postag="n-s---ma-" head="189644" relation="ExD"/>
+    <word id="189634" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189628" relation="PUNCT"/>
+    <word id="189635" form="λάθρια" line="6" speaker="ΜΥΡΣΩΝ" lemma="λάθριος" postag="a-p---na-" head="189637" relation="ATR"/>
+    <word id="189636" form="Πηλείδαο" line="6" speaker="ΜΥΡΣΩΝ" lemma="Πηλείδης" postag="n-s---mg-" head="189637" relation="ATR"/>
+    <word id="189637" form="φιλάματα" line="6" speaker="ΜΥΡΣΩΝ" lemma="φίλημα" postag="n-p---na-" head="189633" relation="APOS"/>
+    <word id="189638" form="," line="6" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189628" relation="PUNCT"/>
+    <word id="189639" form="λάθριον" line="6" speaker="ΜΥΡΣΩΝ" lemma="λάθριος" postag="a-s---fa-" head="189640" relation="ATR"/>
+    <word id="189640" form="εὐνάν" line="6" speaker="ΜΥΡΣΩΝ" lemma="εὐνή" postag="n-s---fa-" head="189637" relation="APOS"/>
+    <word id="189641" form="," line="6" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189628" relation="PUNCT"/>
+    <word id="189642" form="πῶς" line="7" speaker="ΜΥΡΣΩΝ" lemma="πῶς" postag="d--------" head="189644" relation="ADV"/>
+    <word id="189643" form="παῖς" line="7" speaker="ΜΥΡΣΩΝ" lemma="παῖς" postag="n-s---cn-" head="189644" relation="SBJ"/>
+    <word id="189644" form="ἕσσατο" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἕννυμι" postag="v3saim---" head="0" relation="PRED"/>
+    <word id="189645" form="φᾶρος" line="7" speaker="ΜΥΡΣΩΝ" lemma="φᾶρος" postag="n-s---na-" head="189643" relation="ATR"/>
+    <word id="189646" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189628" relation="PUNCT"/>
+    <word id="189647" form="ὅπως" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὅπως" postag="c--------" head="189644" relation="AuxC"/>
+    <word id="189648" form="δ’" line="7" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="189649" relation="AuxY"/>
+    <word id="189649" form="ἐψεύσατο" line="7" speaker="ΜΥΡΣΩΝ" lemma="ψεύδω" postag="v3saim---" head="189647" relation="ADV"/>
+    <word id="189650" form="μορφὰν" line="7" speaker="ΜΥΡΣΩΝ" lemma="μορφή" postag="n-s---fa-" head="189649" relation="OBJ"/>
+    <word id="189651" form="κ-" line="8" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="189657" relation="AuxY"/>
+    <word id="189652" form="ἐν" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐν" postag="r--------" head="189649" relation="AuxP"/>
+    <word id="189653" form="κώραισιν" line="8" speaker="ΜΥΡΣΩΝ" lemma="κόρη" postag="n-p---fd-" head="189652" relation="ADV"/>
+    <word id="189654" form="ὅπως" line="8" speaker="ΜΥΡΣΩΝ" lemma="ὅπως" postag="c--------" head="189649" relation="AuxC"/>
+    <word id="189655" form="Λυκομηδίσιν" line="8" speaker="ΜΥΡΣΩΝ" lemma="Λυκομηδίς" postag="n-p---fd-" head="189656" relation="OBJ"/>
+    <word id="189656" form="ἁπαλέγοισα" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐπαλέγω" postag="v-sppafn-" head="189657" relation="ADV"/>
+    <word id="189657" form="ἠείδη" line="9" speaker="ΜΥΡΣΩΝ" lemma="οἶδα" postag="v3slia---" head="189654" relation="ADV"/>
+    <word id="189658" form="κατὰ" line="9" speaker="ΜΥΡΣΩΝ" lemma="κατά" postag="r--------" head="189657" relation="AuxP"/>
+    <word id="189659" form="παστὸν" line="9" speaker="ΜΥΡΣΩΝ" lemma="παστός" postag="n-s---ma-" head="189658" relation="ADV"/>
+    <word id="189660" form="Ἀχιλλέα" line="9" speaker="ΜΥΡΣΩΝ" lemma="Ἀχιλλεύς" postag="n-s---ma-" head="189658" relation="ADV"/>
+    <word id="189661" form="Δηϊδάμεια" line="9" speaker="ΜΥΡΣΩΝ" lemma="Δηιδαμεία" postag="n-s---fn-" head="189660" relation="ATR"/>
+    <word id="189662" form="." line="9" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189628" relation="PUNCT"/>
+  </sentence>
+  <sentence id="5" document_id="0036-002" subdoc="10">
+    <word id="189663" form="ἅρπασε" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="ἁρπάζω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="189664" form="τὰν" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-s---fa-" head="189665" relation="ATR"/>
+    <word id="189665" form="Ἑλέναν" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="Ἑλένη" postag="n-s---fa-" head="189663" relation="OBJ"/>
+    <word id="189666" form="πόθ’" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="πότε" postag="d--------" head="189663" relation="ADV"/>
+    <word id="189667" form="ὁ" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-s---mn-" head="189668" relation="ATR"/>
+    <word id="189668" form="βουκόλος" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="βούκολος" postag="n-s---mn-" head="189663" relation="SBJ"/>
+    <word id="189669" form="," line="10" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189663" relation="PUNCT"/>
+    <word id="189670" form="ἆγε" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="ἄγω" postag="v3siia---" head="189663" relation="CO"/>
+    <word id="189671" form="δ’" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189670" relation="AuxY"/>
+    <word id="189672" form="ἐς" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="εἰς" postag="r--------" head="189670" relation="AuxP"/>
+    <word id="189673" form="Ἴδαν" line="10" speaker="ΛΥΚΙΔΑΣ" lemma="Ἴδη" postag="n-s---fa-" head="189672" relation="OBJ"/>
+    <word id="189674" form="," line="10" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189663" relation="PUNCT"/>
+    <word id="189675" form="Οἰνώνᾳ" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="Οἰνώνη" postag="n-s---fd-" head="189677" relation="ATR"/>
+    <word id="189676" form="κακὸν" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="κακός" postag="a-s---na-" head="189677" relation="ATR"/>
+    <word id="189677" form="ἄλγος" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="ἄλγος" postag="n-s---na-" head="189670" relation="SBJ"/>
+    <word id="189678" form="." line="11" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189663" relation="PUNCT"/>
+  </sentence>
+  <sentence id="6" document_id="0036-002" subdoc="11">
+    <word id="189679" form="ἐχώσατο" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="χόω" postag="v3saim---" head="0" relation="PRED"/>
+    <word id="189680" form="δ’" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189679" relation="AuxY"/>
+    <word id="189681" form="ἁ" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-s---fn-" head="189682" relation="ATR"/>
+    <word id="189682" form="Λακεδαίμων" line="11" speaker="ΛΥΚΙΔΑΣ" lemma="Λακεδαίμων" postag="n-s---fn-" head="189679" relation="SBJ"/>
+    <word id="189683" form="," line="11" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189679" relation="PUNCT"/>
+    <word id="189684" form="πάντα" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="πᾶς" postag="a-s---ma-" head="189686" relation="ATR"/>
+    <word id="189685" form="δὲ" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189687" relation="AuxY"/>
+    <word id="189686" form="λαὸν" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="λαός" postag="n-s---ma-" head="189687" relation="OBJ"/>
+    <word id="189687" form="ἄγειρεν" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="ἀγείρω" postag="v3saia---" head="189679" relation="CO"/>
+    <word id="189688" form="Ἀχαϊκόν" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="Ἀχαϊκός" postag="a-s---ma-" head="189686" relation="ATR"/>
+    <word id="189689" form="," line="12" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189679" relation="PUNCT"/>
+    <word id="189690" form="οὐδέ" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="οὐδέ" postag="d--------" head="189700" relation="AuxY"/>
+    <word id="189691" form="τις" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="τις" postag="a-s---cn-" head="189700" relation="SBJ"/>
+    <word id="189692" form="Ἕλλην" line="12" speaker="ΛΥΚΙΔΑΣ" lemma="Ἕλλην" postag="n-s---mn-" head="189691" relation="ATR"/>
+    <word id="189693" form="οὔτε" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="οὔτε" postag="b--------" head="189694" relation="AuxY"/>
+    <word id="189694" form="Μυκηναίων" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="Μυκηναῖος" postag="a-p---mg-" head="189692" relation="CO"/>
+    <word id="189695" form="οὔτ’" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="οὔτε" postag="b--------" head="189696" relation="AuxY"/>
+    <word id="189696" form="Ἤλιδος" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="Ἦλις" postag="n-s---fg-" head="189694" relation="CO"/>
+    <word id="189697" form="οὔτε" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="οὔτε" postag="b--------" head="189698" relation="AuxY"/>
+    <word id="189698" form="Λακώνων" line="13" speaker="ΛΥΚΙΔΑΣ" lemma="Λάκων" postag="n-p---mg-" head="189696" relation="CO"/>
+    <word id="189699" form="," line="13" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189679" relation="PUNCT"/>
+    <word id="189700" form="μεῖνεν" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="μένω" postag="v3saia---" head="189687" relation="CO"/>
+    <word id="189701" form="ἑὸν" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="ἑός" postag="a-s---na-" head="189706" relation="ATR"/>
+    <word id="189702" form="κατὰ" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="κατά" postag="r--------" head="189700" relation="AuxP"/>
+    <word id="189703" form="δῶμα" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="δῶμα" postag="n-s---na-" head="189702" relation="ADV"/>
+    <word id="189704" form="φυγὼν" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="φεύγω" postag="v-sapamn-" head="189700" relation="ADV"/>
+    <word id="189705" form="δύστανον" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="δύστηνος" postag="a-s---ma-" head="189706" relation="ATR"/>
+    <word id="189706" form="Ἄρηα" line="14" speaker="ΛΥΚΙΔΑΣ" lemma="Ἄρης" postag="n-s---ma-" head="189704" relation="OBJ"/>
+    <word id="189707" form="." line="14" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189679" relation="PUNCT"/>
+  </sentence>
+  <sentence id="7" document_id="0036-002" subdoc="15">
+    <word id="189708" form="λάνθανε" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="λανθάνω" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="189709" form="δ’" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189708" relation="AuxY"/>
+    <word id="189710" form="ἐν" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="ἐν" postag="r--------" head="189708" relation="AuxP"/>
+    <word id="189711" form="κώραις" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="κώρα" postag="n-p---fd-" head="189710" relation="ADV"/>
+    <word id="189712" form="Λυκομηδίσι" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="Λυκομηδίς" postag="a-p---fd-" head="189711" relation="ATR"/>
+    <word id="189713" form="μοῦνος" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="μόνος" postag="a-s---mn-" head="189714" relation="ATR"/>
+    <word id="189714" form="Ἀχιλλεύς" line="15" speaker="ΛΥΚΙΔΑΣ" lemma="Ἀχιλλεύς" postag="n-s---mn-" head="189708" relation="SBJ"/>
+    <word id="189715" form="," line="15" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189708" relation="PUNCT"/>
+    <word id="189716" form="εἴρια" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="ἔριον" postag="n-p---nn-" head="189720" relation="OBJ"/>
+    <word id="189717" form="δ’" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189720" relation="AuxY"/>
+    <word id="189718" form="ἀνθ’" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="ἀντί" postag="r--------" head="189720" relation="AuxP"/>
+    <word id="189719" form="ὅπλων" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="ὅπλον" postag="n-p---ng-" head="189718" relation="ADV"/>
+    <word id="189720" form="ἐδιδάσκετο" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="διδάσκω" postag="v3siie---" head="189708" relation="CO"/>
+    <word id="189721" form="," line="16" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189708" relation="PUNCT"/>
+    <word id="189722" form="καὶ" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189727" relation="AuxY"/>
+    <word id="189723" form="χερὶ" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="χείρ" postag="n-s---fd-" head="189727" relation="ADV"/>
+    <word id="189724" form="λευκᾷ" line="16" speaker="ΛΥΚΙΔΑΣ" lemma="λευκός" postag="a-s---fd-" head="189723" relation="ATR"/>
+    <word id="189725" form="παρθενικὸν" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="παρθενικός" postag="a-s---ma-" head="189726" relation="ATR"/>
+    <word id="189726" form="κόπον" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="κόπος" postag="n-s---ma-" head="189727" relation="OBJ"/>
+    <word id="189727" form="εἶχεν" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="ἔχω" postag="v3siia---" head="189720" relation="CO"/>
+    <word id="189728" form="," line="17" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189708" relation="PUNCT"/>
+    <word id="189729" form="ἐφαίνετο" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="φαίνω" postag="v3siie---" head="189727" relation="CO"/>
+    <word id="189730" form="δ’" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189729" relation="AuxY"/>
+    <word id="189731" form="ἠΰτε" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="ἠύτε" postag="d--------" head="189729" relation="ADV"/>
+    <word id="189732" form="κώρα" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="κόρη" postag="n-s---fn-" head="189729" relation="SBJ"/>
+    <word id="189733" form="·" line="17" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189708" relation="PUNCT"/>
+  </sentence>
+  <sentence id="8" document_id="0036-002" subdoc="18">
+    <word id="189734" form="καὶ" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189738" relation="AuxY"/>
+    <word id="189735" form="γὰρ" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="γάρ" postag="d--------" head="189738" relation="AuxY"/>
+    <word id="189736" form="ἴσον" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="ἴσος" postag="a-s---na-" head="189738" relation="ADV"/>
+    <word id="189737" form="τήναις" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="ἐκεῖνος" postag="a-p---fd-" head="189736" relation="ADV"/>
+    <word id="189738" form="θηλύνετο" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="θηλύνω" postag="v3siie---" head="0" relation="PRED"/>
+    <word id="189739" form="," line="18" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189734" relation="PUNCT"/>
+    <word id="189740" form="καὶ" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189744" relation="AuxY"/>
+    <word id="189741" form="τόσον" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="τόσος" postag="a-s---nn-" head="189742" relation="ATR"/>
+    <word id="189742" form="ἄνθος" line="18" speaker="ΛΥΚΙΔΑΣ" lemma="ἄνθος" postag="n-s---nn-" head="189744" relation="SBJ"/>
+    <word id="189743" form="χιονέαις" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="χιόνεος" postag="a-p---fd-" head="189745" relation="ATR"/>
+    <word id="189744" form="πόρφυρε" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="πορφύρω" postag="v3siia---" head="189738" relation="CO"/>
+    <word id="189745" form="παρηίσι" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="παρηίς" postag="n-p---fd-" head="189744" relation="ADV"/>
+    <word id="189746" form="," line="19" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189734" relation="PUNCT"/>
+    <word id="189747" form="καὶ" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189751" relation="AuxY"/>
+    <word id="189748" form="τὸ" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-s---nn-" head="189749" relation="ATR"/>
+    <word id="189749" form="βάδισμα" line="19" speaker="ΛΥΚΙΔΑΣ" lemma="βάδισμα" postag="n-s---nn-" head="189751" relation="OBJ"/>
+    <word id="189750" form="παρθενικῆς" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="παρθενική" postag="n-s---fg-" head="189749" relation="ATR"/>
+    <word id="189751" form="ἐβάδιζε" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="βαδίζω" postag="v3siia---" head="189744" relation="CO"/>
+    <word id="189752" form="," line="20" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189734" relation="PUNCT"/>
+    <word id="189753" form="κόμας" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="κόμη" postag="n-p---fa-" head="189755" relation="OBJ"/>
+    <word id="189754" form="δ’" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189755" relation="AuxY"/>
+    <word id="189755" form="ἐπύκαζε" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="πυκάζω" postag="v3siia---" head="189751" relation="CO"/>
+    <word id="189756" form="καλύπτρᾳ" line="20" speaker="ΛΥΚΙΔΑΣ" lemma="κάλυπτρα" postag="n-s---fd-" head="189755" relation="OBJ"/>
+    <word id="189757" form="." line="20" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189734" relation="PUNCT"/>
+  </sentence>
+  <sentence id="9" document_id="0036-002" subdoc="21">
+    <word id="189758" form="θυμὸν" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="θυμός" postag="n-s---ma-" head="189761" relation="OBJ"/>
+    <word id="189759" form="δ’" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189761" relation="AuxY"/>
+    <word id="189760" form="ἀνέρος" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="ἀνήρ" postag="n-s---mg-" head="189761" relation="SBJ"/>
+    <word id="189761" form="εἶχε" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="ἔχω" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="189762" form="," line="21" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189758" relation="PUNCT"/>
+    <word id="189763" form="καὶ" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189765" relation="AuxY"/>
+    <word id="189764" form="ἀνέρος" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="ἀνήρ" postag="n-s---mg-" head="189766" relation="ATR"/>
+    <word id="189765" form="εἶχεν" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="ἔχω" postag="v3siia---" head="189761" relation="CO"/>
+    <word id="189766" form="ἔρωτα" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="ἔρως" postag="n-s---ma-" head="189765" relation="OBJ"/>
+    <word id="189767" form="·" line="21" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189758" relation="PUNCT"/>
+  </sentence>
+  <sentence id="10" document_id="0036-002" subdoc="22">
+    <word id="189768" form="ἐξ" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="ἐκ" postag="r--------" head="189773" relation="AuxP"/>
+    <word id="189769" form="ἀοῦς" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="ἠώς" postag="n-s---fg-" head="189768" relation="ADV"/>
+    <word id="189770" form="δ’" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189773" relation="AuxY"/>
+    <word id="189771" form="ἐπὶ" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="ἐπί" postag="r--------" head="189773" relation="AuxP"/>
+    <word id="189772" form="νύκτα" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="νύξ" postag="n-s---fa-" head="189771" relation="ADV"/>
+    <word id="189773" form="παρίζετο" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="παρίζω" postag="v3siie---" head="0" relation="PRED"/>
+    <word id="189774" form="Δηϊδαμείᾳ" line="22" speaker="ΛΥΚΙΔΑΣ" lemma="Δηιδαμεία" postag="n-s---fd-" head="189773" relation="OBJ"/>
+    <word id="189775" form="," line="22" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189768" relation="PUNCT"/>
+    <word id="189776" form="καὶ" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189780" relation="AuxY"/>
+    <word id="189777" form="ποτὲ" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="ποτέ" postag="d--------" head="189780" relation="ADV"/>
+    <word id="189778" form="μὲν" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="μέν" postag="d--------" head="189780" relation="AuxY"/>
+    <word id="189779" form="τήνας" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="ἐκεῖνος" postag="a-p---fa-" head="189781" relation="ATR"/>
+    <word id="189780" form="ἐφίλει" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="φιλέω" postag="v3siia---" head="189773" relation="PRED"/>
+    <word id="189781" form="χέρα" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="χείρ" postag="n-s---fa-" head="189780" relation="OBJ"/>
+    <word id="189782" form="," line="23" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189768" relation="PUNCT"/>
+    <word id="189783" form="πολλάκι" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="πολλάκις" postag="d--------" head="189788" relation="ADV"/>
+    <word id="189784" form="δ’" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189788" relation="AuxY"/>
+    <word id="189785" form="αὐτᾶς" line="23" speaker="ΛΥΚΙΔΑΣ" lemma="αὐτός" postag="a-s---fg-" head="189786" relation="ATR"/>
+    <word id="189786" form="στάμονα" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="στάμων" postag="n-s---ma-" head="189788" relation="OBJ"/>
+    <word id="189787" form="καλὸν" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="καλός" postag="a-s---ma-" head="189786" relation="ATR"/>
+    <word id="189788" form="ἄειρε" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="ἀείρω" postag="v3saia---" head="189780" relation="CO"/>
+    <word id="189789" form="," line="24" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189768" relation="PUNCT"/>
+    <word id="189790" form="τὰ" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-p---na-" head="189793" relation="ATR"/>
+    <word id="189791" form="δαίδαλα" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="δαίδαλος" postag="a-p---na-" head="189793" relation="ATR"/>
+    <word id="189792" form="δ’" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189794" relation="AuxY"/>
+    <word id="189793" form="ἄτρι’" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="ἄτριον" postag="n-p---na-" head="189794" relation="OBJ"/>
+    <word id="189794" form="ἐπῄνει" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="ἐπαινέω" postag="v3siia---" head="189788" relation="CO"/>
+    <word id="189795" form="·" line="24" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189768" relation="PUNCT"/>
+  </sentence>
+  <sentence id="11" document_id="0036-002" subdoc="25">
+    <word id="189796" form="ἤσθιε" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="ἐσθίω" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="189797" form="δ’" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189796" relation="AuxY"/>
+    <word id="189798" form="οὐκ" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="οὐ" postag="d--------" head="189799" relation="AuxZ"/>
+    <word id="189799" form="ἄλλᾳ" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="ἄλλῃ" postag="d--------" head="189796" relation="ADV"/>
+    <word id="189800" form="σὺν" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="σύν" postag="r--------" head="189796" relation="AuxP"/>
+    <word id="189801" form="ὁμάλικι" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="ὁμᾶλιξ" postag="n-s---fd-" head="189800" relation="ADV"/>
+    <word id="189802" form="," line="25" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189796" relation="PUNCT"/>
+    <word id="189803" form="πάντα" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="πᾶς" postag="a-p---na-" head="189805" relation="OBJ"/>
+    <word id="189804" form="δ’" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189805" relation="AuxY"/>
+    <word id="189805" form="ἐποίει" line="25" speaker="ΛΥΚΙΔΑΣ" lemma="ποιέω" postag="v3siia---" head="189796" relation="CO"/>
+    <word id="189806" form="σπεύδων" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="σπεύδω" postag="v-sppamn-" head="189805" relation="ADV"/>
+    <word id="189807" form="κοινὸν" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="κοινός" postag="a-s---na-" head="189809" relation="ATR"/>
+    <word id="189808" form="ἐς" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="εἰς" postag="r--------" head="189805" relation="AuxP"/>
+    <word id="189809" form="ὕπνον" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="ὕπνος" postag="n-s---ma-" head="189808" relation="OBJ"/>
+    <word id="189810" form="." line="26" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189796" relation="PUNCT"/>
+  </sentence>
+  <sentence id="12" document_id="0036-002" subdoc="26">
+    <word id="189811" form="ἔλεξέ" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="λέγω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="189812" form="νυ" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="νυν" postag="d--------" head="189811" relation="AuxY"/>
+    <word id="189813" form="καὶ" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="καί" postag="b--------" head="189811" relation="AuxZ"/>
+    <word id="189814" form="λόγον" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="λόγος" postag="n-s---ma-" head="189811" relation="OBJ"/>
+    <word id="189815" form="αὐτᾷ" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="αὐτός" postag="a-s---fd-" head="189814" relation="ATR"/>
+    <word id="189816" form="·" line="26" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189811" relation="PUNCT"/>
+  </sentence>
+  <sentence id="13" document_id="0036-002" subdoc="27">
+    <word id="189817" form="&quot;" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="&quot;" postag="u--------" head="189833" relation="PUNCT"/>
+    <word id="189818" form="ἅλλαι" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="ἄλλος" postag="a-p---fn-" head="189823" relation="ATR"/>
+    <word id="189819" form="μὲν" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="μέν" postag="d--------" head="189820" relation="AuxY"/>
+    <word id="189820" form="κνώσσουσι" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="κνώσσω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="189821" form="σὺν" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="σύν" postag="r--------" head="189820" relation="AuxP"/>
+    <word id="189822" form="ἀλλάλαισιν" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="ἀλλήλων" postag="p-p---fd-" head="189821" relation="ADV"/>
+    <word id="189823" form="ἀδελφαί" line="27" speaker="ΛΥΚΙΔΑΣ" lemma="ἀδελφή" postag="n-p---fn-" head="189820" relation="SBJ"/>
+    <word id="189824" form="," line="27" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189818" relation="PUNCT"/>
+    <word id="189825" form="αὐτὰρ" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="ἀτάρ" postag="d--------" head="189833" relation="AuxY"/>
+    <word id="189826" form="ἐγὼ" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="ἐγώ" postag="p-s---cn-" head="189833" relation="CO/SBJ"/>
+    <word id="189827" form="μώνα" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="μόνος" postag="a-s---fn-" head="189833" relation="CO/PNOM"/>
+    <word id="189828" form="," line="28" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189818" relation="PUNCT"/>
+    <word id="189829" form="μώνα" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="μόνος" postag="a-s---fn-" head="189832" relation="ATR"/>
+    <word id="189830" form="δὲ" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189833" relation="AuxY"/>
+    <word id="189831" form="σὺ" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="σύ" postag="p-s---cn-" head="189833" relation="SBJ"/>
+    <word id="189832" form="νύμφα" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="νύμφη" postag="n-s---fn-" head="189833" relation="OBJ"/>
+    <word id="189833" form="καθεύδεις" line="28" speaker="ΛΥΚΙΔΑΣ" lemma="καθεύδω" postag="v2spia---" head="189820" relation="CO"/>
+    <word id="189834" form="." line="28" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189818" relation="PUNCT"/>
+  </sentence>
+  <sentence id="14" document_id="0036-002" subdoc="29">
+    <word id="189835" form="αἱ" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-p---fn-" head="189837" relation="ATR"/>
+    <word id="189836" form="δύο" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="δύο" postag="a--------" head="189837" relation="ATR"/>
+    <word id="189837" form="παρθενικαὶ" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="παρθενική" postag="n-p---fn-" head="0" relation="PRED/SBJ"/>
+    <word id="189838" form="συνομάλικες" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="συνομῆλιξ" postag="n-p---fn-" head="189837" relation="ATR"/>
+    <word id="189839" form="," line="29" speaker="ΛΥΚΙΔΑΣ" lemma="," postag="u--------" head="189835" relation="PUNCT"/>
+    <word id="189840" form="αἱ" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-p---fn-" head="189841" relation="ATR"/>
+    <word id="189841" form="δύο" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="δύο" postag="a--------" head="189838" relation="CO"/>
+    <word id="189842" form="καλαί" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="καλός" postag="n-p---fn-" head="189841" relation="ATR"/>
+    <word id="189843" form="·" line="29" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189835" relation="PUNCT"/>
+  </sentence>
+  <sentence id="15" document_id="0036-002" subdoc="30">
+    <word id="189844" form="ἀλλὰ" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="ἀλλά" postag="b--------" head="189848" relation="AuxY"/>
+    <word id="189845" form="μόναι" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="μόνος" postag="a-p---fn-" head="189848" relation="ADV"/>
+    <word id="189846" form="κατὰ" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="κατά" postag="r--------" head="189848" relation="AuxP"/>
+    <word id="189847" form="λέκτρα" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="λέκτρον" postag="n-p---na-" head="189846" relation="ADV"/>
+    <word id="189848" form="καθεύδομες" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="καθεύδω" postag="v1ppia---" head="0" relation="PRED"/>
+    <word id="189849" form="·" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="·" postag="u--------" head="189844" relation="PUNCT"/>
+  </sentence>
+  <sentence id="16" document_id="0036-002" subdoc="30">
+    <word id="189850" form="ἁ" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="ὁ" postag="l-s---fn-" head="189854" relation="ATR"/>
+    <word id="189851" form="δὲ" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="δέ" postag="b--------" head="189859" relation="AuxY"/>
+    <word id="189852" form="πονηρὰ" line="30" speaker="ΛΥΚΙΔΑΣ" lemma="πονηρός" postag="a-s---fn-" head="189854" relation="ATR"/>
+    <word id="189853" form="Νυσαία" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="Νυσαῖος" postag="a-s---fn-" head="189854" relation="ATR"/>
+    <word id="189854" form="δολία" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="δολία" postag="n-s---fn-" head="189859" relation="SBJ"/>
+    <word id="189855" form="με" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="ἐγώ" postag="p-s---ca-" head="189859" relation="OBJ"/>
+    <word id="189856" form="κακῶς" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="κακός" postag="d--------" head="189859" relation="ADV"/>
+    <word id="189857" form="ἀπὸ" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="ἀπό" postag="r--------" head="189859" relation="AuxP"/>
+    <word id="189858" form="σεῖο" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="σύ" postag="p-s---cg-" head="189857" relation="OBJ"/>
+    <word id="189859" form="μερίσδει" line="31" speaker="ΛΥΚΙΔΑΣ" lemma="μερίζω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="189860" form="." line="31" speaker="ΛΥΚΙΔΑΣ" lemma="." postag="u--------" head="189850" relation="PUNCT"/>
+  </sentence>
+  <sentence id="17" document_id="0036-002" subdoc="32">
+    <word id="189861" form="οὐ" line="32" speaker="ΛΥΚΙΔΑΣ" lemma="οὐ" postag="d--------" head="189865" relation="AuxZ"/>
+    <word id="189862" form="γὰρ" line="32" speaker="ΛΥΚΙΔΑΣ" lemma="γάρ" postag="d--------" head="189865" relation="AuxY"/>
+    <word id="189863" form="ἐγὼ" line="32" speaker="ΛΥΚΙΔΑΣ" lemma="ἐγώ" postag="p-s---cn-" head="189865" relation="SBJ"/>
+    <word id="189864" form="σέο" line="32" speaker="ΛΥΚΙΔΑΣ" lemma="σύ" postag="p-s---cg-" head="189865" relation="OBJ"/>
+    <word id="189865" form="G?" form_original="[Gx]" line="32" speaker="ΛΥΚΙΔΑΣ" lemma="_" postag="z--------" head="0" relation="GAP"/>
+  </sentence>
+</treebank>

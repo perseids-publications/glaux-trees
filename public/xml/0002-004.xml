@@ -1,0 +1,42 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0002-004" subdoc="AG.40">
+    <word id="640921" form="μή" line="1" lemma="μή" postag="d--------" head="640930" relation="AuxZ"/>
+    <word id="640922" form="ποτε" line="1" lemma="ποτέ" postag="d--------" head="640930" relation="ADV"/>
+    <word id="640923" form="," line="1" lemma="," postag="u--------" head="640921" relation="PUNCT"/>
+    <word id="640924" form="τὸν" line="1" lemma="ὁ" postag="l-s---ma-" head="640927" relation="ATR"/>
+    <word id="640925" form="παρεόντα" line="1" lemma="πάρειμι" postag="v-sppama-" head="640927" relation="ATR"/>
+    <word id="640926" form="παρεὶς" line="1" lemma="παρίημι" postag="v-sapamn-" head="640930" relation="ADV"/>
+    <word id="640927" form="φίλον" line="1" lemma="φίλος" postag="a-s---ma-" head="640926" relation="OBJ"/>
+    <word id="640928" form="," line="1" lemma="," postag="u--------" head="640921" relation="PUNCT"/>
+    <word id="640929" form="ἄλλον" line="1" lemma="ἄλλος" postag="a-s---ma-" head="640930" relation="OBJ"/>
+    <word id="640930" form="ἐρεύνα" line="1" lemma="ἐρευνάω" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="640931" form="," line="1" lemma="," postag="u--------" head="640921" relation="PUNCT"/>
+    <word id="640932" form="δειλῶν" line="2" lemma="δειλός" postag="a-p---mg-" head="640933" relation="ATR"/>
+    <word id="640933" form="ἀνθρώπων" line="2" lemma="ἄνθρωπος" postag="n-p---mg-" head="640934" relation="ATR"/>
+    <word id="640934" form="ῥήμασι" line="2" lemma="ῥῆμα" postag="n-p---nd-" head="640935" relation="ADV"/>
+    <word id="640935" form="πειθόμενος" line="2" lemma="πείθω" postag="v-sppemn-" head="640930" relation="ADV"/>
+    <word id="640936" form="." line="2" lemma="." postag="u--------" head="640921" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0002-004" subdoc="AG.113">
+    <word id="640937" form="οὐκ" line="1" lemma="οὐ" postag="d--------" head="640938" relation="AuxZ"/>
+    <word id="640938" form="ἐθέλω" line="1" lemma="ἐθέλω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="640939" form="πλουτεῖν" line="1" lemma="πλουτέω" postag="v--pna---" head="640938" relation="OBJ"/>
+    <word id="640940" form="," line="1" lemma="," postag="u--------" head="640942" relation="AuxY"/>
+    <word id="640941" form="οὐκ" line="1" lemma="οὐ" postag="d--------" head="640942" relation="AuxZ"/>
+    <word id="640942" form="εὔχομαι" line="1" lemma="εὔχομαι" postag="v1spie---" head="640938" relation="CO"/>
+    <word id="640943" form="·" line="1" lemma="·" postag="u--------" head="640937" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0002-004" subdoc="AG.113">
+    <word id="640944" form="ἀλλά" line="1" lemma="ἀλλά" postag="b--------" head="640946" relation="AuxY"/>
+    <word id="640945" form="μοι" line="1" lemma="ἐγώ" postag="p-s---cd-" head="640946" relation="OBJ"/>
+    <word id="640946" form="εἴη" line="1" lemma="εἰμί" postag="v3spoa---" head="0" relation="PRED"/>
+    <word id="640947" form="ζῆν" line="2" lemma="ζάω" postag="v--pna---" head="640946" relation="SBJ"/>
+    <word id="640948" form="ἐκ" line="2" lemma="ἐκ" postag="r--------" head="640947" relation="AuxP"/>
+    <word id="640949" form="τῶν" line="2" lemma="ὁ" postag="l-p---ng-" head="640950" relation="ATR"/>
+    <word id="640950" form="ὀλίγων" line="2" lemma="ὀλίγος" postag="a-p---ng-" head="640948" relation="ADV"/>
+    <word id="640951" form="μηδὲν" line="2" lemma="μηδείς" postag="a-s---na-" head="640952" relation="OBJ"/>
+    <word id="640952" form="ἔχοντα" line="2" lemma="ἔχω" postag="v-sppama-" head="640947" relation="ADV"/>
+    <word id="640953" form="κακόν" line="2" lemma="κακός" postag="a-s---na-" head="640952" relation="OBJ"/>
+    <word id="640954" form="." line="2" lemma="." postag="u--------" head="640944" relation="PUNCT"/>
+  </sentence>
+</treebank>

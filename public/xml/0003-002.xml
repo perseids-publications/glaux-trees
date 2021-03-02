@@ -1,0 +1,46 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0003-002" subdoc="AG.45">
+    <word id="686585" form="μνῆμα" line="1" lemma="μνῆμα" postag="n-s---na-" head="0" relation="PRED/SBJ"/>
+    <word id="686586" form="μὲν" line="1" lemma="μέν" postag="d--------" head="686585" relation="AuxY"/>
+    <word id="686587" form="Ἑλλὰς" line="1" lemma="Ἑλλάς" postag="n-s---fn-" head="686585" relation="ATR"/>
+    <word id="686588" form="ἅπασ’" line="1" lemma="ἅπας" postag="a-s---fn-" head="686585" relation="ATR"/>
+    <word id="686589" form="Εὐριπίδου" line="1" lemma="Εὐριπίδης" postag="n-s---mg-" head="686588" relation="ATR"/>
+    <word id="686590" form="·" line="1" lemma="·" postag="u--------" head="686585" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0003-002" subdoc="AG.45">
+    <word id="686591" form="ὀστέα" line="1" lemma="ὀστέον" postag="n-p---nn-" head="686593" relation="OBJ"/>
+    <word id="686592" form="δ’" line="1" lemma="δέ" postag="b--------" head="686593" relation="AuxY"/>
+    <word id="686593" form="ἴσχει" line="1" lemma="ἴσχω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="686594" form="γῆ" line="2" lemma="γῆ" postag="n-s---fn-" head="686593" relation="SBJ"/>
+    <word id="686595" form="Μακεδών" line="2" lemma="Μακεδών" postag="n-s---mn-" head="686594" relation="ATR"/>
+    <word id="686596" form="ἢ" line="2" lemma="ἤ" postag="b--------" head="686598" relation="AuxY"/>
+    <word id="686597" form="γὰρ" line="2" lemma="γάρ" postag="d--------" head="686598" relation="AuxY"/>
+    <word id="686598" form="δέξατο" line="2" lemma="δέχομαι" postag="v3saim---" head="686593" relation="CO"/>
+    <word id="686599" form="τέρμα" line="2" lemma="τέρμα" postag="n-s---nn-" head="686598" relation="OBJ"/>
+    <word id="686600" form="βίου" line="2" lemma="βίος" postag="n-s---mg-" head="686599" relation="ATR"/>
+    <word id="686601" form="." line="2" lemma="." postag="u--------" head="686591" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0003-002" subdoc="AG.45">
+    <word id="686602" form="πατρὶς" line="3" lemma="πατρίς" postag="a-s---fn-" head="0" relation="PRED/PNOM"/>
+    <word id="686603" form="δ’" line="3" lemma="δέ" postag="b--------" head="686602" relation="AuxY"/>
+    <word id="686604" form="Ἑλλάδος" line="3" lemma="Ἑλλάς" postag="n-s---fg-" head="686605" relation="ATR"/>
+    <word id="686605" form="Ἑλλάς" line="3" lemma="Ἑλλάς" postag="n-s---fn-" head="686602" relation="APOS"/>
+    <word id="686606" form="," line="3" lemma="," postag="u--------" head="686602" relation="PUNCT"/>
+    <word id="686607" form="Ἀθῆναι" line="3" lemma="Ἀθῆναι" postag="n-p---fv-" head="686605" relation="APOS"/>
+    <word id="686608" form="·" line="3" lemma="·" postag="u--------" head="686602" relation="PUNCT"/>
+  </sentence>
+  <sentence id="4" document_id="0003-002" subdoc="AG.45">
+    <word id="686609" form="πλεῖστα" line="3" lemma="πολύς" postag="a-p---nas" head="686610" relation="OBJ"/>
+    <word id="686610" form="δε" line="3" lemma="δα" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="686611" form="Μούσαις" line="3" lemma="Μοῦσα" postag="n-p---fd-" head="686612" relation="OBJ"/>
+    <word id="686612" form="τέρψας" line="4" lemma="τέρπω" postag="v-sapamn-" head="686610" relation="ADV"/>
+    <word id="686613" form="," line="4" lemma="," postag="u--------" head="686619" relation="AuxY"/>
+    <word id="686614" form="ἐκ" line="4" lemma="ἐκ" postag="r--------" head="686619" relation="AuxP"/>
+    <word id="686615" form="πολλῶν" line="4" lemma="πολύς" postag="a-p---mg-" head="686614" relation="ADV"/>
+    <word id="686616" form="καὶ" line="4" lemma="καί" postag="b--------" head="686619" relation="AuxY"/>
+    <word id="686617" form="τὸν" line="4" lemma="ὁ" postag="l-s---ma-" head="686618" relation="ATR"/>
+    <word id="686618" form="ἔπαινον" line="4" lemma="ἔπαινος" postag="n-s---ma-" head="686619" relation="OBJ"/>
+    <word id="686619" form="ἔχει" line="4" lemma="ἔχω" postag="v3spia---" head="686610" relation="CO"/>
+    <word id="686620" form="." line="4" lemma="." postag="u--------" head="686609" relation="PUNCT"/>
+  </sentence>
+</treebank>

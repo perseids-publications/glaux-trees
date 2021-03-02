@@ -1,0 +1,37 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="2138-001" subdoc="1">
+    <word id="736372" form="κατολοφύρομαι" line="1" lemma="κατολοφύρομαι" postag="v1spie---" head="0" relation="PRED"/>
+    <word id="736373" form="ματέρος" line="1" lemma="μήτηρ" postag="n-s---fg-" head="736374" relation="ATR"/>
+    <word id="736374" form="οἷμα" line="1" lemma="οἷμα" postag="n-s---nn-" head="736372" relation="OBJ"/>
+    <word id="736375" form="σᾶς" line="1" lemma="σός" postag="a-s---fg-" head="736374" relation="ATR"/>
+    <word id="736376" form="ὅ" line="2" lemma="ὅς" postag="p-s---nn-" head="736378" relation="OBJ"/>
+    <word id="736377" form="σ’" line="2" lemma="σύ" postag="p-s---ca-" head="736378" relation="OBJ"/>
+    <word id="736378" form="ἀναβακχεύει" line="2" lemma="ἀναβακχεύω" postag="v3spia---" head="736374" relation="ATR"/>
+    <word id="736379" form="ὁ" line="2" lemma="ὁ" postag="l-s---mn-" head="736381" relation="ATR"/>
+    <word id="736380" form="μέγας" line="2" lemma="μέγας" postag="a-s---mn-" head="736381" relation="ATR"/>
+    <word id="736381" form="ὄλβος" line="2" lemma="ὄλβος" postag="n-s---mn-" head="736378" relation="SBJ"/>
+    <word id="736382" form="οὐ" line="2" lemma="οὐ" postag="d--------" head="736383" relation="AuxZ"/>
+    <word id="736383" form="μόνιμος" line="3" lemma="μόνιμος" postag="a-s---mn-" head="736381" relation="ATR"/>
+    <word id="736384" form="ἐμ" line="3" lemma="ἐν" postag="r--------" head="736378" relation="AuxP"/>
+    <word id="736385" form="βροτοῖς" line="3" lemma="βροτός" postag="n-p---md-" head="736384" relation="ADV"/>
+    <word id="736386" form="ἀνὰ" line="3" lemma="ἀνά" postag="r--------" head="736395" relation="AuxP"/>
+    <word id="736387" form="δὲ" line="3" lemma="δέ" postag="b--------" head="736395" relation="AuxY"/>
+    <word id="736388" form="λαῖφος" line="3" lemma="λαῖφος" postag="n-s---na-" head="736386" relation="OBJ"/>
+    <word id="736389" form="ὥς" line="3" lemma="ὡς" postag="c--------" head="736395" relation="AuxC"/>
+    <word id="736390" form="τις" line="4" lemma="τις" postag="a-s---cn-" head="736394" relation="ATR"/>
+    <word id="736391" form="ἀκάτου" line="4" lemma="ἄκατος" postag="n-s---fg-" head="736390" relation="ATR"/>
+    <word id="736392" form="θοᾶς" line="4" lemma="θοός" postag="a-s---fg-" head="736391" relation="ATR"/>
+    <word id="736393" form="τιωάξας" line="4" lemma="τιωάσσω" postag="v-sapamn-" head="736395" relation="ADV"/>
+    <word id="736394" form="δαίμων" line="4" lemma="δαίμων" postag="n-s---mn-" head="736395" relation="SBJ"/>
+    <word id="736395" form="κατέκλυσεν" line="5" lemma="κατεκλύω" postag="v3saia---" head="736378" relation="CO"/>
+    <word id="736396" form="δεινῶν" line="5" lemma="δεινός" postag="a-p---mg-" head="736397" relation="ATR"/>
+    <word id="736397" form="πόνων" line="5" lemma="πόνος" postag="n-p---mg-" head="736398" relation="ADV"/>
+    <word id="736398" form="ὡως" line="5" lemma="ὡως" postag="d--------" head="736395" relation="AuxP"/>
+    <word id="736399" form="πόντου" line="5" lemma="πόντος" postag="n-s---mg-" head="736403" relation="ATR"/>
+    <word id="736400" form="λάβροις" line="6" lemma="λάβρος" postag="a-p---nd-" head="736403" relation="ATR"/>
+    <word id="736401" form="ὀλεθρίοισιν" line="6" lemma="ὀλέθριος" postag="a-p---nd-" head="736403" relation="ATR"/>
+    <word id="736402" form="ἐν" line="6" lemma="ἐν" postag="r--------" head="736395" relation="AuxP"/>
+    <word id="736403" form="κύμασιν" line="6" lemma="κῦμα" postag="n-p---nd-" head="736402" relation="ADV"/>
+    <word id="736404" form="." line="6" lemma="." postag="u--------" head="736372" relation="PUNCT"/>
+  </sentence>
+</treebank>

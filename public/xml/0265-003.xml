@@ -1,0 +1,20 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0265-003" subdoc="AG.31">
+    <word id="704860" form="Κηία" line="1" lemma="Κέως" postag="a-s---fn-" head="704863" relation="ATR"/>
+    <word id="704861" form="με" line="1" lemma="ἐγώ" postag="p-s---ca-" head="704862" relation="OBJ"/>
+    <word id="704862" form="προσῆλθε" line="1" lemma="προσέρχομαι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="704863" form="φλυαρία" line="1" lemma="φλυαρία" postag="n-s---fn-" head="704862" relation="SBJ"/>
+    <word id="704864" form="οὐκ" line="1" lemma="οὐ" postag="d--------" head="704865" relation="AuxZ"/>
+    <word id="704865" form="ἐθέλοντα" line="1" lemma="ἐθέλω" postag="v-sppama-" head="704861" relation="ADV"/>
+    <word id="704866" form="." line="1" lemma="." postag="u--------" head="704860" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0265-003" subdoc="AG.31">
+    <word id="704867" form="οὐκ" line="2" lemma="οὐ" postag="d--------" head="704868" relation="AuxZ"/>
+    <word id="704868" form="ἐθέλοντά" line="2" lemma="ἐθέλω" postag="v-sppama-" head="704869" relation="ADV"/>
+    <word id="704869" form="με" line="2" lemma="ἐγώ" postag="p-s---ca-" head="704870" relation="OBJ"/>
+    <word id="704870" form="προσῆλθε" line="2" lemma="προσέρχομαι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="704871" form="Κηΐα" line="2" lemma="Κέως" postag="a-s---fn-" head="704872" relation="ATR"/>
+    <word id="704872" form="φλυαρία" line="2" lemma="φλυαρία" postag="n-s---fn-" head="704870" relation="SBJ"/>
+    <word id="704873" form="." line="2" lemma="." postag="u--------" head="704867" relation="PUNCT"/>
+  </sentence>
+</treebank>

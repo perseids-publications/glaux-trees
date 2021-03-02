@@ -1,0 +1,52 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="2139-001" subdoc="1">
+    <word id="736405" form="εἰκὼν" line="1" lemma="εἰκών" postag="n-s---fn-" head="736408" relation="PNOM"/>
+    <word id="736406" form="ἡ" line="1" lemma="ὁ" postag="l-s---fn-" head="736407" relation="ATR"/>
+    <word id="736407" form="λίθος" line="1" lemma="λίθος" postag="n-s---mn-" head="736408" relation="PNOM"/>
+    <word id="736408" form="εἰμι" line="1" lemma="εἰμί" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="736409" form="·" line="1" lemma="·" postag="u--------" head="736405" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="2139-001" subdoc="1">
+    <word id="736410" form="τίθησι" line="1" lemma="τίθημι" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="736411" form="μὲ" line="1" lemma="ἐγώ" postag="p-s---ca-" head="736410" relation="OBJ"/>
+    <word id="736412" form="Σείκιλος" line="1" lemma="Σείκιλος" postag="n-s---mn-" head="736410" relation="SBJ"/>
+    <word id="736413" form="ἔνθα" line="1" lemma="ἔνθα" postag="d--------" head="736410" relation="ADV/ADV"/>
+    <word id="736414" form="μνήμης" line="2" lemma="μνήμη" postag="n-s---fg-" head="736416" relation="ATR"/>
+    <word id="736415" form="ἀθανάτου" line="2" lemma="ἀθάνατος" postag="a-s---fg-" head="736414" relation="ATR"/>
+    <word id="736416" form="σῆμα" line="2" lemma="σῆμα" postag="n-s---nn-" head="736410" relation="OBJ/SBJ"/>
+    <word id="736417" form="πολυχρόνιον" line="2" lemma="πολυχρόνιος" postag="a-s---nn-" head="736416" relation="ATR"/>
+    <word id="736418" form="." line="2" lemma="." postag="u--------" head="736410" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="2139-001" subdoc="3">
+    <word id="736419" form="ὅσον" line="3" lemma="ὅσος" postag="p-s---na-" head="736420" relation="ADV"/>
+    <word id="736420" form="ζῇς" line="3" lemma="ζάω" postag="v2spia---" head="736427" relation="OBJ"/>
+    <word id="736421" form="," line="3" lemma="," postag="u--------" head="736419" relation="PUNCT"/>
+    <word id="736422" form="φαίνου" line="3" lemma="φαίνω" postag="v2spme---" head="0" relation="PRED"/>
+    <word id="736423" form="," line="3" lemma="," postag="u--------" head="736427" relation="AuxY"/>
+    <word id="736424" form="μηδὲν" line="4" lemma="μηδείς" postag="a-s---na-" head="736427" relation="OBJ"/>
+    <word id="736425" form="ὅλως" line="4" lemma="ὅλος" postag="d--------" head="736427" relation="ADV"/>
+    <word id="736426" form="σὺ" line="4" lemma="σύ" postag="p-s---cn-" head="736427" relation="SBJ"/>
+    <word id="736427" form="λυποῦ" line="4" lemma="λυπέω" postag="v2spme---" head="736422" relation="CO"/>
+    <word id="736428" form="·" line="4" lemma="·" postag="u--------" head="736419" relation="PUNCT"/>
+  </sentence>
+  <sentence id="4" document_id="2139-001" subdoc="5">
+    <word id="736429" form="πρὸς" line="5" lemma="πρός" postag="r--------" head="736431" relation="AuxP"/>
+    <word id="736430" form="ὀλίγον" line="5" lemma="ὀλίγος" postag="a-s---na-" head="736429" relation="PNOM"/>
+    <word id="736431" form="ἐστὶ" line="5" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="736432" form="τὸ" line="5" lemma="ὁ" postag="l-s---nn-" head="736433" relation="ATR"/>
+    <word id="736433" form="ζῆν" line="5" lemma="ζάω" postag="v--pna---" head="736431" relation="SBJ"/>
+    <word id="736434" form="," line="5" lemma="," postag="u--------" head="736439" relation="AuxY"/>
+    <word id="736435" form="τὸ" line="6" lemma="ὁ" postag="l-s---na-" head="736436" relation="ATR"/>
+    <word id="736436" form="τέλος" line="6" lemma="τέλος" postag="n-s---na-" head="736439" relation="OBJ"/>
+    <word id="736437" form="ὁ" line="6" lemma="ὁ" postag="l-s---mn-" head="736438" relation="ATR"/>
+    <word id="736438" form="χρόνος" line="6" lemma="χρόνος" postag="n-s---mn-" head="736439" relation="SBJ"/>
+    <word id="736439" form="ἀπαιτεῖ" line="6" lemma="ἀπαιτέω" postag="v3spia---" head="736431" relation="CO"/>
+    <word id="736440" form="." line="6" lemma="." postag="u--------" head="736429" relation="PUNCT"/>
+  </sentence>
+  <sentence id="5" document_id="2139-001" subdoc="7">
+    <word id="736441" form="Σείκιλος" line="7" lemma="Σείκιλος" postag="n-s---mn-" head="736443" relation="SBJ"/>
+    <word id="736442" form="εὐτερG?" form_original="εὐτερGx" line="7" lemma="_" postag="z--------" head="0" relation="GAP"/>
+    <word id="736443" form="ζῇ" line="8" lemma="ζάω" postag="v3spia---" head="736442" relation="CO"/>
+    <word id="736444" form="." line="8" lemma="." postag="u--------" head="736441" relation="PUNCT"/>
+  </sentence>
+</treebank>

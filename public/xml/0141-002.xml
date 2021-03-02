@@ -1,0 +1,51 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0141-002" subdoc="AG.496">
+    <word id="22051302" form="ὦ" line="1" lemma="ὦ" postag="i--------" relation="AuxZ" head="22051304"/>
+    <word id="22051303" form="Στοϊκῶν" line="1" lemma="Στοϊκός" postag="a-p---mg-" relation="ATR" head="22051304"/>
+    <word id="22051304" form="μύθων" line="1" lemma="μῦθος" postag="n-p---mg-" relation="ExD" head="22051313"/>
+    <word id="22051305" form="εἰδήμονες" line="1" lemma="εἰδήμων" postag="a-p---mv-" relation="ATR" head="22051304"/>
+    <word id="22051306" form="," line="1" lemma="," postag="u--------" relation="PUNCT" head="22051302"/>
+    <word id="22051307" form="ὦ" line="1" lemma="ὦ" postag="i--------" relation="AuxZ" head="22051309"/>
+    <word id="22051308" form="πανάριστα" line="1" lemma="πανάριστος" postag="a-p---nv-" relation="ATR" head="22051309"/>
+    <word id="22051309" form="δόγματα" line="2" lemma="δόγμα" postag="n-p---nv-" relation="ExD" head="22051327"/>
+    <word id="22051310" form="," line="2" lemma="," postag="u--------" relation="PUNCT" head="22051302"/>
+    <word id="22051311" form="ταῖς" line="2" lemma="ὁ" postag="l-p---fd-" relation="ATR" head="22051314"/>
+    <word id="22051312" form="ἱεραῖς" line="2" lemma="ἱερός" postag="a-p---fd-" relation="ATR" head="22051314"/>
+    <word id="22051313" form="ἐνθέμενοι" line="2" lemma="ἐντίθημι" postag="v-papmmn-" relation="ADV" head="22051327"/>
+    <word id="22051314" form="σελίσιν" line="2" lemma="σελίς" postag="n-p---fd-" relation="OBJ" head="22051313"/>
+    <word id="22051315" form="," line="2" lemma="," postag="u--------" relation="PUNCT" head="22051302"/>
+    <word id="22051316" form="τὰν" line="3" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="22051317"/>
+    <word id="22051317" form="ἀρετὰν" line="3" lemma="ἀρετή" postag="n-s---fa-" relation="OBJ" head="22051327"/>
+    <word id="22051318" form="ψυχᾶς" line="3" lemma="ψυχή" postag="n-s---fg-" relation="ATR" head="22051317"/>
+    <word id="22051319" form="ἀγαθὸν" line="3" lemma="ἀγαθός" postag="a-s---ma-" relation="ATR" head="22051317"/>
+    <word id="22051320" form="μόνον" line="3" lemma="μόνον" postag="d--------" relation="ADV" head="22051319"/>
+    <word id="22051321" form="ἅδε" line="3" lemma="ὅδε" postag="a-s---fn-" relation="SBJ" head="22051327"/>
+    <word id="22051322" form="γὰρ" line="3" lemma="γάρ" postag="d--------" relation="AuxY" head="22051327"/>
+    <word id="22051323" form="ἀνδρῶν" line="3" lemma="ἀνήρ" postag="n-p---mg-" relation="ATR" head="22051321"/>
+    <word id="22051324" form="μούνα" line="4" lemma="μόνος" postag="a-s---fn-" relation="ATR" head="22051321"/>
+    <word id="22051325" form="καὶ" line="4" lemma="καί" postag="b--------" relation="AuxY" head="22051326"/>
+    <word id="22051326" form="βίοτον" line="4" lemma="βίοτος" postag="n-s---ma-" relation="OBJ" head="22051327"/>
+    <word id="22051327" form="ῥύσατο" line="4" lemma="ῥύομαι" postag="v3saim---" relation="PRED" head="0"/>
+    <word id="22051328" form="καὶ" line="4" lemma="καί" postag="b--------" relation="AuxY" head="22051329"/>
+    <word id="22051329" form="πόλιας" line="4" lemma="πόλις" postag="n-p---fa-" relation="CO" head="22051326"/>
+    <word id="22051330" form="." line="4" lemma="." postag="u--------" relation="PUNCT" head="22051302"/>
+  </sentence>
+  <sentence id="2" document_id="0141-002" subdoc="AG.496">
+    <word id="22051331" form="σαρκὸς" line="5" lemma="σάρξ" postag="n-s---fg-" relation="ATR" head="22051333"/>
+    <word id="22051332" form="δ’" line="5" lemma="δέ" postag="b--------" relation="AuxY" head="22051344"/>
+    <word id="22051333" form="ἁδυπάθημα" line="5" lemma="ἡδυπάθημα" postag="n-s---nn-" relation="SBJ" head="22051344"/>
+    <word id="22051334" form="," line="5" lemma="," postag="u--------" relation="PUNCT" head="22051331"/>
+    <word id="22051335" form="φίλον" line="5" lemma="φίλος" postag="a-s---nn-" relation="ATR" head="22051333"/>
+    <word id="22051336" form="τέλος" line="5" lemma="τέλος" postag="n-s---nn-" relation="CO" head="22051333"/>
+    <word id="22051337" form="ἀνδράσιν" line="5" lemma="ἀνήρ" postag="n-p---md-" relation="ATR" head="22051336"/>
+    <word id="22051338" form="ἄλλοις" line="5" lemma="ἄλλος" postag="a-p---md-" relation="ATR" head="22051337"/>
+    <word id="22051339" form="," line="5" lemma="," postag="u--------" relation="PUNCT" head="22051331"/>
+    <word id="22051340" form="ἡ" line="6" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="22051341"/>
+    <word id="22051341" form="μία" line="6" lemma="εἷς" postag="a-s---fn-" relation="SBJ" head="22051344"/>
+    <word id="22051342" form="τῶν" line="6" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="22051343"/>
+    <word id="22051343" form="Μνήμης" line="6" lemma="Μνήμη" postag="n-s---fg-" relation="ATR" head="22051341"/>
+    <word id="22051344" form="ᾔνεσε" line="6" lemma="ᾀνέω" postag="v3saia---" relation="PRED" head="0"/>
+    <word id="22051345" form="θυγατέρων" line="6" lemma="θυγάτηρ" postag="n-p---fg-" relation="OBJ" head="22051344"/>
+    <word id="22051346" form="·" line="6" lemma="·" postag="u--------" relation="PUNCT" head="22051331"/>
+  </sentence>
+</treebank>

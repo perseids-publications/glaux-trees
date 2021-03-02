@@ -1,0 +1,22 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="1692-004" subdoc="AG.31">
+    <word id="735049" form="σῶμα" line="1" lemma="σῶμα" postag="n-s---nn-" head="735053" relation="ADV"/>
+    <word id="735050" form="μὲν" line="1" lemma="μέν" postag="d--------" head="735053" relation="AuxY"/>
+    <word id="735051" form="ἐν" line="1" lemma="ἐν" postag="r--------" head="735053" relation="AuxP"/>
+    <word id="735052" form="κόλποις" line="1" lemma="κόλπος" postag="n-p---md-" head="735051" relation="ADV"/>
+    <word id="735053" form="κατέχει" line="1" lemma="κατέχω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="735054" form="τόδε" line="1" lemma="ὅδε" postag="a-s---na-" head="735049" relation="ATR"/>
+    <word id="735055" form="γαῖα" line="1" lemma="γῆ" postag="n-s---fn-" head="735053" relation="SBJ"/>
+    <word id="735056" form="Πλάτωνος" line="1" lemma="Πλάτων" postag="n-s---mg-" head="735055" relation="ATR"/>
+    <word id="735057" form="·" line="1" lemma="·" postag="u--------" head="735049" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="1692-004" subdoc="AG.31">
+    <word id="735058" form="ψυχὴ" line="2" lemma="ψυχή" postag="n-s---fn-" head="735062" relation="SBJ"/>
+    <word id="735059" form="δ’" line="2" lemma="δέ" postag="b--------" head="735062" relation="AuxY"/>
+    <word id="735060" form="ἰσόθεον" line="2" lemma="ἰσόθεος" postag="a-s---fa-" head="735061" relation="ATR"/>
+    <word id="735061" form="τάξιν" line="2" lemma="τάξις" postag="n-s---fa-" head="735062" relation="OBJ"/>
+    <word id="735062" form="ἔχει" line="2" lemma="ἔχω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="735063" form="μακάρων" line="2" lemma="μάκαρ" postag="a-p---mg-" head="735058" relation="ATR"/>
+    <word id="735064" form="." line="2" lemma="." postag="u--------" head="735058" relation="PUNCT"/>
+  </sentence>
+</treebank>

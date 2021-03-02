@@ -1,0 +1,12 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0632-005" subdoc="AG.746">
+    <word id="6459037" form="ὧδε" line="1" lemma="ὧδε" postag="d--------" head="6459039" relation="ADV"/>
+    <word id="6459038" form="μέγας" line="1" lemma="μέγας" postag="a-s---mn-" head="6459040" relation="ATR"/>
+    <word id="6459039" form="κεῖται" line="1" lemma="κεῖμαι" postag="v3spie---" head="0" relation="PRED"/>
+    <word id="6459040" form="Ζάν" line="1" lemma="Ζάν" postag="n-s---mn-" head="6459039" relation="SBJ"/>
+    <word id="6459041" form="ὃν" line="1" lemma="ὅς" postag="p-s---ma-" head="6459043" relation="OBJ"/>
+    <word id="6459042" form="Δία" line="1" lemma="Ζεύς" postag="n-s---ma-" head="6459043" relation="OBJ"/>
+    <word id="6459043" form="κικλήσκουσιν" line="1" lemma="κικλήσκω" postag="v3ppia---" head="6459040" relation="ATR"/>
+    <word id="6459044" form="." line="1" lemma="." postag="u--------" head="6459037" relation="PUNCT"/>
+  </sentence>
+</treebank>

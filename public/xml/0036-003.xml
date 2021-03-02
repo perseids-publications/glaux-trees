@@ -1,0 +1,1166 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0036-003" subdoc="1">
+    <word id="189866" form="εἴαρος" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἔαρ" postag="n-s---ng-" head="189877" relation="SBJ"/>
+    <word id="189867" form="ὦ" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ὦ" postag="i--------" head="189868" relation="AuxZ"/>
+    <word id="189868" form="Μύρσων" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="Μύρσος" postag="n-p---mg-" head="189866" relation="CO"/>
+    <word id="189869" form="ἢ" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189870" relation="AuxY"/>
+    <word id="189870" form="χείματος" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="χεῖμα" postag="n-s---ng-" head="189868" relation="CO"/>
+    <word id="189871" form="ἢ" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189872" relation="AuxY"/>
+    <word id="189872" form="φθινοπώρω" line="1" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="φθινόπωρον" postag="n-s---ng-" head="189870" relation="CO"/>
+    <word id="189873" form="ἢ" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189874" relation="AuxY"/>
+    <word id="189874" form="θέρεος" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="θέρος" postag="n-s---ng-" head="189872" relation="CO"/>
+    <word id="189875" form="τί" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τις" postag="a-s---nn-" head="189877" relation="ATR"/>
+    <word id="189876" form="τοι" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="σύ" postag="p-s---cd-" head="189877" relation="ADV"/>
+    <word id="189877" form="ἁδύ" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἡδύς" postag="a-s---nn-" head="0" relation="PRED/PNOM"/>
+    <word id="189878" form=";" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189866" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0036-003" subdoc="2">
+    <word id="189879" form="τί" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τίς" postag="a-s---na-" head="189882" relation="ADV"/>
+    <word id="189880" form="δὲ" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="δέ" postag="b--------" head="189882" relation="AuxY"/>
+    <word id="189881" form="πλέον" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="πολύς" postag="a-s---nac" head="189883" relation="ADV"/>
+    <word id="189882" form="εὔχεαι" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="εὔχομαι" postag="v2spie---" head="0" relation="PRED"/>
+    <word id="189883" form="ἐλθεῖν" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἔρχομαι" postag="v--ana---" head="189882" relation="OBJ"/>
+    <word id="189884" form=";" line="2" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189879" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="0036-003" subdoc="3">
+    <word id="189885" form="ἢ" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189890" relation="AuxY"/>
+    <word id="189886" form="θέρος" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="θέρος" postag="n-s---nn-" head="189890" relation="ADV"/>
+    <word id="189887" form="," line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="," postag="u--------" head="189885" relation="PUNCT"/>
+    <word id="189888" form="ἁνίκα" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἡνίκα" postag="c--------" head="0" relation="PRED/AuxC"/>
+    <word id="189889" form="πάντα" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="πᾶς" postag="a-p---na-" head="189890" relation="SBJ"/>
+    <word id="189890" form="τελείεται" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τελέω" postag="v3spie---" head="189888" relation="ADV"/>
+    <word id="189891" form="ὅσσα" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ὅσος" postag="p-p---na-" head="189892" relation="OBJ"/>
+    <word id="189892" form="μογεῦμες" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="μογέω" postag="v1ppia---" head="189889" relation="ATR"/>
+    <word id="189893" form=";" line="3" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189885" relation="PUNCT"/>
+  </sentence>
+  <sentence id="4" document_id="0036-003" subdoc="4">
+    <word id="189894" form="ἢ" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189895" relation="AuxY"/>
+    <word id="189895" form="γλυκερὸν" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="γλυκερός" postag="a-s---nn-" head="189896" relation="ATR"/>
+    <word id="189896" form="φθινόπωρον" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="φθινόπωρον" postag="n-s---nn-" head="0" relation="PRED/OBJ"/>
+    <word id="189897" form="," line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="," postag="u--------" head="189894" relation="PUNCT"/>
+    <word id="189898" form="ὅτ’" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ὅτε" postag="c--------" head="189896" relation="AuxC"/>
+    <word id="189899" form="ἀνδράσι" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἀνήρ" postag="n-p---md-" head="189898" relation="ADV/ADV"/>
+    <word id="189900" form="λιμὸς" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="λιμός" postag="n-s---fn-" head="189898" relation="ADV/SBJ"/>
+    <word id="189901" form="ἐλαφρά" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἐλαφρός" postag="a-s---fn-" head="189900" relation="ATR"/>
+    <word id="189902" form=";" line="4" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189894" relation="PUNCT"/>
+  </sentence>
+  <sentence id="5" document_id="0036-003" subdoc="5">
+    <word id="189903" form="ἢ" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189906" relation="AuxY"/>
+    <word id="189904" form="καὶ" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="καί" postag="b--------" head="189905" relation="AuxZ"/>
+    <word id="189905" form="χεῖμα" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="χεῖμα" postag="n-s---nn-" head="0" relation="PRED/SBJ"/>
+    <word id="189906" form="δύσεργον" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="δύσεργος" postag="a-s---nn-" head="189905" relation="ATR"/>
+    <word id="189907" form=";" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189903" relation="PUNCT"/>
+  </sentence>
+  <sentence id="6" document_id="0036-003" subdoc="5">
+    <word id="189908" form="ἐπεὶ" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἐπεί" postag="c--------" head="0" relation="PRED/AuxC"/>
+    <word id="189909" form="καὶ" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="καί" postag="b--------" head="189913" relation="AuxZ"/>
+    <word id="189910" form="χείματι" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="χεῖμα" postag="n-s---nd-" head="189912" relation="OBJ"/>
+    <word id="189911" form="πολλοὶ" line="5" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="πολύς" postag="a-p---mn-" head="189913" relation="SBJ"/>
+    <word id="189912" form="θαλπόμενοι" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="θάλπω" postag="v-pppemn-" head="189913" relation="ADV"/>
+    <word id="189913" form="θέλγονται" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="θέλγω" postag="v3ppie---" head="189908" relation="ADV"/>
+    <word id="189914" form="ἀεργείᾳ" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἀέργεια" postag="n-s---fd-" head="189913" relation="ADV"/>
+    <word id="189915" form="τε" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τε" postag="b--------" head="189914" relation="AuxY"/>
+    <word id="189916" form="καὶ" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="καί" postag="b--------" head="189917" relation="AuxY"/>
+    <word id="189917" form="ὄκνῳ" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ὄκνος" postag="n-s---md-" head="189914" relation="CO"/>
+    <word id="189918" form="·" line="6" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="·" postag="u--------" head="189908" relation="PUNCT"/>
+  </sentence>
+  <sentence id="7" document_id="0036-003" subdoc="7">
+    <word id="189919" form="ἤ" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἤ" postag="b--------" head="189924" relation="AuxY"/>
+    <word id="189920" form="τοι" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τοι" postag="d--------" head="189924" relation="AuxY"/>
+    <word id="189921" form="καλὸν" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="καλός" postag="a-s---nn-" head="189922" relation="ATR"/>
+    <word id="189922" form="ἔαρ" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἔαρ" postag="n-s---nn-" head="189924" relation="SBJ"/>
+    <word id="189923" form="πλέον" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="πολύς" postag="a-s---nnc" head="189924" relation="ADV"/>
+    <word id="189924" form="εὔαδεν" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἁνδάνω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="189925" form=";" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189919" relation="PUNCT"/>
+  </sentence>
+  <sentence id="8" document_id="0036-003" subdoc="7">
+    <word id="189926" form="εἰπέ" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="λέγω" postag="v2sama---" head="0" relation="PRED"/>
+    <word id="189927" form="," line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="," postag="u--------" head="189931" relation="AuxY"/>
+    <word id="189928" form="τί" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="τίς" postag="a-s---na-" head="189931" relation="OBJ"/>
+    <word id="189929" form="τοι" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="σύ" postag="p-s---cd-" head="189931" relation="OBJ"/>
+    <word id="189930" form="φρήν" line="7" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="φρήν" postag="n-s---fn-" head="189931" relation="SBJ"/>
+    <word id="189931" form="αἱρεῖται" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="αἱρέω" postag="v3spie---" head="189926" relation="OBJ"/>
+    <word id="189932" form=";" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma=";" postag="u--------" head="189926" relation="PUNCT"/>
+  </sentence>
+  <sentence id="9" document_id="0036-003" subdoc="8">
+    <word id="189933" form="λαλέειν" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="λαλέω" postag="v--pna---" head="189935" relation="OBJ"/>
+    <word id="189934" form="γὰρ" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="γάρ" postag="d--------" head="189935" relation="AuxY"/>
+    <word id="189935" form="ἐπέτραπεν" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἐπιτρέπω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="189936" form="ἁ" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ὁ" postag="l-s---fn-" head="189937" relation="ATR"/>
+    <word id="189937" form="σχολὰ" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="σχολή" postag="n-s---fn-" head="189935" relation="SBJ"/>
+    <word id="189938" form="ἄμμιν" line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="ἐγώ" postag="p-p---cd-" head="189935" relation="OBJ"/>
+    <word id="189939" form="." line="8" speaker="ΚΛΕΟΔΑΜΟΣ" lemma="." postag="u--------" head="189933" relation="PUNCT"/>
+  </sentence>
+  <sentence id="10" document_id="0036-003" subdoc="9">
+    <word id="189940" form="κρίνειν" line="9" speaker="ΜΥΡΣΩΝ" lemma="κρίνω" postag="v--pna---" head="189942" relation="OBJ"/>
+    <word id="189941" form="οὐκ" line="9" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="189942" relation="AuxZ"/>
+    <word id="189942" form="ἐπέοικε" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἐπέοικε" postag="v3sria---" head="0" relation="PRED"/>
+    <word id="189943" form="θεήια" line="9" speaker="ΜΥΡΣΩΝ" lemma="θεήιος" postag="a-p---na-" head="189944" relation="ATR"/>
+    <word id="189944" form="ἔργα" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἔργον" postag="n-p---na-" head="189940" relation="OBJ"/>
+    <word id="189945" form="βροτοῖσι" line="9" speaker="ΜΥΡΣΩΝ" lemma="βροτός" postag="n-p---md-" head="189940" relation="OBJ"/>
+    <word id="189946" form="·" line="9" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="189940" relation="PUNCT"/>
+  </sentence>
+  <sentence id="11" document_id="0036-003" subdoc="10">
+    <word id="189947" form="πάντα" line="10" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="189949" relation="ATR"/>
+    <word id="189948" form="γὰρ" line="10" speaker="ΜΥΡΣΩΝ" lemma="γάρ" postag="d--------" head="189949" relation="AuxY"/>
+    <word id="189949" form="ἱερὰ" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἱερός" postag="a-p---na-" head="0" relation="PRED/SBJ"/>
+    <word id="189950" form="ταῦτα" line="10" speaker="ΜΥΡΣΩΝ" lemma="οὗτος" postag="a-p---na-" head="189949" relation="ATR"/>
+    <word id="189951" form="καὶ" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="189952" relation="AuxY"/>
+    <word id="189952" form="ἁδέα" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-p---na-" head="189949" relation="CO"/>
+    <word id="189953" form="·" line="10" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="189947" relation="PUNCT"/>
+  </sentence>
+  <sentence id="12" document_id="0036-003" subdoc="10">
+    <word id="189954" form="σεῦ" line="10" speaker="ΜΥΡΣΩΝ" lemma="σύ" postag="p-s---cg-" head="189956" relation="ADV"/>
+    <word id="189955" form="δὲ" line="10" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="189957" relation="AuxY"/>
+    <word id="189956" form="ἕκατι" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἕκητι" postag="d--------" head="189957" relation="AuxP"/>
+    <word id="189957" form="ἐξερέω" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἐξερέω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="189958" form="Κλεόδαμε" line="11" speaker="ΜΥΡΣΩΝ" lemma="Κλεόδαμος" postag="n-s---mv-" head="189957" relation="SBJ"/>
+    <word id="189959" form="," line="11" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189954" relation="PUNCT"/>
+    <word id="189960" form="τό" line="11" speaker="ΜΥΡΣΩΝ" lemma="ὅς" postag="p-s---na-" head="189963" relation="SBJ"/>
+    <word id="189961" form="μοι" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="189963" relation="OBJ"/>
+    <word id="189962" form="πέλεν" line="11" speaker="ΜΥΡΣΩΝ" lemma="πέλω" postag="v--pna---" head="189963" relation="SBJ"/>
+    <word id="189963" form="ἅδιον" line="11" speaker="ΜΥΡΣΩΝ" lemma="δίω" postag="v1siia---" head="189958" relation="ATR"/>
+    <word id="189964" form="ἄλλων" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἄλλος" postag="a-p---mg-" head="189962" relation="ATR"/>
+    <word id="189965" form="." line="11" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189954" relation="PUNCT"/>
+  </sentence>
+  <sentence id="13" document_id="0036-003" subdoc="12">
+    <word id="189966" form="οὐκ" line="12" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="189967" relation="AuxZ"/>
+    <word id="189967" form="ἐθέλω" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἐθέλω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="189968" form="θέρος" line="12" speaker="ΜΥΡΣΩΝ" lemma="θέρος" postag="n-s---na-" head="189969" relation="PNOM"/>
+    <word id="189969" form="ἦμεν" line="12" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v1piia---" head="189967" relation="OBJ"/>
+    <word id="189970" form="," line="12" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189966" relation="PUNCT"/>
+    <word id="189971" form="ἐπεὶ" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἐπεί" postag="c--------" head="189967" relation="AuxC"/>
+    <word id="189972" form="τόκα" line="12" speaker="ΜΥΡΣΩΝ" lemma="τότε" postag="d--------" head="189975" relation="ADV"/>
+    <word id="189973" form="μ’" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---ca-" head="189975" relation="OBJ"/>
+    <word id="189974" form="ἅλιος" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἥλιος" postag="n-s---mn-" head="189975" relation="SBJ"/>
+    <word id="189975" form="ὀπτῇ" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὀπτάω" postag="v3spia---" head="189971" relation="ADV"/>
+    <word id="189976" form="." line="12" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189966" relation="PUNCT"/>
+  </sentence>
+  <sentence id="14" document_id="0036-003" subdoc="13">
+    <word id="189977" form="οὐκ" line="13" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="189978" relation="AuxZ"/>
+    <word id="189978" form="ἐθέλω" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἐθέλω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="189979" form="φθινόπωρον" line="13" speaker="ΜΥΡΣΩΝ" lemma="φθινόπωρον" postag="n-s---na-" head="189978" relation="OBJ"/>
+    <word id="189980" form="," line="13" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189977" relation="PUNCT"/>
+    <word id="189981" form="ἐπεὶ" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἐπεί" postag="c--------" head="189978" relation="AuxC"/>
+    <word id="189982" form="νόσον" line="13" speaker="ΜΥΡΣΩΝ" lemma="νόσος" postag="n-s---fa-" head="189984" relation="OBJ"/>
+    <word id="189983" form="ὥρια" line="13" speaker="ΜΥΡΣΩΝ" lemma="ὥριος" postag="a-p---nn-" head="189982" relation="ATR"/>
+    <word id="189984" form="τίκτει" line="13" speaker="ΜΥΡΣΩΝ" lemma="τίκτω" postag="v3spia---" head="189981" relation="ADV"/>
+    <word id="189985" form="." line="13" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189977" relation="PUNCT"/>
+  </sentence>
+  <sentence id="15" document_id="0036-003" subdoc="14">
+    <word id="189986" form="οὖλον" line="14" speaker="ΜΥΡΣΩΝ" lemma="οὖλος" postag="a-s---na-" head="189987" relation="ATR"/>
+    <word id="189987" form="χεῖμα" line="14" speaker="ΜΥΡΣΩΝ" lemma="χεῖμα" postag="n-s---na-" head="189988" relation="OBJ"/>
+    <word id="189988" form="φέρειν" line="14" speaker="ΜΥΡΣΩΝ" lemma="φέρω" postag="v--pna---" head="0" relation="PRED/OBJ"/>
+    <word id="189989" form="·" line="14" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="189986" relation="PUNCT"/>
+  </sentence>
+  <sentence id="16" document_id="0036-003" subdoc="14">
+    <word id="189990" form="νιφετὸν" line="14" speaker="ΜΥΡΣΩΝ" lemma="νιφετός" postag="n-s---ma-" head="189993" relation="OBJ"/>
+    <word id="189991" form="κρυμώς" line="14" speaker="ΜΥΡΣΩΝ" lemma="κρυμός" postag="n-p---ma-" head="189990" relation="CO"/>
+    <word id="189992" form="τε" line="14" speaker="ΜΥΡΣΩΝ" lemma="τε" postag="b--------" head="189991" relation="AuxY"/>
+    <word id="189993" form="φοβεῦμαι" line="14" speaker="ΜΥΡΣΩΝ" lemma="φοβέω" postag="v1spie---" head="0" relation="PRED"/>
+    <word id="189994" form="." line="14" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189990" relation="PUNCT"/>
+  </sentence>
+  <sentence id="17" document_id="0036-003" subdoc="15">
+    <word id="189995" form="εἶαρ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἔαρ" postag="n-s---nn-" head="190000" relation="SBJ"/>
+    <word id="189996" form="ἐμοὶ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190000" relation="OBJ"/>
+    <word id="189997" form="τριπόθητον" line="15" speaker="ΜΥΡΣΩΝ" lemma="τριπόθητος" postag="a-s---nn-" head="189995" relation="ATR"/>
+    <word id="189998" form="ὅλῳ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ὅλος" postag="a-s---md-" head="189999" relation="ATR"/>
+    <word id="189999" form="λυκάβαντι" line="15" speaker="ΜΥΡΣΩΝ" lemma="λυκάβας" postag="n-s---md-" head="190000" relation="ADV"/>
+    <word id="190000" form="παρείη" line="15" speaker="ΜΥΡΣΩΝ" lemma="πάρειμι" postag="v3spoa---" head="0" relation="PRED"/>
+    <word id="190001" form="," line="15" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="189995" relation="PUNCT"/>
+    <word id="190002" form="ἁνίκα" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἡνίκα" postag="c--------" head="190000" relation="AuxC"/>
+    <word id="190003" form="μήτε" line="16" speaker="ΜΥΡΣΩΝ" lemma="μήτε" postag="b--------" head="190004" relation="AuxY"/>
+    <word id="190004" form="κρύος" line="16" speaker="ΜΥΡΣΩΝ" lemma="κρύος" postag="n-s---nn-" head="190008" relation="SBJ"/>
+    <word id="190005" form="μήθ’" line="16" speaker="ΜΥΡΣΩΝ" lemma="μήτε" postag="b--------" head="190006" relation="AuxY"/>
+    <word id="190006" form="ἅλιος" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἥλιος" postag="n-s---mn-" head="190004" relation="CO"/>
+    <word id="190007" form="ἄμμε" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-p---ca-" head="190008" relation="OBJ"/>
+    <word id="190008" form="βαρύνει" line="16" speaker="ΜΥΡΣΩΝ" lemma="βαρύνω" postag="v3spia---" head="190002" relation="ADV"/>
+    <word id="190009" form="." line="16" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="189995" relation="PUNCT"/>
+  </sentence>
+  <sentence id="18" document_id="0036-003" subdoc="17">
+    <word id="190010" form="εἴαρι" line="17" speaker="ΜΥΡΣΩΝ" lemma="ἔαρ" postag="n-s---nd-" head="190012" relation="ADV"/>
+    <word id="190011" form="πάντα" line="17" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---nn-" head="190010" relation="ATR"/>
+    <word id="190012" form="κύει" line="17" speaker="ΜΥΡΣΩΝ" lemma="κύω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190013" form="," line="17" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190017" relation="AuxY"/>
+    <word id="190014" form="πάντ’" line="17" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190017" relation="OBJ"/>
+    <word id="190015" form="εἴαρος" line="17" speaker="ΜΥΡΣΩΝ" lemma="ἔαρ" postag="n-s---ng-" head="190017" relation="SBJ"/>
+    <word id="190016" form="ἁδέα" line="17" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-s---fa-" head="190015" relation="ATR"/>
+    <word id="190017" form="βλαστεῖ" line="17" speaker="ΜΥΡΣΩΝ" lemma="βλαστάω" postag="v3spia---" head="190012" relation="CO"/>
+    <word id="190018" form="," line="17" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190010" relation="PUNCT"/>
+    <word id="190019" form="κ-" line="18" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190038" relation="AuxY"/>
+    <word id="190020" form="ἁ" line="18" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fn-" head="190021" relation="ATR"/>
+    <word id="190021" form="νὺξ" line="18" speaker="ΜΥΡΣΩΝ" lemma="νύξ" postag="n-s---fn-" head="190038" relation="SBJ"/>
+    <word id="190022" form="ἀνθρώποισιν" line="18" speaker="ΜΥΡΣΩΝ" lemma="ἄνθρωπος" postag="n-p---md-" head="190023" relation="ADV"/>
+    <word id="190023" form="ἴσα" line="18" speaker="ΜΥΡΣΩΝ" lemma="ἴσος" postag="a-s---fn-" head="190026" relation="ATR"/>
+    <word id="190024" form="καὶ" line="18" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190026" relation="AuxY"/>
+    <word id="190025" form="ὁμοίιος" line="18" speaker="ΜΥΡΣΩΝ" lemma="ὅμοιος" postag="a-s---fn-" head="190026" relation="ATR"/>
+    <word id="190026" form="ἀώς" line="18" speaker="ΜΥΡΣΩΝ" lemma="ἠώς" postag="n-s---fn-" head="190021" relation="CO"/>
+    <word id="190027" form="G?" form_original="[Gx]" line="18" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190010" relation="PUNCT"/>
+    <word id="190028" form="Ἰξευτὰς" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἰξευτάς" postag="n-s---fn-" head="190038" relation="SBJ"/>
+    <word id="190029" form="ἔτι" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἔτι" postag="d--------" head="190038" relation="ADV"/>
+    <word id="190030" form="κῶρος" line="1" speaker="ΜΥΡΣΩΝ" lemma="κῶρος" postag="n-s---mn-" head="190038" relation="SBJ"/>
+    <word id="190031" form="ἐν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐν" postag="r--------" head="190035" relation="AuxP"/>
+    <word id="190032" form="ἄλσεϊ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἄλσος" postag="n-s---nd-" head="190031" relation="ADV"/>
+    <word id="190033" form="δενδράεντι" line="1" speaker="ΜΥΡΣΩΝ" lemma="δενδράεις" postag="a-s---nd-" head="190032" relation="ATR"/>
+    <word id="190034" form="ὄρνεα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὄρνεον" postag="n-p---na-" head="190035" relation="OBJ"/>
+    <word id="190035" form="θηρεύων" line="2" speaker="ΜΥΡΣΩΝ" lemma="θηρεύω" postag="v-sppamn-" head="190038" relation="ADV"/>
+    <word id="190036" form="τὸν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190039" relation="ATR"/>
+    <word id="190037" form="ἀπότροπον" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀπότροπος" postag="a-s---ma-" head="190039" relation="ATR"/>
+    <word id="190038" form="εἶδεν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁράω" postag="v3saia---" head="190017" relation="CO"/>
+    <word id="190039" form="Ἔρωτα" line="2" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190038" relation="OBJ"/>
+    <word id="190040" form="ἑσδόμενον" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἕζομαι" postag="v-sppema-" head="190039" relation="ATR"/>
+    <word id="190041" form="πύξοιο" line="3" speaker="ΜΥΡΣΩΝ" lemma="πύξος" postag="n-s---fg-" head="190043" relation="ATR"/>
+    <word id="190042" form="ποτὶ" line="3" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190040" relation="AuxP"/>
+    <word id="190043" form="κλάδον" line="3" speaker="ΜΥΡΣΩΝ" lemma="κλάδος" postag="n-s---ma-" head="190042" relation="OBJ"/>
+    <word id="190044" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190010" relation="PUNCT"/>
+  </sentence>
+  <sentence id="19" document_id="0036-003" subdoc="3">
+    <word id="190045" form="ὡς" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190053" relation="AuxC"/>
+    <word id="190046" form="δ’" line="3" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190071" relation="AuxY"/>
+    <word id="190047" form="ἐνόησε" line="3" speaker="ΜΥΡΣΩΝ" lemma="νοέω" postag="v3saia---" head="190045" relation="ADV"/>
+    <word id="190048" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190045" relation="PUNCT"/>
+    <word id="190049" form="χαίρων" line="4" speaker="ΜΥΡΣΩΝ" lemma="χαίρω" postag="v-sppamn-" head="190053" relation="ADV"/>
+    <word id="190050" form="ὥνεκα" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὥνεκα" postag="c--------" head="190049" relation="AuxC"/>
+    <word id="190051" form="δὴ" line="4" speaker="ΜΥΡΣΩΝ" lemma="δή" postag="d--------" head="190053" relation="AuxY"/>
+    <word id="190052" form="μέγα" line="4" speaker="ΜΥΡΣΩΝ" lemma="μέγας" postag="a-s---nn-" head="190055" relation="ATR"/>
+    <word id="190053" form="φαίνετο" line="4" speaker="ΜΥΡΣΩΝ" lemma="φαίνω" postag="v3siie---" head="0" relation="PRED"/>
+    <word id="190054" form="τ-" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---nn-" head="190055" relation="ATR"/>
+    <word id="190055" form="ὄρνεον" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὄρνεον" postag="n-s---nn-" head="190053" relation="SBJ"/>
+    <word id="190056" form="αὐτῷ" line="4" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---md-" head="190053" relation="OBJ"/>
+    <word id="190057" form="," line="4" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190045" relation="PUNCT"/>
+    <word id="190058" form="τὼς" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---ma-" head="190059" relation="ATR"/>
+    <word id="190059" form="καλάμως" line="5" speaker="ΜΥΡΣΩΝ" lemma="κάλαμος" postag="n-p---ma-" head="190064" relation="OBJ"/>
+    <word id="190060" form="ἅμα" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἅμα" postag="d--------" head="190064" relation="ADV"/>
+    <word id="190061" form="πάντας" line="5" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---ma-" head="190059" relation="ATR"/>
+    <word id="190062" form="ἐπ’" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἐπί" postag="r--------" head="190064" relation="AuxP"/>
+    <word id="190063" form="ἀλλάλοισι" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἀλλήλων" postag="p-p---md-" head="190062" relation="ADV"/>
+    <word id="190064" form="συνάπτων" line="5" speaker="ΜΥΡΣΩΝ" lemma="συνάπτω" postag="v-sppamn-" head="190071" relation="ADV"/>
+    <word id="190065" form="τᾷ" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fd-" head="190071" relation="OBJ"/>
+    <word id="190066" form="καὶ" line="6" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190070" relation="AuxY"/>
+    <word id="190067" form="τᾷ" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fd-" head="190070" relation="ATR"/>
+    <word id="190068" form="τὸν" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190069" relation="ATR"/>
+    <word id="190069" form="Ἔρωτα" line="6" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190070" relation="OBJ"/>
+    <word id="190070" form="μετάλμενον" line="6" speaker="ΜΥΡΣΩΝ" lemma="μεθάλλομαι" postag="v-sapmma-" head="190071" relation="OBJ"/>
+    <word id="190071" form="ἀμφεδόκευε" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἀμφιδοκεύω" postag="v3siia---" head="190053" relation="CO"/>
+    <word id="190072" form="." line="6" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190045" relation="PUNCT"/>
+  </sentence>
+  <sentence id="20" document_id="0036-003" subdoc="7">
+    <word id="190073" form="κ-" line="7" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190090" relation="AuxY"/>
+    <word id="190074" form="ὁ" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="190075" relation="ATR"/>
+    <word id="190075" form="παῖς" line="7" speaker="ΜΥΡΣΩΝ" lemma="παῖς" postag="n-s---cn-" head="190090" relation="SBJ"/>
+    <word id="190076" form="ἀσχαλάων" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἀσχαλάω" postag="v-sppamn-" head="190090" relation="ADV"/>
+    <word id="190077" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190073" relation="PUNCT"/>
+    <word id="190078" form="ὅκα" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὅκα" postag="c--------" head="190090" relation="AuxC"/>
+    <word id="190079" form="οἱ" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---mn-" head="190080" relation="ATR"/>
+    <word id="190080" form="τέλος" line="7" speaker="ΜΥΡΣΩΝ" lemma="τέλος" postag="d--------" head="190082" relation="SBJ"/>
+    <word id="190081" form="οὐδὲν" line="7" speaker="ΜΥΡΣΩΝ" lemma="οὐδείς" postag="a-s---na-" head="190082" relation="OBJ"/>
+    <word id="190082" form="ἀπάντη" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἀπαντάω" postag="v3siia---" head="190078" relation="ADV"/>
+    <word id="190083" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190073" relation="PUNCT"/>
+    <word id="190084" form="τὼς" line="8" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---ma-" head="190085" relation="ATR"/>
+    <word id="190085" form="καλάμως" line="8" speaker="ΜΥΡΣΩΝ" lemma="κάλαμος" postag="n-p---ma-" head="190086" relation="OBJ"/>
+    <word id="190086" form="ῥίψας" line="8" speaker="ΜΥΡΣΩΝ" lemma="ῥίπτω" postag="v-sapamn-" head="190090" relation="ADV"/>
+    <word id="190087" form="ποτ’" line="8" speaker="ΜΥΡΣΩΝ" lemma="ποτέ" postag="d--------" head="190086" relation="ADV"/>
+    <word id="190088" form="ἀροτρέα" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἀροτρεύς" postag="n-s---ma-" head="190090" relation="OBJ"/>
+    <word id="190089" form="πρέσβυν" line="8" speaker="ΜΥΡΣΩΝ" lemma="πρέσβυς" postag="n-s---ma-" head="190086" relation="OBJ"/>
+    <word id="190090" form="ἵκανεν" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἱκάνω" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190091" form="," line="8" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190073" relation="PUNCT"/>
+    <word id="190092" form="ὅς" line="9" speaker="ΜΥΡΣΩΝ" lemma="ὅς" postag="p-s---mn-" head="190096" relation="SBJ"/>
+    <word id="190093" form="νιν" line="9" speaker="ΜΥΡΣΩΝ" lemma="νιν" postag="p-s---ma-" head="190096" relation="OBJ"/>
+    <word id="190094" form="τάνδε" line="9" speaker="ΜΥΡΣΩΝ" lemma="ὅδε" postag="a-s---fa-" head="190095" relation="ATR"/>
+    <word id="190095" form="τέχναν" line="9" speaker="ΜΥΡΣΩΝ" lemma="τέχνη" postag="n-s---fa-" head="190096" relation="OBJ"/>
+    <word id="190096" form="ἐδιδάξατο" line="9" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v3saim---" head="190089" relation="ATR"/>
+    <word id="190097" form="," line="9" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190073" relation="PUNCT"/>
+    <word id="190098" form="καὶ" line="9" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190099" relation="AuxY"/>
+    <word id="190099" form="λέγεν" line="9" speaker="ΜΥΡΣΩΝ" lemma="λέγω" postag="v3siia---" head="190096" relation="CO"/>
+    <word id="190100" form="αὐτῷ" line="9" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---md-" head="190099" relation="OBJ"/>
+    <word id="190101" form="," line="9" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190073" relation="PUNCT"/>
+    <word id="190102" form="καί" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190104" relation="AuxY"/>
+    <word id="190103" form="οἱ" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἕ" postag="p-s---cd-" head="190104" relation="SBJ"/>
+    <word id="190104" form="δεῖξεν" line="10" speaker="ΜΥΡΣΩΝ" lemma="δείκνυμι" postag="v3saia---" head="190099" relation="CO"/>
+    <word id="190105" form="Ἔρωτα" line="10" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190104" relation="OBJ"/>
+    <word id="190106" form="καθήμενον" line="10" speaker="ΜΥΡΣΩΝ" lemma="κάθημαι" postag="v-sppema-" head="190104" relation="OBJ"/>
+    <word id="190107" form="." line="10" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190073" relation="PUNCT"/>
+  </sentence>
+  <sentence id="21" document_id="0036-003" subdoc="10">
+    <word id="190108" form="αὐτὰρ" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἀτάρ" postag="d--------" head="190112" relation="AuxY"/>
+    <word id="190109" form="ὁ" line="10" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="190111" relation="ATR"/>
+    <word id="190110" form="πρέσβυς" line="10" speaker="ΜΥΡΣΩΝ" lemma="πρέσβυς" postag="a-s---mn-" head="190111" relation="ATR"/>
+    <word id="190111" form="μειδιάων" line="11" speaker="ΜΥΡΣΩΝ" lemma="μειδιάων" postag="n-s---mn-" head="190112" relation="SBJ"/>
+    <word id="190112" form="κίνησε" line="11" speaker="ΜΥΡΣΩΝ" lemma="κινέω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="190113" form="κάρη" line="11" speaker="ΜΥΡΣΩΝ" lemma="κάρα" postag="n-p---na-" head="190112" relation="OBJ"/>
+    <word id="190114" form="καὶ" line="11" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190115" relation="AuxY"/>
+    <word id="190115" form="ἀμείβετο" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἀμείβω" postag="v3siie---" head="190112" relation="CO"/>
+    <word id="190116" form="παῖδα" line="11" speaker="ΜΥΡΣΩΝ" lemma="παῖς" postag="n-s---ca-" head="190115" relation="OBJ"/>
+    <word id="190117" form="·" line="11" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190108" relation="PUNCT"/>
+  </sentence>
+  <sentence id="22" document_id="0036-003" subdoc="12">
+    <word id="190118" form="&quot;" line="12" speaker="ΜΥΡΣΩΝ" lemma="&quot;" postag="u--------" head="190128" relation="PUNCT"/>
+    <word id="190119" form="φείδεο" line="12" speaker="ΜΥΡΣΩΝ" lemma="φείδομαι" postag="v2spme---" head="0" relation="PRED"/>
+    <word id="190120" form="τᾶς" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fg-" head="190121" relation="ATR"/>
+    <word id="190121" form="θήρας" line="12" speaker="ΜΥΡΣΩΝ" lemma="θήρα" postag="n-s---fg-" head="190119" relation="OBJ"/>
+    <word id="190122" form="," line="12" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190119" relation="PUNCT"/>
+    <word id="190123" form="μηδ’" line="12" speaker="ΜΥΡΣΩΝ" lemma="μηδέ" postag="b--------" head="190128" relation="AuxY"/>
+    <word id="190124" form="ἐς" line="12" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190128" relation="AuxP"/>
+    <word id="190125" form="τόδε" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὅδε" postag="a-s---na-" head="190127" relation="ATR"/>
+    <word id="190126" form="τ-" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---na-" head="190127" relation="ATR"/>
+    <word id="190127" form="ὄρνεον" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὄρνεον" postag="n-s---na-" head="190124" relation="OBJ"/>
+    <word id="190128" form="ἔρχευ" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἔρχομαι" postag="v2spme---" head="190119" relation="CO"/>
+    <word id="190129" form="." line="12" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190119" relation="PUNCT"/>
+  </sentence>
+  <sentence id="23" document_id="0036-003" subdoc="13">
+    <word id="190130" form="φεῦγε" line="13" speaker="ΜΥΡΣΩΝ" lemma="φεύγω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="190131" form="μακράν" line="13" speaker="ΜΥΡΣΩΝ" lemma="μακρός" postag="a-s---fa-" head="190130" relation="ADV"/>
+    <word id="190132" form="." line="13" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190130" relation="PUNCT"/>
+  </sentence>
+  <sentence id="24" document_id="0036-003" subdoc="13">
+    <word id="190133" form="κακόν" line="13" speaker="ΜΥΡΣΩΝ" lemma="κακός" postag="a-s---nn-" head="190134" relation="PNOM"/>
+    <word id="190134" form="ἐστι" line="13" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190135" form="τὸ" line="13" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---nn-" head="190136" relation="ATR"/>
+    <word id="190136" form="θηρίον" line="13" speaker="ΜΥΡΣΩΝ" lemma="θηρίον" postag="n-s---nn-" head="190134" relation="SBJ"/>
+    <word id="190137" form="." line="13" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190133" relation="PUNCT"/>
+  </sentence>
+  <sentence id="25" document_id="0036-003" subdoc="13">
+    <word id="190138" form="ὄλβιος" line="13" speaker="ΜΥΡΣΩΝ" lemma="ὄλβιος" postag="a-s---mn-" head="190139" relation="ADV"/>
+    <word id="190139" form="ἐσσῇ" line="13" speaker="ΜΥΡΣΩΝ" lemma="εἰσσέω" postag="v2spie---" head="0" relation="PRED"/>
+    <word id="190140" form="," line="13" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190138" relation="PUNCT"/>
+    <word id="190141" form="εἰσόκα" line="14" speaker="ΜΥΡΣΩΝ" lemma="εἰσόκε" postag="d--------" head="190139" relation="AuxC"/>
+    <word id="190142" form="μή" line="14" speaker="ΜΥΡΣΩΝ" lemma="μή" postag="d--------" head="190144" relation="AuxZ"/>
+    <word id="190143" form="νιν" line="14" speaker="ΜΥΡΣΩΝ" lemma="νιν" postag="p-s---ma-" head="190144" relation="OBJ"/>
+    <word id="190144" form="ἕλῃς" line="14" speaker="ΜΥΡΣΩΝ" lemma="αἱρέω" postag="v2sasa---" head="190141" relation="ADV"/>
+    <word id="190145" form="·" line="14" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190138" relation="PUNCT"/>
+  </sentence>
+  <sentence id="26" document_id="0036-003" subdoc="14">
+    <word id="190146" form="ἢν" line="14" speaker="ΜΥΡΣΩΝ" lemma="ἐάν" postag="c--------" head="190167" relation="AuxC"/>
+    <word id="190147" form="δ’" line="14" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190167" relation="AuxY"/>
+    <word id="190148" form="ἀνέρος" line="14" speaker="ΜΥΡΣΩΝ" lemma="ἀνήρ" postag="n-s---mg-" head="190151" relation="SBJ"/>
+    <word id="190149" form="ἐς" line="14" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190151" relation="AuxP"/>
+    <word id="190150" form="μέτρον" line="14" speaker="ΜΥΡΣΩΝ" lemma="μέτρον" postag="n-s---na-" head="190149" relation="OBJ"/>
+    <word id="190151" form="ἔλθῃς" line="14" speaker="ΜΥΡΣΩΝ" lemma="ἔρχομαι" postag="v2sasa---" head="190146" relation="ADV"/>
+    <word id="190152" form="," line="14" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190146" relation="PUNCT"/>
+    <word id="190153" form="οὗτος" line="15" speaker="ΜΥΡΣΩΝ" lemma="οὗτος" postag="a-s---mn-" head="190156" relation="ATR"/>
+    <word id="190154" form="ὁ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="190156" relation="ATR"/>
+    <word id="190155" form="νῦν" line="15" speaker="ΜΥΡΣΩΝ" lemma="νῦν" postag="d--------" head="190156" relation="ADV"/>
+    <word id="190156" form="φεύγων" line="15" speaker="ΜΥΡΣΩΝ" lemma="φεύγω" postag="v-sppamn-" head="190167" relation="ADV"/>
+    <word id="190157" form="καὶ" line="15" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190158" relation="AuxY"/>
+    <word id="190158" form="ἀπάλμενος" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἀφάλλομαι" postag="v-sapmmn-" head="190156" relation="CO"/>
+    <word id="190159" form="αὐτὸς" line="15" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---mn-" head="190158" relation="ADV"/>
+    <word id="190160" form="ἀφ’" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἀπό" postag="r--------" head="190162" relation="AuxP"/>
+    <word id="190161" form="αὑτῶ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἑαυτοῦ" postag="p-s---mg-" head="190160" relation="OBJ"/>
+    <word id="190162" form="ἐλθὼν" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἔρχομαι" postag="v-sapamn-" head="190167" relation="ADV"/>
+    <word id="190163" form="ἐξαπίνας" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἐξαίφνης" postag="d--------" head="190167" relation="ADV"/>
+    <word id="190164" form="κεφαλὰν" line="16" speaker="ΜΥΡΣΩΝ" lemma="κεφαλή" postag="n-s---fa-" head="190165" relation="ADV"/>
+    <word id="190165" form="ἔπι" line="16" speaker="ΜΥΡΣΩΝ" lemma="ἐπί" postag="r--------" head="190167" relation="AuxP"/>
+    <word id="190166" form="σεῖο" line="16" speaker="ΜΥΡΣΩΝ" lemma="σύ" postag="p-s---cg-" head="190165" relation="ADV"/>
+    <word id="190167" form="καθιξεῖ" line="16" speaker="ΜΥΡΣΩΝ" lemma="καθίζω" postag="v2sfim---" head="0" relation="PRED"/>
+    <word id="190168" form="&quot;" line="16" speaker="ΜΥΡΣΩΝ" lemma="&quot;" postag="u--------" head="190146" relation="PUNCT"/>
+    <word id="190169" form="." line="16" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190146" relation="PUNCT"/>
+  </sentence>
+  <sentence id="27" document_id="0036-003" subdoc="1">
+    <word id="190170" form="ἁ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fn-" head="190173" relation="ATR"/>
+    <word id="190171" form="μεγάλα" line="1" speaker="ΜΥΡΣΩΝ" lemma="μέγας" postag="a-s---fn-" head="190173" relation="ATR"/>
+    <word id="190172" form="μοι" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190176" relation="OBJ"/>
+    <word id="190173" form="Κύπρις" line="1" speaker="ΜΥΡΣΩΝ" lemma="Κύπρις" postag="n-s---fn-" head="190176" relation="SBJ"/>
+    <word id="190174" form="ἔθ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἔτι" postag="d--------" head="190176" relation="ADV"/>
+    <word id="190175" form="ὑπνώοντι" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὑπνάω" postag="v-sppamd-" head="190172" relation="ATR"/>
+    <word id="190176" form="παρέστα" line="1" speaker="ΜΥΡΣΩΝ" lemma="παρίστημι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="190177" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190170" relation="PUNCT"/>
+    <word id="190178" form="νηπίαχον" line="2" speaker="ΜΥΡΣΩΝ" lemma="νηπίαχος" postag="a-s---ma-" head="190180" relation="ATR"/>
+    <word id="190179" form="τὸν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190180" relation="ATR"/>
+    <word id="190180" form="Ἔρωτα" line="2" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190192" relation="OBJ"/>
+    <word id="190181" form="καλᾶς" line="2" speaker="ΜΥΡΣΩΝ" lemma="καλός" postag="a-s---fg-" head="190183" relation="ATR"/>
+    <word id="190182" form="ἐκ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190184" relation="AuxP"/>
+    <word id="190183" form="χειρὸς" line="2" speaker="ΜΥΡΣΩΝ" lemma="χείρ" postag="n-s---fg-" head="190182" relation="ADV"/>
+    <word id="190184" form="ἄγοισα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἄγω" postag="v-sppafn-" head="190180" relation="ATR"/>
+    <word id="190185" form="ἐς" line="3" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190187" relation="AuxP"/>
+    <word id="190186" form="χθόνα" line="3" speaker="ΜΥΡΣΩΝ" lemma="χθών" postag="n-s---fa-" head="190185" relation="OBJ"/>
+    <word id="190187" form="νευστάζοντα" line="3" speaker="ΜΥΡΣΩΝ" lemma="νευστάζω" postag="v-sppama-" head="190180" relation="ATR"/>
+    <word id="190188" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190170" relation="PUNCT"/>
+    <word id="190189" form="τόσον" line="3" speaker="ΜΥΡΣΩΝ" lemma="τόσος" postag="a-s---na-" head="190192" relation="ADV"/>
+    <word id="190190" form="δέ" line="3" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190192" relation="AuxY"/>
+    <word id="190191" form="μοι" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190192" relation="OBJ"/>
+    <word id="190192" form="ἔφρασε" line="3" speaker="ΜΥΡΣΩΝ" lemma="φράζω" postag="v3saia---" head="190176" relation="CO"/>
+    <word id="190193" form="μῦθον" line="3" speaker="ΜΥΡΣΩΝ" lemma="μῦθος" postag="n-s---ma-" head="190192" relation="OBJ"/>
+    <word id="190194" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190170" relation="PUNCT"/>
+  </sentence>
+  <sentence id="28" document_id="0036-003" subdoc="4">
+    <word id="190195" form="μέλπειν" line="4" speaker="ΜΥΡΣΩΝ" lemma="μέλπω" postag="v--pna---" head="190202" relation="OBJ"/>
+    <word id="190196" form="μοι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190202" relation="OBJ"/>
+    <word id="190197" form="φίλε" line="4" speaker="ΜΥΡΣΩΝ" lemma="φίλος" postag="a-s---mv-" head="190198" relation="ATR"/>
+    <word id="190198" form="βοῦτα" line="4" speaker="ΜΥΡΣΩΝ" lemma="βούτης" postag="n-s---mv-" head="190199" relation="OBJ"/>
+    <word id="190199" form="λαβὼν" line="4" speaker="ΜΥΡΣΩΝ" lemma="λαμβάνω" postag="v-sapamn-" head="190202" relation="ADV"/>
+    <word id="190200" form="τὸν" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190201" relation="ATR"/>
+    <word id="190201" form="Ἔρωτα" line="4" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190199" relation="OBJ"/>
+    <word id="190202" form="δίδασκε" line="4" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="190203" form="." line="4" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190195" relation="PUNCT"/>
+  </sentence>
+  <sentence id="29" document_id="0036-003" subdoc="5">
+    <word id="190204" form="ὣς" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190205" relation="ADV"/>
+    <word id="190205" form="λέγε" line="5" speaker="ΜΥΡΣΩΝ" lemma="λέγω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="190206" form="·" line="5" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190204" relation="PUNCT"/>
+  </sentence>
+  <sentence id="30" document_id="0036-003" subdoc="5">
+    <word id="190207" form="κ-" line="5" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190223" relation="AuxY"/>
+    <word id="190208" form="ἃ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὅς" postag="p-p---na-" head="190210" relation="OBJ"/>
+    <word id="190209" form="μὲν" line="5" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190210" relation="AuxY"/>
+    <word id="190210" form="ἀπῆνθεν" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἀπέρχομαι" postag="v3saia---" head="190223" relation="OBJ"/>
+    <word id="190211" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190212" form="ἐγὼ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cn-" head="190223" relation="SBJ"/>
+    <word id="190213" form="δ’" line="5" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190223" relation="AuxY"/>
+    <word id="190214" form="ὅσα" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὅσος" postag="p-p---na-" head="190215" relation="OBJ"/>
+    <word id="190215" form="βουκολίασδον" line="5" speaker="ΜΥΡΣΩΝ" lemma="βουκολίαδω" postag="v1saia---" head="190210" relation="CO"/>
+    <word id="190216" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190217" form="νήπιος" line="6" speaker="ΜΥΡΣΩΝ" lemma="νήπιος" postag="a-s---mn-" head="190223" relation="ADV"/>
+    <word id="190218" form="ὡς" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190219" relation="AuxZ"/>
+    <word id="190219" form="ἐθέλοντα" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἐθέλω" postag="v-sppama-" head="190220" relation="ADV"/>
+    <word id="190220" form="μαθεῖν" line="6" speaker="ΜΥΡΣΩΝ" lemma="μανθάνω" postag="v--ana---" head="190223" relation="OBJ"/>
+    <word id="190221" form="τὸν" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190222" relation="ATR"/>
+    <word id="190222" form="Ἔρωτα" line="6" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190220" relation="SBJ"/>
+    <word id="190223" form="δίδασκον" line="6" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="190224" form="," line="6" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190225" form="ὡς" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190223" relation="AuxC"/>
+    <word id="190226" form="εὗρε" line="7" speaker="ΜΥΡΣΩΝ" lemma="εὑρίσκω" postag="v3saia---" head="190225" relation="ADV"/>
+    <word id="190227" form="πλαγίαυλον" line="7" speaker="ΜΥΡΣΩΝ" lemma="πλαγίαυλος" postag="n-s---ma-" head="190226" relation="OBJ"/>
+    <word id="190228" form="ὁ" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="190229" relation="ATR"/>
+    <word id="190229" form="Πάν" line="7" speaker="ΜΥΡΣΩΝ" lemma="Πάν" postag="n-s---mn-" head="190226" relation="SBJ"/>
+    <word id="190230" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190231" form="ὡς" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190223" relation="AuxC"/>
+    <word id="190232" form="αὐλὸν" line="7" speaker="ΜΥΡΣΩΝ" lemma="αὐλός" postag="n-s---ma-" head="190231" relation="ADV/OBJ"/>
+    <word id="190233" form="Ἀθάνα" line="7" speaker="ΜΥΡΣΩΝ" lemma="Ἀθήνη" postag="n-s---fv-" head="190231" relation="ADV/SBJ"/>
+    <word id="190234" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190235" form="ὡς" line="8" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190226" relation="AuxC"/>
+    <word id="190236" form="χέλυν" line="8" speaker="ΜΥΡΣΩΝ" lemma="χέλυς" postag="n-s---fa-" head="190235" relation="ADV/OBJ"/>
+    <word id="190237" form="Ἑρμάων" line="8" speaker="ΜΥΡΣΩΝ" lemma="Ἑρμᾶος" postag="n-p---mg-" head="190236" relation="ATR"/>
+    <word id="190238" form="," line="8" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190207" relation="PUNCT"/>
+    <word id="190239" form="κίθαριν" line="8" speaker="ΜΥΡΣΩΝ" lemma="κίθαρις" postag="n-s---fa-" head="190240" relation="ADV/OBJ"/>
+    <word id="190240" form="ὡς" line="8" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190241" relation="AuxZ"/>
+    <word id="190241" form="ἁδὺς" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-s---mn-" head="190242" relation="ATR"/>
+    <word id="190242" form="Ἀπόλλων" line="8" speaker="ΜΥΡΣΩΝ" lemma="Ἀπόλλων" postag="n-s---mn-" head="190231" relation="ADV/SBJ"/>
+    <word id="190243" form="." line="8" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190207" relation="PUNCT"/>
+  </sentence>
+  <sentence id="31" document_id="0036-003" subdoc="9">
+    <word id="190244" form="ταῦτά" line="9" speaker="ΜΥΡΣΩΝ" lemma="οὗτος" postag="a-p---na-" head="190246" relation="OBJ"/>
+    <word id="190245" form="νιν" line="9" speaker="ΜΥΡΣΩΝ" lemma="νιν" postag="p-s---ma-" head="190246" relation="OBJ"/>
+    <word id="190246" form="ἐξεδίδασκον" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἐκδιδάσκω" postag="v1siia---" head="0" relation="PRED"/>
+    <word id="190247" form="·" line="9" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190244" relation="PUNCT"/>
+  </sentence>
+  <sentence id="32" document_id="0036-003" subdoc="9">
+    <word id="190248" form="ὃ" line="9" speaker="ΜΥΡΣΩΝ" lemma="ὅς" postag="p-s---na-" head="190251" relation="SBJ"/>
+    <word id="190249" form="δ’" line="9" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190251" relation="AuxY"/>
+    <word id="190250" form="οὐκ" line="9" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190251" relation="AuxZ"/>
+    <word id="190251" form="ἐμπάζετο" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἐμπάζομαι" postag="v3siie---" head="0" relation="PRED"/>
+    <word id="190252" form="μύθων" line="9" speaker="ΜΥΡΣΩΝ" lemma="μῦθος" postag="n-p---mg-" head="190251" relation="OBJ"/>
+    <word id="190253" form="," line="9" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190248" relation="PUNCT"/>
+    <word id="190254" form="ἀλλά" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἀλλά" postag="b--------" head="190257" relation="AuxY"/>
+    <word id="190255" form="μοι" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190257" relation="OBJ"/>
+    <word id="190256" form="αὐτὸς" line="10" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---mn-" head="190257" relation="ADV"/>
+    <word id="190257" form="ἄειδεν" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἀείδω" postag="v3siia---" head="190251" relation="CO"/>
+    <word id="190258" form="ἐρωτύλα" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἐρωτύλος" postag="a-p---na-" head="190257" relation="ADV"/>
+    <word id="190259" form="," line="10" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190248" relation="PUNCT"/>
+    <word id="190260" form="καί" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190262" relation="AuxY"/>
+    <word id="190261" form="μ’" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---ca-" head="190262" relation="OBJ"/>
+    <word id="190262" form="ἐδίδασκε" line="10" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v3siia---" head="190257" relation="CO"/>
+    <word id="190263" form="θνατῶν" line="11" speaker="ΜΥΡΣΩΝ" lemma="θνητός" postag="a-p---mg-" head="190266" relation="ATR"/>
+    <word id="190264" form="ἀθανάτων" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἀθάνατος" postag="a-p---mg-" head="190266" relation="ATR"/>
+    <word id="190265" form="τε" line="11" speaker="ΜΥΡΣΩΝ" lemma="τε" postag="b--------" head="190266" relation="AuxY"/>
+    <word id="190266" form="πόθως" line="11" speaker="ΜΥΡΣΩΝ" lemma="πόθος" postag="n-p---ma-" head="190262" relation="SBJ"/>
+    <word id="190267" form="καὶ" line="11" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190268" relation="AuxY"/>
+    <word id="190268" form="ματέρος" line="11" speaker="ΜΥΡΣΩΝ" lemma="μήτηρ" postag="n-s---fg-" head="190266" relation="CO"/>
+    <word id="190269" form="ἔργα" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἔργον" postag="n-p---na-" head="190266" relation="CO"/>
+    <word id="190270" form="." line="11" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190248" relation="PUNCT"/>
+  </sentence>
+  <sentence id="33" document_id="0036-003" subdoc="12">
+    <word id="190271" form="κ-" line="12" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190273" relation="AuxY"/>
+    <word id="190272" form="ἐγὼν" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cn-" head="190273" relation="SBJ"/>
+    <word id="190273" form="ἐκλαθόμαν" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἐκλανθάνω" postag="v1saim---" head="0" relation="PRED"/>
+    <word id="190274" form="μὲν" line="12" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190273" relation="AuxY"/>
+    <word id="190275" form="ὅσων" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὅσος" postag="p-p---ng-" head="190278" relation="OBJ"/>
+    <word id="190276" form="τὸν" line="12" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190277" relation="ATR"/>
+    <word id="190277" form="Ἔρωτ’" line="12" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190278" relation="OBJ"/>
+    <word id="190278" form="ἐδίδασκον" line="12" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v3piia---" head="190273" relation="OBJ"/>
+    <word id="190279" form="," line="12" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190271" relation="PUNCT"/>
+    <word id="190280" form="ὅσσα" line="13" speaker="ΜΥΡΣΩΝ" lemma="ὅσος" postag="p-p---nn-" head="190284" relation="OBJ"/>
+    <word id="190281" form="δ’" line="13" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190287" relation="AuxY"/>
+    <word id="190282" form="Ἔρως" line="13" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---mn-" head="190284" relation="SBJ"/>
+    <word id="190283" form="μ’" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---ca-" head="190284" relation="OBJ"/>
+    <word id="190284" form="ἐδίδαξεν" line="13" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v3saia---" head="190287" relation="OBJ"/>
+    <word id="190285" form="ἐρωτύλα" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἐρωτύλος" postag="a-p---na-" head="190287" relation="ADV"/>
+    <word id="190286" form="πάντ’" line="13" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190287" relation="OBJ"/>
+    <word id="190287" form="ἐδιδάχθην" line="13" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v1saip---" head="190273" relation="CO"/>
+    <word id="190288" form="." line="13" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190271" relation="PUNCT"/>
+  </sentence>
+  <sentence id="34" document_id="0036-003" subdoc="1">
+    <word id="190289" form="ταὶ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---fn-" head="190290" relation="ATR"/>
+    <word id="190290" form="Μοῖσαι" line="1" speaker="ΜΥΡΣΩΝ" lemma="Μοῦσα" postag="n-p---fn-" head="190296" relation="SBJ"/>
+    <word id="190291" form="τὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190292" relation="ATR"/>
+    <word id="190292" form="Ἔρωτα" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190296" relation="OBJ"/>
+    <word id="190293" form="τὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190294" relation="ATR"/>
+    <word id="190294" form="ἄγριον" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἄγριος" postag="a-s---ma-" head="190292" relation="ATR"/>
+    <word id="190295" form="οὐ" line="1" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190296" relation="AuxZ"/>
+    <word id="190296" form="φοβέονται" line="1" speaker="ΜΥΡΣΩΝ" lemma="φοβέω" postag="v3ppie---" head="0" relation="PRED"/>
+    <word id="190297" form="ἐκ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190300" relation="AuxP"/>
+    <word id="190298" form="θυμῶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="θυμός" postag="n-s---mg-" head="190297" relation="ADV"/>
+    <word id="190299" form="δὲ" line="2" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190300" relation="AuxY"/>
+    <word id="190300" form="φιλεῦντι" line="2" speaker="ΜΥΡΣΩΝ" lemma="φιλέω" postag="v3ppia---" head="190296" relation="CO"/>
+    <word id="190301" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190305" relation="AuxY"/>
+    <word id="190302" form="ἐκ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190305" relation="AuxP"/>
+    <word id="190303" form="ποδὸς" line="2" speaker="ΜΥΡΣΩΝ" lemma="πούς" postag="n-s---mg-" head="190302" relation="ADV"/>
+    <word id="190304" form="αὐτῷ" line="2" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---md-" head="190305" relation="OBJ"/>
+    <word id="190305" form="ἕπονται" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἕπομαι" postag="v3ppie---" head="190300" relation="CO"/>
+    <word id="190306" form="." line="2" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190289" relation="PUNCT"/>
+  </sentence>
+  <sentence id="35" document_id="0036-003" subdoc="3">
+    <word id="190307" form="κ-" line="3" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190318" relation="AuxY"/>
+    <word id="190308" form="ἒν" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἐν" postag="r--------" head="190315" relation="AuxP"/>
+    <word id="190309" form="μὲν" line="3" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190318" relation="AuxY"/>
+    <word id="190310" form="ἄρα" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἄρα" postag="d--------" head="190315" relation="AuxY"/>
+    <word id="190311" form="ψυχάν" line="3" speaker="ΜΥΡΣΩΝ" lemma="ψυχή" postag="n-s---fa-" head="190313" relation="OBJ"/>
+    <word id="190312" form="τις" line="3" speaker="ΜΥΡΣΩΝ" lemma="τις" postag="a-s---cn-" head="190315" relation="SBJ"/>
+    <word id="190313" form="ἔχων" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἔχω" postag="v-sppamn-" head="190315" relation="ADV"/>
+    <word id="190314" form="ἀνέραστον" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀνέραστος" postag="a-s---fa-" head="190311" relation="ATR"/>
+    <word id="190315" form="ἀείδῃ" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀείδω" postag="v3spsa---" head="0" relation="PRED"/>
+    <word id="190316" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190307" relation="PUNCT"/>
+    <word id="190317" form="τῆνον" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐκεῖνος" postag="a-s---ma-" head="190318" relation="OBJ"/>
+    <word id="190318" form="ὑπεκφεύγοντι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὑπεκφεύγω" postag="v3ppia---" head="190315" relation="CO"/>
+    <word id="190319" form="καὶ" line="4" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190321" relation="AuxY"/>
+    <word id="190320" form="οὐκ" line="4" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190321" relation="AuxZ"/>
+    <word id="190321" form="ἐθέλοντι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐθέλω" postag="v3ppia---" head="190318" relation="CO"/>
+    <word id="190322" form="διδάσκειν" line="4" speaker="ΜΥΡΣΩΝ" lemma="διδάσκω" postag="v--pna---" head="190321" relation="OBJ"/>
+    <word id="190323" form="·" line="4" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190307" relation="PUNCT"/>
+  </sentence>
+  <sentence id="36" document_id="0036-003" subdoc="5">
+    <word id="190324" form="ἢν" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἐάν" postag="c--------" head="190338" relation="AuxC"/>
+    <word id="190325" form="δὲ" line="5" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190338" relation="AuxY"/>
+    <word id="190326" form="νόον" line="5" speaker="ΜΥΡΣΩΝ" lemma="νόος" postag="n-s---ma-" head="190329" relation="OBJ"/>
+    <word id="190327" form="τις" line="5" speaker="ΜΥΡΣΩΝ" lemma="τις" postag="a-s---cn-" head="190331" relation="SBJ"/>
+    <word id="190328" form="Ἔρωτι" line="5" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---md-" head="190329" relation="OBJ"/>
+    <word id="190329" form="δονεύμενος" line="5" speaker="ΜΥΡΣΩΝ" lemma="δονέω" postag="v-sppemn-" head="190331" relation="ADV"/>
+    <word id="190330" form="ἁδὺ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-s---na-" head="190326" relation="ATR"/>
+    <word id="190331" form="μελίσδῃ" line="5" speaker="ΜΥΡΣΩΝ" lemma="μελίζω" postag="v3spsa---" head="190324" relation="ADV"/>
+    <word id="190332" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190324" relation="PUNCT"/>
+    <word id="190333" form="ἐς" line="6" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190337" relation="AuxP"/>
+    <word id="190334" form="τῆνον" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἐκεῖνος" postag="a-s---ma-" head="190333" relation="OBJ"/>
+    <word id="190335" form="μάλα" line="6" speaker="ΜΥΡΣΩΝ" lemma="μάλα" postag="d--------" head="190336" relation="ADV"/>
+    <word id="190336" form="πᾶσαι" line="6" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---fn-" head="190338" relation="SBJ"/>
+    <word id="190337" form="ἐπειγόμεναι" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἐπείγω" postag="v-pppefn-" head="190338" relation="ADV"/>
+    <word id="190338" form="προρέοντι" line="6" speaker="ΜΥΡΣΩΝ" lemma="προρέω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="190339" form="." line="6" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190324" relation="PUNCT"/>
+  </sentence>
+  <sentence id="37" document_id="0036-003" subdoc="7">
+    <word id="190340" form="μάρτυς" line="7" speaker="ΜΥΡΣΩΝ" lemma="μάρτυς" postag="n-s---mn-" head="190341" relation="ATR"/>
+    <word id="190341" form="ἐγών" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cn-" head="0" relation="PRED/SBJ"/>
+    <word id="190342" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190340" relation="PUNCT"/>
+    <word id="190343" form="ὅτι" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὅτι" postag="c--------" head="190340" relation="AuxC"/>
+    <word id="190344" form="μῦθος" line="7" speaker="ΜΥΡΣΩΝ" lemma="μῦθος" postag="n-s---mn-" head="190346" relation="SBJ"/>
+    <word id="190345" form="ὅδ’" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὅδε" postag="a-s---mn-" head="190344" relation="ATR"/>
+    <word id="190346" form="ἔπλετο" line="7" speaker="ΜΥΡΣΩΝ" lemma="πέλω" postag="v3siie---" head="190343" relation="ADV"/>
+    <word id="190347" form="πᾶσιν" line="7" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---md-" head="190348" relation="ADV"/>
+    <word id="190348" form="ἀλαθής" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἀληθής" postag="a-s---mn-" head="190344" relation="ATR"/>
+    <word id="190349" form="." line="7" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190340" relation="PUNCT"/>
+  </sentence>
+  <sentence id="38" document_id="0036-003" subdoc="8">
+    <word id="190350" form="ἢν" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐάν" postag="c--------" head="190360" relation="AuxC"/>
+    <word id="190351" form="μὲν" line="8" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190360" relation="AuxY"/>
+    <word id="190352" form="γὰρ" line="8" speaker="ΜΥΡΣΩΝ" lemma="γάρ" postag="d--------" head="190360" relation="AuxY"/>
+    <word id="190353" form="βροτὸν" line="8" speaker="ΜΥΡΣΩΝ" lemma="βροτός" postag="n-s---ma-" head="190358" relation="OBJ"/>
+    <word id="190354" form="ἄλλον" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἄλλος" postag="a-s---ma-" head="190353" relation="ATR"/>
+    <word id="190355" form="ἢ" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἤ" postag="b--------" head="190357" relation="AuxY"/>
+    <word id="190356" form="ἀθανάτων" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἀθάνατος" postag="a-p---mg-" head="190357" relation="ATR"/>
+    <word id="190357" form="τινὰ" line="8" speaker="ΜΥΡΣΩΝ" lemma="τις" postag="a-s---ca-" head="190353" relation="CO"/>
+    <word id="190358" form="μέλπω" line="8" speaker="ΜΥΡΣΩΝ" lemma="μέλπω" postag="v1spia---" head="190350" relation="ADV"/>
+    <word id="190359" form="," line="8" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190350" relation="PUNCT"/>
+    <word id="190360" form="βαμβαίνει" line="9" speaker="ΜΥΡΣΩΝ" lemma="βαμβαίνω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190361" form="μοι" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190360" relation="OBJ"/>
+    <word id="190362" form="γλῶσσα" line="9" speaker="ΜΥΡΣΩΝ" lemma="γλῶσσα" postag="n-s---fn-" head="190360" relation="SBJ"/>
+    <word id="190363" form="καὶ" line="9" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190367" relation="AuxY"/>
+    <word id="190364" form="ὡς" line="9" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190365" relation="AuxZ"/>
+    <word id="190365" form="πάρος" line="9" speaker="ΜΥΡΣΩΝ" lemma="πάρος" postag="d--------" head="190367" relation="ADV"/>
+    <word id="190366" form="οὐκέτ’" line="9" speaker="ΜΥΡΣΩΝ" lemma="οὐκέτι" postag="d--------" head="190367" relation="AuxZ"/>
+    <word id="190367" form="ἀείδει" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἀείδω" postag="v3spia---" head="190360" relation="CO"/>
+    <word id="190368" form="·" line="9" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190350" relation="PUNCT"/>
+  </sentence>
+  <sentence id="39" document_id="0036-003" subdoc="10">
+    <word id="190369" form="ἢν" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἐάν" postag="c--------" head="190387" relation="AuxC"/>
+    <word id="190370" form="δ’" line="10" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190387" relation="AuxY"/>
+    <word id="190371" form="αὖτ’" line="10" speaker="ΜΥΡΣΩΝ" lemma="αὖτε" postag="d--------" head="190379" relation="ADV"/>
+    <word id="190372" form="ἐς" line="10" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190379" relation="AuxP"/>
+    <word id="190373" form="τὸν" line="10" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190374" relation="ATR"/>
+    <word id="190374" form="Ἔρωτα" line="10" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190372" relation="OBJ"/>
+    <word id="190375" form="καὶ" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190376" relation="AuxY"/>
+    <word id="190376" form="ἐς" line="10" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190374" relation="AuxP"/>
+    <word id="190377" form="Λυκίδαν" line="10" speaker="ΜΥΡΣΩΝ" lemma="Λυκίδης" postag="n-s---ma-" head="190376" relation="CO"/>
+    <word id="190378" form="τι" line="10" speaker="ΜΥΡΣΩΝ" lemma="τις" postag="a-s---na-" head="190379" relation="OBJ"/>
+    <word id="190379" form="μελίσδω" line="10" speaker="ΜΥΡΣΩΝ" lemma="μελίζω" postag="v1spia---" head="190369" relation="ADV"/>
+    <word id="190380" form="," line="10" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190369" relation="PUNCT"/>
+    <word id="190381" form="καὶ" line="11" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190382" relation="AuxZ"/>
+    <word id="190382" form="τόκα" line="11" speaker="ΜΥΡΣΩΝ" lemma="τότε" postag="d--------" head="190384" relation="ADV"/>
+    <word id="190383" form="μοι" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190387" relation="ADV"/>
+    <word id="190384" form="χαίροισα" line="11" speaker="ΜΥΡΣΩΝ" lemma="χαίρω" postag="v-sppafn-" head="190387" relation="ADV"/>
+    <word id="190385" form="διὰ" line="11" speaker="ΜΥΡΣΩΝ" lemma="διά" postag="r--------" head="190387" relation="AuxP"/>
+    <word id="190386" form="στόματος" line="11" speaker="ΜΥΡΣΩΝ" lemma="στόμα" postag="n-s---ng-" head="190385" relation="ADV"/>
+    <word id="190387" form="ῥέει" line="11" speaker="ΜΥΡΣΩΝ" lemma="ῥέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190388" form="αὐδά" line="11" speaker="ΜΥΡΣΩΝ" lemma="αὐδή" postag="n-s---fn-" head="190387" relation="SBJ"/>
+    <word id="190389" form="." line="11" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190369" relation="PUNCT"/>
+  </sentence>
+  <sentence id="40" document_id="0036-003" subdoc="1">
+    <word id="190390" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190399" relation="PUNCT"/>
+    <word id="190391" form="οὐκ" line="1" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190392" relation="AuxZ"/>
+    <word id="190392" form="οἶδ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="οἶδα" postag="v1sria---" head="0" relation="PRED"/>
+    <word id="190393" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190390" relation="PUNCT"/>
+    <word id="190394" form="οὐδ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="οὐδέ" postag="d--------" head="190395" relation="AuxY"/>
+    <word id="190395" form="ἐπέοικεν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐπέοικε" postag="v3sria---" head="190392" relation="CO"/>
+    <word id="190396" form="ἃ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὅς" postag="p-p---na-" head="190398" relation="OBJ"/>
+    <word id="190397" form="μὴ" line="1" speaker="ΜΥΡΣΩΝ" lemma="μή" postag="d--------" head="190398" relation="AuxZ"/>
+    <word id="190398" form="μάθομες" line="1" speaker="ΜΥΡΣΩΝ" lemma="μάθομον" postag="v2saia---" head="190395" relation="OBJ"/>
+    <word id="190399" form="πονέεσθαι" line="1" speaker="ΜΥΡΣΩΝ" lemma="πονέω" postag="v--pne---" head="190398" relation="OBJ"/>
+    <word id="190400" form="." line="1" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190391" relation="PUNCT"/>
+  </sentence>
+  <sentence id="41" document_id="0036-003" subdoc="2">
+    <word id="190401" form="εἴ" line="2" speaker="ΜΥΡΣΩΝ" lemma="εἰ" postag="c--------" head="190418" relation="AuxC"/>
+    <word id="190402" form="μοι" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190404" relation="ADV"/>
+    <word id="190403" form="καλὰ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καλός" postag="a-p---na-" head="190404" relation="PNOM"/>
+    <word id="190404" form="πέλει" line="2" speaker="ΜΥΡΣΩΝ" lemma="πέλω" postag="v3spia---" head="190401" relation="ADV"/>
+    <word id="190405" form="τὰ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---na-" head="190406" relation="ATR"/>
+    <word id="190406" form="μελύδρια" line="2" speaker="ΜΥΡΣΩΝ" lemma="μελύδριον" postag="n-p---na-" head="190404" relation="SBJ"/>
+    <word id="190407" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190401" relation="PUNCT"/>
+    <word id="190408" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190413" relation="AuxY"/>
+    <word id="190409" form="τάδε" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὅδε" postag="a-p---na-" head="190411" relation="ATR"/>
+    <word id="190410" form="μῶνα" line="2" speaker="ΜΥΡΣΩΝ" lemma="μόνος" postag="a-p---na-" head="190411" relation="ATR"/>
+    <word id="190411" form="κῦδος" line="3" speaker="ΜΥΡΣΩΝ" lemma="κῦδος" postag="n-s---na-" head="190413" relation="SBJ"/>
+    <word id="190412" form="ἐμοὶ" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190413" relation="OBJ"/>
+    <word id="190413" form="θήσοντι" line="3" speaker="ΜΥΡΣΩΝ" lemma="τίθημι" postag="v3pfia---" head="190404" relation="CO"/>
+    <word id="190414" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190401" relation="PUNCT"/>
+    <word id="190415" form="τά" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---na-" head="190418" relation="OBJ"/>
+    <word id="190416" form="μοι" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190418" relation="OBJ"/>
+    <word id="190417" form="πάρος" line="3" speaker="ΜΥΡΣΩΝ" lemma="πάρος" postag="d--------" head="190418" relation="ADV"/>
+    <word id="190418" form="ὤπασε" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὀπάζω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="190419" form="Μοῖρα" line="3" speaker="ΜΥΡΣΩΝ" lemma="Μοῖρα" postag="n-s---fn-" head="190418" relation="SBJ"/>
+    <word id="190420" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190401" relation="PUNCT"/>
+  </sentence>
+  <sentence id="42" document_id="0036-003" subdoc="4">
+    <word id="190421" form="εἰ" line="4" speaker="ΜΥΡΣΩΝ" lemma="εἰ" postag="c--------" head="190431" relation="AuxC"/>
+    <word id="190422" form="δ’" line="4" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190431" relation="AuxY"/>
+    <word id="190423" form="οὐχ" line="4" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190421" relation="ADV/AuxZ"/>
+    <word id="190424" form="ἁδέα" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἡδύς" postag="a-p---na-" head="190421" relation="ADV/PNOM"/>
+    <word id="190425" form="ταῦτα" line="4" speaker="ΜΥΡΣΩΝ" lemma="οὗτος" postag="a-p---na-" head="190421" relation="ADV/SBJ"/>
+    <word id="190426" form="," line="4" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190421" relation="PUNCT"/>
+    <word id="190427" form="τί" line="4" speaker="ΜΥΡΣΩΝ" lemma="τίς" postag="a-s---na-" head="190431" relation="OBJ"/>
+    <word id="190428" form="μοι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190431" relation="OBJ"/>
+    <word id="190429" form="ποτὶ" line="4" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190431" relation="AuxP"/>
+    <word id="190430" form="πλείονα" line="4" speaker="ΜΥΡΣΩΝ" lemma="πολύς" postag="a-s---mac" head="190429" relation="ADV"/>
+    <word id="190431" form="μοχθεῖν" line="4" speaker="ΜΥΡΣΩΝ" lemma="μοχθέω" postag="v--pna---" head="0" relation="PRED/OBJ"/>
+    <word id="190432" form=";" line="4" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190421" relation="PUNCT"/>
+  </sentence>
+  <sentence id="43" document_id="0036-003" subdoc="5">
+    <word id="190433" form="εἰ" line="5" speaker="ΜΥΡΣΩΝ" lemma="εἰ" postag="c--------" head="190461" relation="AuxC"/>
+    <word id="190434" form="μὲν" line="5" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190461" relation="AuxY"/>
+    <word id="190435" form="γὰρ" line="5" speaker="ΜΥΡΣΩΝ" lemma="γάρ" postag="d--------" head="190461" relation="AuxY"/>
+    <word id="190436" form="βιότω" line="5" speaker="ΜΥΡΣΩΝ" lemma="βίοτος" postag="n-s---mg-" head="190438" relation="ATR"/>
+    <word id="190437" form="διπλόον" line="5" speaker="ΜΥΡΣΩΝ" lemma="διπλόος" postag="a-s---ma-" head="190438" relation="ATR"/>
+    <word id="190438" form="χρόνον" line="5" speaker="ΜΥΡΣΩΝ" lemma="χρόνος" postag="n-s---ma-" head="190440" relation="ADV"/>
+    <word id="190439" form="ἄμμιν" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-p---cd-" head="190440" relation="SBJ"/>
+    <word id="190440" form="ἔδωκεν" line="5" speaker="ΜΥΡΣΩΝ" lemma="δίδωμι" postag="v3saia---" head="190433" relation="ADV"/>
+    <word id="190441" form="ἢ" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἤ" postag="b--------" head="190442" relation="AuxY"/>
+    <word id="190442" form="Κρονίδας" line="6" speaker="ΜΥΡΣΩΝ" lemma="Κρονίδης" postag="n-s---mn-" head="190439" relation="CO"/>
+    <word id="190443" form="ἢ" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἤ" postag="b--------" head="190444" relation="AuxY"/>
+    <word id="190444" form="Μοῖρα" line="6" speaker="ΜΥΡΣΩΝ" lemma="Μοῖρα" postag="n-s---fn-" head="190442" relation="CO"/>
+    <word id="190445" form="πολύτροπος" line="6" speaker="ΜΥΡΣΩΝ" lemma="πολύτροπος" postag="a-s---fn-" head="190444" relation="ATR"/>
+    <word id="190446" form="," line="6" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190433" relation="PUNCT"/>
+    <word id="190447" form="ὥστ’" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὥστε" postag="c--------" head="190440" relation="AuxC"/>
+    <word id="190448" form="ἀνύεσθαι" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἀνύω" postag="v--pne---" head="190447" relation="ADV"/>
+    <word id="190449" form="τὸν" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190448" relation="SBJ"/>
+    <word id="190450" form="μὲν" line="7" speaker="ΜΥΡΣΩΝ" lemma="μέν" postag="d--------" head="190448" relation="AuxY"/>
+    <word id="190451" form="ἐς" line="7" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190448" relation="AuxP"/>
+    <word id="190452" form="εὐφροσύναν" line="7" speaker="ΜΥΡΣΩΝ" lemma="εὐφροσύνη" postag="n-s---fa-" head="190451" relation="OBJ"/>
+    <word id="190453" form="καὶ" line="7" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190454" relation="AuxY"/>
+    <word id="190454" form="χάρματα" line="7" speaker="ΜΥΡΣΩΝ" lemma="χάρμα" postag="n-p---na-" head="190452" relation="CO"/>
+    <word id="190455" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190433" relation="PUNCT"/>
+    <word id="190456" form="τὸν" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190448" relation="CO/SBJ"/>
+    <word id="190457" form="δ’" line="7" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190448" relation="CO/AuxY"/>
+    <word id="190458" form="ἐπὶ" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἐπί" postag="r--------" head="190448" relation="CO/AuxP"/>
+    <word id="190459" form="μόχθῳ" line="7" speaker="ΜΥΡΣΩΝ" lemma="μόχθος" postag="n-s---md-" head="190458" relation="ADV"/>
+    <word id="190460" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190433" relation="PUNCT"/>
+    <word id="190461" form="ἦν" line="8" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190462" form="τάχα" line="8" speaker="ΜΥΡΣΩΝ" lemma="τάχα" postag="d--------" head="190463" relation="ADV"/>
+    <word id="190463" form="μοχθήσαντί" line="8" speaker="ΜΥΡΣΩΝ" lemma="μοχθέω" postag="v-sapamd-" head="190467" relation="ADV"/>
+    <word id="190464" form="ποθ’" line="8" speaker="ΜΥΡΣΩΝ" lemma="ποτέ" postag="d--------" head="190463" relation="ADV"/>
+    <word id="190465" form="ὕστερον" line="8" speaker="ΜΥΡΣΩΝ" lemma="ὕστερον" postag="d-------c" head="190467" relation="ADV"/>
+    <word id="190466" form="ἐσθλὰ" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐσθλός" postag="a-p---na-" head="190467" relation="OBJ"/>
+    <word id="190467" form="δέχεσθαι" line="8" speaker="ΜΥΡΣΩΝ" lemma="δέχομαι" postag="v--pne---" head="190461" relation="SBJ"/>
+    <word id="190468" form="." line="8" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190433" relation="PUNCT"/>
+  </sentence>
+  <sentence id="44" document_id="0036-003" subdoc="9">
+    <word id="190469" form="εἰ" line="9" speaker="ΜΥΡΣΩΝ" lemma="εἰ" postag="c--------" head="190495" relation="AuxC"/>
+    <word id="190470" form="δὲ" line="9" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190495" relation="AuxY"/>
+    <word id="190471" form="θεοὶ" line="9" speaker="ΜΥΡΣΩΝ" lemma="θεός" postag="n-p---mn-" head="190472" relation="SBJ"/>
+    <word id="190472" form="κατένευσαν" line="9" speaker="ΜΥΡΣΩΝ" lemma="κατανεύω" postag="v3paia---" head="190469" relation="ADV"/>
+    <word id="190473" form="ἕνα" line="9" speaker="ΜΥΡΣΩΝ" lemma="εἷς" postag="a-s---ma-" head="190474" relation="ATR"/>
+    <word id="190474" form="χρόνον" line="9" speaker="ΜΥΡΣΩΝ" lemma="χρόνος" postag="n-s---ma-" head="190477" relation="ADV"/>
+    <word id="190475" form="ἐς" line="9" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190477" relation="AuxP"/>
+    <word id="190476" form="βίον" line="9" speaker="ΜΥΡΣΩΝ" lemma="βίος" postag="n-s---ma-" head="190475" relation="OBJ"/>
+    <word id="190477" form="ἐλθεῖν" line="9" speaker="ΜΥΡΣΩΝ" lemma="ἔρχομαι" postag="v--ana---" head="190472" relation="OBJ"/>
+    <word id="190478" form="ἀνθρώποις" line="10" speaker="ΜΥΡΣΩΝ" lemma="ἄνθρωπος" postag="n-p---md-" head="190477" relation="OBJ"/>
+    <word id="190479" form="," line="10" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190469" relation="PUNCT"/>
+    <word id="190480" form="καὶ" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190481" relation="AuxY"/>
+    <word id="190481" form="τόνδε" line="10" speaker="ΜΥΡΣΩΝ" lemma="ὅδε" postag="a-s---ma-" head="190477" relation="SBJ"/>
+    <word id="190482" form="βραχὺν" line="10" speaker="ΜΥΡΣΩΝ" lemma="βραχύς" postag="a-s---ma-" head="190481" relation="ATR"/>
+    <word id="190483" form="καὶ" line="10" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190484" relation="AuxY"/>
+    <word id="190484" form="μείονα" line="10" speaker="ΜΥΡΣΩΝ" lemma="μείων" postag="a-s---mac" head="190482" relation="CO"/>
+    <word id="190485" form="πάντων" line="10" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---mg-" head="190484" relation="ATR"/>
+    <word id="190486" form="," line="10" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190469" relation="PUNCT"/>
+    <word id="190487" form="ἐς" line="11" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190495" relation="AuxP"/>
+    <word id="190488" form="πόσον" line="11" speaker="ΜΥΡΣΩΝ" lemma="πόσος" postag="a-s---na-" head="190487" relation="ADV"/>
+    <word id="190489" form="ἆ" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἆ" postag="i--------" head="190495" relation="ExD"/>
+    <word id="190490" form="δειλοὶ" line="11" speaker="ΜΥΡΣΩΝ" lemma="δειλός" postag="a-p---mv-" head="190495" relation="SBJ"/>
+    <word id="190491" form="καμάτως" line="11" speaker="ΜΥΡΣΩΝ" lemma="κάματος" postag="n-p---ma-" head="190495" relation="ADV"/>
+    <word id="190492" form="κ-" line="11" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190495" relation="AuxY"/>
+    <word id="190493" form="εἰς" line="11" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190495" relation="AuxP"/>
+    <word id="190494" form="ἔργα" line="11" speaker="ΜΥΡΣΩΝ" lemma="ἔργον" postag="n-p---na-" head="190493" relation="OBJ"/>
+    <word id="190495" form="πονεῦμες" line="11" speaker="ΜΥΡΣΩΝ" lemma="πονέω" postag="v1ppia---" head="0" relation="PRED"/>
+    <word id="190496" form="," line="11" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190469" relation="PUNCT"/>
+    <word id="190497" form="ψυχὰν" line="12" speaker="ΜΥΡΣΩΝ" lemma="ψυχή" postag="n-s---fa-" head="190506" relation="OBJ"/>
+    <word id="190498" form="δ’" line="12" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190506" relation="AuxY"/>
+    <word id="190499" form="ἄχρι" line="12" speaker="ΜΥΡΣΩΝ" lemma="ἄχρι" postag="r--------" head="190506" relation="AuxP"/>
+    <word id="190500" form="τίνος" line="12" speaker="ΜΥΡΣΩΝ" lemma="τίς" postag="a-s---cg-" head="190499" relation="ADV"/>
+    <word id="190501" form="ποτὶ" line="12" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190506" relation="AuxP"/>
+    <word id="190502" form="κέρδεα" line="12" speaker="ΜΥΡΣΩΝ" lemma="κέρδος" postag="n-p---na-" head="190501" relation="OBJ"/>
+    <word id="190503" form="καὶ" line="12" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190504" relation="AuxY"/>
+    <word id="190504" form="ποτὶ" line="12" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190502" relation="AuxP"/>
+    <word id="190505" form="τέχνας" line="12" speaker="ΜΥΡΣΩΝ" lemma="τέχνη" postag="n-p---fa-" head="190504" relation="CO"/>
+    <word id="190506" form="βάλλομες" line="13" speaker="ΜΥΡΣΩΝ" lemma="βάλλω" postag="v1ppia---" head="190495" relation="CO"/>
+    <word id="190507" form="," line="13" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190469" relation="PUNCT"/>
+    <word id="190508" form="ἱμείροντες" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἱμείρω" postag="v-pppamn-" head="190506" relation="ADV"/>
+    <word id="190509" form="ἀεὶ" line="13" speaker="ΜΥΡΣΩΝ" lemma="ἀεί" postag="d--------" head="190508" relation="ADV"/>
+    <word id="190510" form="πολὺ" line="13" speaker="ΜΥΡΣΩΝ" lemma="πολύς" postag="a-s---na-" head="190511" relation="ADV"/>
+    <word id="190511" form="πλείονος" line="13" speaker="ΜΥΡΣΩΝ" lemma="πολύς" postag="a-s---ngc" head="190512" relation="ATR"/>
+    <word id="190512" form="ὄλβω" line="13" speaker="ΜΥΡΣΩΝ" lemma="ὄλβος" postag="n-s---mg-" head="190508" relation="OBJ"/>
+    <word id="190513" form=";" line="13" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190469" relation="PUNCT"/>
+  </sentence>
+  <sentence id="45" document_id="0036-003" subdoc="14">
+    <word id="190514" form="λαθόμεθ’" line="14" speaker="ΜΥΡΣΩΝ" lemma="λανθάνω" postag="v1ppie---" head="0" relation="PRED"/>
+    <word id="190515" form="ἦ" line="14" speaker="ΜΥΡΣΩΝ" lemma="ἦ" postag="d--------" head="190514" relation="AuxY"/>
+    <word id="190516" form="ἄρα" line="14" speaker="ΜΥΡΣΩΝ" lemma="ἄρα" postag="d--------" head="190514" relation="AuxY"/>
+    <word id="190517" form="πάντες" line="14" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---mn-" head="190514" relation="SBJ"/>
+    <word id="190518" form="," line="14" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190514" relation="PUNCT"/>
+    <word id="190519" form="ὅτι" line="14" speaker="ΜΥΡΣΩΝ" lemma="ὅτι" postag="c--------" head="190514" relation="AuxC"/>
+    <word id="190520" form="θνατοὶ" line="14" speaker="ΜΥΡΣΩΝ" lemma="θνητός" postag="a-p---mn-" head="190521" relation="PNOM"/>
+    <word id="190521" form="γενόμεσθα" line="14" speaker="ΜΥΡΣΩΝ" lemma="γίγνομαι" postag="v1paim---" head="190519" relation="ADV"/>
+    <word id="190522" form="," line="14" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190514" relation="PUNCT"/>
+    <word id="190523" form="κ-" line="15" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190528" relation="AuxY"/>
+    <word id="190524" form="ὡς" line="15" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190521" relation="AuxC"/>
+    <word id="190525" form="βραχὺν" line="15" speaker="ΜΥΡΣΩΝ" lemma="βραχύς" postag="a-s---ma-" head="190529" relation="ATR"/>
+    <word id="190526" form="ἐκ" line="15" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190528" relation="AuxP"/>
+    <word id="190527" form="Μοίρας" line="15" speaker="ΜΥΡΣΩΝ" lemma="Μοῖρα" postag="n-s---fg-" head="190526" relation="ADV"/>
+    <word id="190528" form="λάχομες" line="15" speaker="ΜΥΡΣΩΝ" lemma="λάχομον" postag="v2saia---" head="190524" relation="ADV"/>
+    <word id="190529" form="χρόνον" line="15" speaker="ΜΥΡΣΩΝ" lemma="χρόνος" postag="n-s---ma-" head="190528" relation="OBJ"/>
+    <word id="190530" form=";" line="15" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190514" relation="PUNCT"/>
+  </sentence>
+  <sentence id="46" document_id="0036-003" subdoc="15">
+    <word id="190531" form="G?" form_original="[Gx]" line="15" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190538" relation="OBJ"/>
+    <word id="190532" form="Ὄλβιοι" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ὄλβιος" postag="n-p---mn-" head="0" relation="PRED/SBJ"/>
+    <word id="190533" form="οἱ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---mn-" head="190534" relation="ATR"/>
+    <word id="190534" form="φιλέοντες" line="1" speaker="ΜΥΡΣΩΝ" lemma="φιλέω" postag="v-pppamn-" head="190532" relation="ATR"/>
+    <word id="190535" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190531" relation="PUNCT"/>
+    <word id="190536" form="ἐπὴν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐπήν" postag="c--------" head="190534" relation="AuxC"/>
+    <word id="190537" form="ἴσον" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἴσος" postag="a-s---na-" head="190538" relation="OBJ"/>
+    <word id="190538" form="ἀντεράωνται" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀντεράω" postag="v3pasm---" head="190536" relation="ADV"/>
+    <word id="190539" form="." line="1" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190531" relation="PUNCT"/>
+  </sentence>
+  <sentence id="47" document_id="0036-003" subdoc="2">
+    <word id="190540" form="ὄλβιος" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὄλβιος" postag="a-s---mn-" head="190541" relation="PNOM"/>
+    <word id="190541" form="ἦν" line="2" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190542" form="Θησεὺς" line="2" speaker="ΜΥΡΣΩΝ" lemma="Θησεύς" postag="n-s---mn-" head="190541" relation="SBJ"/>
+    <word id="190543" form="τῶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mg-" head="190544" relation="ATR"/>
+    <word id="190544" form="Πειριθόω" line="2" speaker="ΜΥΡΣΩΝ" lemma="Πειρίθοος" postag="n-s---mg-" head="190545" relation="SBJ"/>
+    <word id="190545" form="παρεόντος" line="2" speaker="ΜΥΡΣΩΝ" lemma="πάρειμι" postag="v-sppamg-" head="190542" relation="ATR"/>
+    <word id="190546" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190540" relation="PUNCT"/>
+    <word id="190547" form="εἰ" line="3" speaker="ΜΥΡΣΩΝ" lemma="εἰ" postag="c--------" head="190541" relation="AuxC"/>
+    <word id="190548" form="καὶ" line="3" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190549" relation="AuxZ"/>
+    <word id="190549" form="ἀμειλίκτοιο" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀμείλικτος" postag="a-s---mg-" head="190550" relation="ADV"/>
+    <word id="190550" form="κατήλυθεν" line="3" speaker="ΜΥΡΣΩΝ" lemma="κατέρχομαι" postag="v3saia---" head="190547" relation="ADV"/>
+    <word id="190551" form="εἰς" line="3" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190550" relation="AuxP"/>
+    <word id="190552" form="Ἀΐδαο" line="3" speaker="ΜΥΡΣΩΝ" lemma="Ἅιδης" postag="n-s---mg-" head="190551" relation="OBJ"/>
+    <word id="190553" form="." line="3" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190540" relation="PUNCT"/>
+  </sentence>
+  <sentence id="48" document_id="0036-003" subdoc="4">
+    <word id="190554" form="ὄλβιος" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὄλβιος" postag="a-s---mn-" head="190555" relation="PNOM"/>
+    <word id="190555" form="ἦν" line="4" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190556" form="χαλεποῖσιν" line="4" speaker="ΜΥΡΣΩΝ" lemma="χαλεπός" postag="a-p---md-" head="190558" relation="ATR"/>
+    <word id="190557" form="ἐν" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐν" postag="r--------" head="190555" relation="AuxP"/>
+    <word id="190558" form="Ἀξείνοισιν" line="4" speaker="ΜΥΡΣΩΝ" lemma="Ἄξεινος" postag="n-p---md-" head="190557" relation="ADV"/>
+    <word id="190559" form="Ὀρέστας" line="4" speaker="ΜΥΡΣΩΝ" lemma="Ὀρέστης" postag="n-s---mn-" head="190555" relation="SBJ"/>
+    <word id="190560" form="," line="4" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190554" relation="PUNCT"/>
+    <word id="190561" form="ὥνεκά" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὥνεκα" postag="c--------" head="190555" relation="AuxC"/>
+    <word id="190562" form="οἱ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---mn-" head="190564" relation="ATR"/>
+    <word id="190563" form="ξυνὰς" line="5" speaker="ΜΥΡΣΩΝ" lemma="ξυνός" postag="a-p---fa-" head="190564" relation="ATR"/>
+    <word id="190564" form="Πυλάδας" line="5" speaker="ΜΥΡΣΩΝ" lemma="Πυλάδης" postag="n-p---ma-" head="190565" relation="SBJ"/>
+    <word id="190565" form="ᾅρητο" line="5" speaker="ΜΥΡΣΩΝ" lemma="ᾅρημαι" postag="v3slim---" head="190561" relation="ADV"/>
+    <word id="190566" form="κελεύθως" line="5" speaker="ΜΥΡΣΩΝ" lemma="κέλευθος" postag="n-p---fa-" head="190565" relation="ADV"/>
+    <word id="190567" form="." line="5" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190554" relation="PUNCT"/>
+  </sentence>
+  <sentence id="49" document_id="0036-003" subdoc="6">
+    <word id="190568" form="ἦν" line="6" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190569" form="μάκαρ" line="6" speaker="ΜΥΡΣΩΝ" lemma="μάκαρ" postag="n-s---mn-" head="190568" relation="SBJ"/>
+    <word id="190570" form="Αἰακίδας" line="6" speaker="ΜΥΡΣΩΝ" lemma="Αἰακίδης" postag="n-s---mn-" head="190568" relation="OBJ"/>
+    <word id="190571" form="ἑτάρω" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἑταῖρος" postag="n-s---mg-" head="190572" relation="OBJ"/>
+    <word id="190572" form="ζώοντος" line="6" speaker="ΜΥΡΣΩΝ" lemma="ζάω" postag="v-sppamg-" head="190568" relation="ADV"/>
+    <word id="190573" form="Ἀχιλλεύς" line="6" speaker="ΜΥΡΣΩΝ" lemma="Ἀχιλλεύς" postag="n-s---mn-" head="190568" relation="SBJ"/>
+    <word id="190574" form="·" line="6" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190568" relation="PUNCT"/>
+  </sentence>
+  <sentence id="50" document_id="0036-003" subdoc="7">
+    <word id="190575" form="ὄλβιος" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὄλβιος" postag="a-s---mn-" head="190576" relation="PNOM"/>
+    <word id="190576" form="ἦν" line="7" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
+    <word id="190577" form="θνᾴσκων" line="7" speaker="ΜΥΡΣΩΝ" lemma="θνῄσκω" postag="v-sppamn-" head="190576" relation="PNOM"/>
+    <word id="190578" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190575" relation="PUNCT"/>
+    <word id="190579" form="ὅτι" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὅτι" postag="c--------" head="190576" relation="AuxC"/>
+    <word id="190580" form="οἱ" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἕ" postag="p-s---cd-" head="190583" relation="SBJ"/>
+    <word id="190581" form="μόρον" line="7" speaker="ΜΥΡΣΩΝ" lemma="μόρος" postag="n-s---ma-" head="190583" relation="OBJ"/>
+    <word id="190582" form="αἰνὸν" line="7" speaker="ΜΥΡΣΩΝ" lemma="αἰνός" postag="a-s---ma-" head="190581" relation="ATR"/>
+    <word id="190583" form="ἄμυνεν" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἀμύνω" postag="v3saia---" head="190579" relation="ADV"/>
+    <word id="190584" form="." line="7" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190575" relation="PUNCT"/>
+  </sentence>
+  <sentence id="51" document_id="0036-003" subdoc="1">
+    <word id="190585" form="Ἕσπερε" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἕσπερος" postag="n-s---mv-" head="190608" relation="ExD"/>
+    <word id="190586" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190587" form="τᾶς" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fg-" head="190591" relation="ATR"/>
+    <word id="190588" form="ἐρατᾶς" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐρατός" postag="a-s---fg-" head="190591" relation="ATR"/>
+    <word id="190589" form="χρύσεον" line="1" speaker="ΜΥΡΣΩΝ" lemma="χρύσεος" postag="a-s---nv-" head="190590" relation="ATR"/>
+    <word id="190590" form="φάος" line="1" speaker="ΜΥΡΣΩΝ" lemma="φάος" postag="n-s---nv-" head="190585" relation="APOS"/>
+    <word id="190591" form="Ἀφρογενείας" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἀφρογένεια" postag="n-s---fg-" head="190590" relation="ATR"/>
+    <word id="190592" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190593" form="Ἕσπερε" line="2" speaker="ΜΥΡΣΩΝ" lemma="Ἕσπερος" postag="n-s---mv-" head="190585" relation="APOS"/>
+    <word id="190594" form="κυανέας" line="2" speaker="ΜΥΡΣΩΝ" lemma="κυάνεος" postag="a-s---fg-" head="190593" relation="ATR"/>
+    <word id="190595" form="ἱερὸν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἱερός" postag="a-s---nv-" head="190598" relation="ATR"/>
+    <word id="190596" form="φίλε" line="2" speaker="ΜΥΡΣΩΝ" lemma="φίλος" postag="a-s---mv-" head="190598" relation="ATR"/>
+    <word id="190597" form="νυκτὸς" line="2" speaker="ΜΥΡΣΩΝ" lemma="νύξ" postag="n-s---fg-" head="190598" relation="ATR"/>
+    <word id="190598" form="ἄγαλμα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἄγαλμα" postag="n-s---nv-" head="190585" relation="APOS"/>
+    <word id="190599" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190600" form="τόσσον" line="3" speaker="ΜΥΡΣΩΝ" lemma="τόσος" postag="a-s---na-" head="190602" relation="ADV"/>
+    <word id="190601" form="ἀφαυρότερος" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀφαυρός" postag="a-s---mnc" head="190602" relation="ADV"/>
+    <word id="190602" form="μήνας" line="3" speaker="ΜΥΡΣΩΝ" lemma="μαίνομαι" postag="v-sapamn-" head="190608" relation="ADV"/>
+    <word id="190603" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190604" form="ὅσον" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὅσος" postag="p-s---na-" head="190608" relation="AuxC"/>
+    <word id="190605" form="ἔξοχος" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἔξοχος" postag="a-s---mn-" head="190604" relation="ADV/PNOM"/>
+    <word id="190606" form="ἄστρων" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἄστρον" postag="n-p---ng-" head="190605" relation="ATR"/>
+    <word id="190607" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190608" form="χαῖρε" line="4" speaker="ΜΥΡΣΩΝ" lemma="χαίρω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="190609" form="φίλος" line="4" speaker="ΜΥΡΣΩΝ" lemma="φίλος" postag="a-s---mn-" head="190585" relation="ATR"/>
+    <word id="190610" form="," line="4" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190611" form="καί" line="4" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190620" relation="AuxY"/>
+    <word id="190612" form="μοι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190620" relation="OBJ"/>
+    <word id="190613" form="ποτὶ" line="4" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190616" relation="AuxP"/>
+    <word id="190614" form="ποιμένα" line="4" speaker="ΜΥΡΣΩΝ" lemma="ποιμήν" postag="n-s---ma-" head="190613" relation="OBJ"/>
+    <word id="190615" form="κῶμον" line="4" speaker="ΜΥΡΣΩΝ" lemma="κῶμος" postag="n-s---ma-" head="190613" relation="OBJ"/>
+    <word id="190616" form="ἄγοντι" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἄγω" postag="v-sppamd-" head="190612" relation="ATR"/>
+    <word id="190617" form="ἀντὶ" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἀντί" postag="r--------" head="190620" relation="AuxP"/>
+    <word id="190618" form="σελαναίας" line="5" speaker="ΜΥΡΣΩΝ" lemma="σεληναίη" postag="n-p---fa-" head="190617" relation="ADV"/>
+    <word id="190619" form="τὺ" line="5" speaker="ΜΥΡΣΩΝ" lemma="σύ" postag="p-s---cn-" head="190620" relation="OBJ"/>
+    <word id="190620" form="δίδου" line="5" speaker="ΜΥΡΣΩΝ" lemma="δίδωμι" postag="v2spma---" head="190608" relation="CO"/>
+    <word id="190621" form="φάος" line="5" speaker="ΜΥΡΣΩΝ" lemma="φάος" postag="n-s---nv-" head="190620" relation="OBJ"/>
+    <word id="190622" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190585" relation="PUNCT"/>
+    <word id="190623" form="ὥνεκα" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὥνεκα" postag="c--------" head="190620" relation="AuxC"/>
+    <word id="190624" form="τήνα" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἐκεῖνος" postag="a-s---fn-" head="190628" relation="OBJ"/>
+    <word id="190625" form="σάμερον" line="6" speaker="ΜΥΡΣΩΝ" lemma="σήμερον" postag="d--------" head="190626" relation="ADV"/>
+    <word id="190626" form="ἀρχομένα" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἄρχω" postag="v-sppefn-" head="190628" relation="ADV"/>
+    <word id="190627" form="τάχιον" line="6" speaker="ΜΥΡΣΩΝ" lemma="τάχα" postag="d-------c" head="190628" relation="ADV"/>
+    <word id="190628" form="δύεν" line="6" speaker="ΜΥΡΣΩΝ" lemma="δύω" postag="v3siia---" head="190623" relation="ADV"/>
+    <word id="190629" form="." line="6" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190585" relation="PUNCT"/>
+  </sentence>
+  <sentence id="52" document_id="0036-003" subdoc="6">
+    <word id="190630" form="οὐκ" line="6" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190633" relation="AuxZ"/>
+    <word id="190631" form="ἐπὶ" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἐπί" postag="r--------" head="190633" relation="AuxP"/>
+    <word id="190632" form="φωρὰν" line="6" speaker="ΜΥΡΣΩΝ" lemma="φωρά" postag="n-s---fa-" head="190631" relation="OBJ"/>
+    <word id="190633" form="ἔρχομαι" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἔρχομαι" postag="v1spie---" head="0" relation="PRED"/>
+    <word id="190634" form="," line="7" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190630" relation="PUNCT"/>
+    <word id="190635" form="οὐδ’" line="7" speaker="ΜΥΡΣΩΝ" lemma="οὐδέ" postag="d--------" head="190636" relation="AuxY"/>
+    <word id="190636" form="ἵνα" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἵνα" postag="c--------" head="190633" relation="AuxC"/>
+    <word id="190637" form="νυκτὸς" line="7" speaker="ΜΥΡΣΩΝ" lemma="νύξ" postag="n-s---fg-" head="190638" relation="ADV"/>
+    <word id="190638" form="ὁδοιπορέοντας" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὁδοιπορέω" postag="v-pppama-" head="190639" relation="ADV"/>
+    <word id="190639" form="ἐνοχλέω" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἐνοχλέω" postag="v1spia---" head="190636" relation="CO"/>
+    <word id="190640" form="·" line="7" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190630" relation="PUNCT"/>
+  </sentence>
+  <sentence id="53" document_id="0036-003" subdoc="8">
+    <word id="190641" form="ἀλλ’" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἀλλά" postag="b--------" head="190642" relation="AuxY"/>
+    <word id="190642" form="ἐράω" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐράω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="190643" form="·" line="8" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190641" relation="PUNCT"/>
+  </sentence>
+  <sentence id="54" document_id="0036-003" subdoc="8">
+    <word id="190644" form="καλὸν" line="8" speaker="ΜΥΡΣΩΝ" lemma="καλός" postag="a-s---nn-" head="190648" relation="OBJ"/>
+    <word id="190645" form="δέ" line="8" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190644" relation="AuxZ"/>
+    <word id="190646" form="τ’" line="8" speaker="ΜΥΡΣΩΝ" lemma="τε" postag="b--------" head="190647" relation="AuxY"/>
+    <word id="190647" form="ἐρασσαμένω" line="8" speaker="ΜΥΡΣΩΝ" lemma="ἐρασσαμένω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="190648" form="συναρέσθαι" line="8" speaker="ΜΥΡΣΩΝ" lemma="συναίρω" postag="v--anm---" head="190647" relation="OBJ"/>
+    <word id="190649" form="." line="8" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190644" relation="PUNCT"/>
+  </sentence>
+  <sentence id="55" document_id="0036-003" subdoc="1">
+    <word id="190650" form="ἅμερε" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἥμερος" postag="a-s---mv-" head="190651" relation="ATR"/>
+    <word id="190651" form="Κυπρογένεια" line="1" speaker="ΜΥΡΣΩΝ" lemma="Κυπρογένεια" postag="n-s---fv-" head="190663" relation="ExD"/>
+    <word id="190652" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190650" relation="PUNCT"/>
+    <word id="190653" form="Διὸς" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ζεύς" postag="n-s---mg-" head="190654" relation="ATR"/>
+    <word id="190654" form="τέκος" line="1" speaker="ΜΥΡΣΩΝ" lemma="τέκος" postag="n-s---nv-" head="190651" relation="APOS"/>
+    <word id="190655" form="ἠὲ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἠέ" postag="b--------" head="190656" relation="AuxY"/>
+    <word id="190656" form="θαλάσσας" line="1" speaker="ΜΥΡΣΩΝ" lemma="θάλασσα" postag="n-s---fg-" head="190654" relation="CO"/>
+    <word id="190657" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190650" relation="PUNCT"/>
+    <word id="190658" form="τίπτε" line="2" speaker="ΜΥΡΣΩΝ" lemma="τίπτε" postag="a-s---na-" head="190663" relation="ADV"/>
+    <word id="190659" form="τόσον" line="2" speaker="ΜΥΡΣΩΝ" lemma="τόσος" postag="a-s---na-" head="190663" relation="ADV"/>
+    <word id="190660" form="θνατοῖσι" line="2" speaker="ΜΥΡΣΩΝ" lemma="θνητός" postag="a-p---md-" head="190663" relation="OBJ"/>
+    <word id="190661" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190662" relation="AuxY"/>
+    <word id="190662" form="ἀθανάτοισι" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀθάνατος" postag="a-p---md-" head="190660" relation="CO"/>
+    <word id="190663" form="χάλεπτες" line="2" speaker="ΜΥΡΣΩΝ" lemma="χαλέπτω" postag="v2siia---" head="0" relation="PRED"/>
+    <word id="190664" form=";" line="2" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190650" relation="PUNCT"/>
+  </sentence>
+  <sentence id="56" document_id="0036-003" subdoc="3">
+    <word id="190665" form="τυτθὸν" line="3" speaker="ΜΥΡΣΩΝ" lemma="τυτθός" postag="a-s---ma-" head="190666" relation="ADV"/>
+    <word id="190666" form="ἔφαν" line="3" speaker="ΜΥΡΣΩΝ" lemma="φημί" postag="v1siia---" head="0" relation="PRED"/>
+    <word id="190667" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190665" relation="PUNCT"/>
+  </sentence>
+  <sentence id="57" document_id="0036-003" subdoc="3">
+    <word id="190668" form="τί" line="3" speaker="ΜΥΡΣΩΝ" lemma="τίς" postag="a-s---na-" head="190671" relation="ADV"/>
+    <word id="190669" form="νυ" line="3" speaker="ΜΥΡΣΩΝ" lemma="νυν" postag="d--------" head="190671" relation="AuxY"/>
+    <word id="190670" form="τόσσον" line="3" speaker="ΜΥΡΣΩΝ" lemma="τόσος" postag="a-s---na-" head="190671" relation="ADV"/>
+    <word id="190671" form="ἀπήχθεο" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀπεχθάνομαι" postag="v2saim---" head="0" relation="PRED"/>
+    <word id="190672" form="καὶ" line="3" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190673" relation="AuxY"/>
+    <word id="190673" form="τεῒν" line="3" speaker="ΜΥΡΣΩΝ" lemma="σύ" postag="p-s---cd-" head="190671" relation="OBJ"/>
+    <word id="190674" form="αὐτᾷ" line="3" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---fd-" head="190673" relation="ATR"/>
+    <word id="190675" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190668" relation="PUNCT"/>
+    <word id="190676" form="ταλίκον" line="4" speaker="ΜΥΡΣΩΝ" lemma="ταλίκος" postag="p-s---nn-" head="190682" relation="OBJ"/>
+    <word id="190677" form="ὡς" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190671" relation="AuxC"/>
+    <word id="190678" form="πάντεσσι" line="4" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---md-" head="190679" relation="ATR"/>
+    <word id="190679" form="κακὸν" line="4" speaker="ΜΥΡΣΩΝ" lemma="κακός" postag="a-s---nn-" head="190682" relation="OBJ"/>
+    <word id="190680" form="τὸν" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190681" relation="ATR"/>
+    <word id="190681" form="Ἔρωτα" line="4" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190682" relation="SBJ"/>
+    <word id="190682" form="τεκέσθαι" line="4" speaker="ΜΥΡΣΩΝ" lemma="τίκτω" postag="v--anm---" head="190677" relation="ADV"/>
+    <word id="190683" form="," line="4" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190668" relation="PUNCT"/>
+    <word id="190684" form="ἄγριον" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἄγριος" postag="a-s---ma-" head="190681" relation="ATR"/>
+    <word id="190685" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190668" relation="PUNCT"/>
+    <word id="190686" form="ἄστοργον" line="5" speaker="ΜΥΡΣΩΝ" lemma="ἄστοργος" postag="a-s---ma-" head="190684" relation="CO"/>
+    <word id="190687" form="," line="5" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190668" relation="PUNCT"/>
+    <word id="190688" form="μορφᾷ" line="5" speaker="ΜΥΡΣΩΝ" lemma="μορφάω" postag="v3spia---" head="190677" relation="ADV"/>
+    <word id="190689" form="νόον" line="5" speaker="ΜΥΡΣΩΝ" lemma="νόος" postag="n-s---ma-" head="190688" relation="OBJ"/>
+    <word id="190690" form="οὐδὲν" line="5" speaker="ΜΥΡΣΩΝ" lemma="οὐδείς" postag="a-s---na-" head="190691" relation="ADV"/>
+    <word id="190691" form="ὁμοῖον" line="5" speaker="ΜΥΡΣΩΝ" lemma="ὅμοιος" postag="a-s---na-" head="190689" relation="ATR"/>
+    <word id="190692" form=";" line="5" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190668" relation="PUNCT"/>
+  </sentence>
+  <sentence id="58" document_id="0036-003" subdoc="6">
+    <word id="190693" form="ἐς" line="6" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190700" relation="AuxP"/>
+    <word id="190694" form="τί" line="6" speaker="ΜΥΡΣΩΝ" lemma="τίς" postag="a-s---na-" head="190693" relation="ADV"/>
+    <word id="190695" form="δέ" line="6" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190700" relation="AuxY"/>
+    <word id="190696" form="νιν" line="6" speaker="ΜΥΡΣΩΝ" lemma="νιν" postag="p-s---ma-" head="190700" relation="OBJ"/>
+    <word id="190697" form="πτανὸν" line="6" speaker="ΜΥΡΣΩΝ" lemma="πτηνός" postag="a-s---ma-" head="190701" relation="PNOM"/>
+    <word id="190698" form="καὶ" line="6" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190699" relation="AuxY"/>
+    <word id="190699" form="ἑκαβόλον" line="6" speaker="ΜΥΡΣΩΝ" lemma="ἑκηβόλος" postag="a-s---ma-" head="190697" relation="CO"/>
+    <word id="190700" form="ὤπασας" line="6" speaker="ΜΥΡΣΩΝ" lemma="ὀπάζω" postag="v2saia---" head="0" relation="PRED"/>
+    <word id="190701" form="ἦμεν" line="6" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v1piia---" head="190700" relation="OBJ"/>
+    <word id="190702" form="," line="6" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190693" relation="PUNCT"/>
+    <word id="190703" form="ὡς" line="7" speaker="ΜΥΡΣΩΝ" lemma="ὡς" postag="c--------" head="190700" relation="AuxC"/>
+    <word id="190704" form="μὴ" line="7" speaker="ΜΥΡΣΩΝ" lemma="μή" postag="d--------" head="190707" relation="AuxZ"/>
+    <word id="190705" form="πικρὸν" line="7" speaker="ΜΥΡΣΩΝ" lemma="πικρός" postag="a-s---ma-" head="190706" relation="PNOM"/>
+    <word id="190706" form="ἐόντα" line="7" speaker="ΜΥΡΣΩΝ" lemma="εἰμί" postag="v-sppama-" head="190709" relation="ADV"/>
+    <word id="190707" form="δυναίμεθα" line="7" speaker="ΜΥΡΣΩΝ" lemma="δύναμαι" postag="v1ppoe---" head="190703" relation="ADV"/>
+    <word id="190708" form="τῆνον" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἐκεῖνος" postag="a-s---ma-" head="190709" relation="OBJ"/>
+    <word id="190709" form="ἀλύξαι" line="7" speaker="ΜΥΡΣΩΝ" lemma="ἀλύσκω" postag="v--ana---" head="190707" relation="OBJ"/>
+    <word id="190710" form=";" line="7" speaker="ΜΥΡΣΩΝ" lemma=";" postag="u--------" head="190693" relation="PUNCT"/>
+  </sentence>
+  <sentence id="59" document_id="0036-003" subdoc="1">
+    <word id="190711" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="0" relation="GAP"/>
+    <word id="190712" form="ἀμφασία" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀμφασίη" postag="n-s---fn-" head="190715" relation="SBJ"/>
+    <word id="190713" form="τὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190714" relation="ATR"/>
+    <word id="190714" form="Φοῖβον" line="1" speaker="ΜΥΡΣΩΝ" lemma="Φοῖβος" postag="n-s---ma-" head="190715" relation="OBJ"/>
+    <word id="190715" form="ἕλεν" line="1" speaker="ΜΥΡΣΩΝ" lemma="αἱρέω" postag="v3saia---" head="190711" relation="ADV"/>
+    <word id="190716" form="τὸ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---na-" head="190718" relation="ATR"/>
+    <word id="190717" form="σὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="σός" postag="a-s---na-" head="190718" relation="ATR"/>
+    <word id="190718" form="ἄλγος" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἄλγος" postag="n-s---na-" head="190719" relation="OBJ"/>
+    <word id="190719" form="ὁρῶντα" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁράω" postag="v-sppama-" head="190715" relation="ADV"/>
+    <word id="190720" form="." line="1" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190711" relation="PUNCT"/>
+  </sentence>
+  <sentence id="60" document_id="0036-003" subdoc="2">
+    <word id="190721" form="δίζετο" line="2" speaker="ΜΥΡΣΩΝ" lemma="δίζω" postag="v3siie---" head="0" relation="PRED"/>
+    <word id="190722" form="φάρμακα" line="2" speaker="ΜΥΡΣΩΝ" lemma="φάρμακον" postag="n-p---na-" head="190721" relation="OBJ"/>
+    <word id="190723" form="πάντα" line="2" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190722" relation="ATR"/>
+    <word id="190724" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190721" relation="PUNCT"/>
+    <word id="190725" form="σοφὰν" line="2" speaker="ΜΥΡΣΩΝ" lemma="σοφός" postag="a-s---fa-" head="190728" relation="ATR"/>
+    <word id="190726" form="δ’" line="2" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190727" relation="AuxY"/>
+    <word id="190727" form="ἐπεμαίετο" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐπιμαίομαι" postag="v3siie---" head="190721" relation="CO"/>
+    <word id="190728" form="τέχναν" line="2" speaker="ΜΥΡΣΩΝ" lemma="τέχνη" postag="n-s---fa-" head="190727" relation="OBJ"/>
+    <word id="190729" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190721" relation="PUNCT"/>
+    <word id="190730" form="χρῖεν" line="3" speaker="ΜΥΡΣΩΝ" lemma="χρίω" postag="v3siia---" head="190727" relation="CO"/>
+    <word id="190731" form="δ’" line="3" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190730" relation="AuxY"/>
+    <word id="190732" form="ἀμβροσίᾳ" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀμβροσία" postag="n-s---fd-" head="190730" relation="ADV"/>
+    <word id="190733" form="καὶ" line="3" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190734" relation="AuxY"/>
+    <word id="190734" form="νέκταρι" line="3" speaker="ΜΥΡΣΩΝ" lemma="νέκταρ" postag="n-s---nd-" head="190732" relation="CO"/>
+    <word id="190735" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190736" relation="AuxY"/>
+    <word id="190736" form="χρῖεν" line="3" speaker="ΜΥΡΣΩΝ" lemma="χρίω" postag="v3siia---" head="190730" relation="CO"/>
+    <word id="190737" form="ἅπασαν" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἅπας" postag="a-s---fa-" head="190738" relation="ATR"/>
+    <word id="190738" form="ὠτειλάν" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὠτειλή" postag="n-s---fa-" head="190736" relation="OBJ"/>
+    <word id="190739" form="·" line="4" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190721" relation="PUNCT"/>
+  </sentence>
+  <sentence id="61" document_id="0036-003" subdoc="4">
+    <word id="190740" form="Μοίραισι" line="4" speaker="ΜΥΡΣΩΝ" lemma="Μοῖρα" postag="n-p---fd-" head="190749" relation="ADV"/>
+    <word id="190741" form="δ’" line="4" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190749" relation="AuxY"/>
+    <word id="190742" form="ἀναλθέα" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἀναλθής" postag="a-p---na-" head="190743" relation="ATR"/>
+    <word id="190743" form="φάρμακα" line="4" speaker="ΜΥΡΣΩΝ" lemma="φάρμακον" postag="n-p---na-" head="190749" relation="OBJ"/>
+    <word id="190744" form="πάντα" line="4" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190743" relation="ATR"/>
+    <word id="190745" form="G?" form_original="[Gx]" line="4" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190740" relation="PUNCT"/>
+    <word id="190746" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190740" relation="PUNCT"/>
+    <word id="190747" form="αὐτὰρ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀτάρ" postag="d--------" head="190749" relation="AuxY"/>
+    <word id="190748" form="ἐγὼν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cn-" head="190749" relation="SBJ"/>
+    <word id="190749" form="βασεῦμαι" line="1" speaker="ΜΥΡΣΩΝ" lemma="βαίνω" postag="v1sfim---" head="0" relation="PRED"/>
+    <word id="190750" form="ἐμὰν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐμός" postag="a-s---fa-" head="190751" relation="ATR"/>
+    <word id="190751" form="ὁδὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁδός" postag="n-s---fa-" head="190749" relation="OBJ"/>
+    <word id="190752" form="ἐς" line="1" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190749" relation="AuxP"/>
+    <word id="190753" form="τὸ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---na-" head="190754" relation="ATR"/>
+    <word id="190754" form="κάταντες" line="1" speaker="ΜΥΡΣΩΝ" lemma="κατάντομαι" postag="v2siia---" head="190752" relation="OBJ"/>
+    <word id="190755" form="τῆνο" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐκεῖνος" postag="a-s---na-" head="190754" relation="ATR"/>
+    <word id="190756" form="ποτὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190761" relation="AuxP"/>
+    <word id="190757" form="ψάμαθόν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ψάμαθος" postag="n-s---fa-" head="190756" relation="OBJ"/>
+    <word id="190758" form="τε" line="2" speaker="ΜΥΡΣΩΝ" lemma="τε" postag="b--------" head="190757" relation="AuxY"/>
+    <word id="190759" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190760" relation="AuxY"/>
+    <word id="190760" form="ἀϊόνα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἠιών" postag="n-s---fa-" head="190757" relation="CO"/>
+    <word id="190761" form="ψιθυρίσδων" line="2" speaker="ΜΥΡΣΩΝ" lemma="ψιθυρίζω" postag="v-sppamn-" head="190749" relation="ADV"/>
+    <word id="190762" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190740" relation="PUNCT"/>
+    <word id="190763" form="λισσόμενος" line="3" speaker="ΜΥΡΣΩΝ" lemma="λίσσομαι" postag="v-sppemn-" head="190749" relation="ADV"/>
+    <word id="190764" form="Γαλάτειαν" line="3" speaker="ΜΥΡΣΩΝ" lemma="Γαλάτεια" postag="n-s---fa-" head="190763" relation="OBJ"/>
+    <word id="190765" form="ἀπηνέα" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἀπηνής" postag="a-s---fa-" head="190764" relation="ATR"/>
+    <word id="190766" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190740" relation="PUNCT"/>
+  </sentence>
+  <sentence id="62" document_id="0036-003" subdoc="3">
+    <word id="190767" form="τὰς" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---fa-" head="190770" relation="ATR"/>
+    <word id="190768" form="δὲ" line="3" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190775" relation="AuxY"/>
+    <word id="190769" form="γλυκείας" line="3" speaker="ΜΥΡΣΩΝ" lemma="γλυκύς" postag="a-p---fa-" head="190770" relation="ATR"/>
+    <word id="190770" form="ἐλπίδας" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἐλπίς" postag="n-p---fa-" head="190775" relation="OBJ"/>
+    <word id="190771" form="ὑστατίω" line="4" speaker="ΜΥΡΣΩΝ" lemma="ὑστάτιος" postag="a-s---ng-" head="190770" relation="ATR"/>
+    <word id="190772" form="μέχρι" line="4" speaker="ΜΥΡΣΩΝ" lemma="μέχρι" postag="r--------" head="190775" relation="AuxP"/>
+    <word id="190773" form="γήραος" line="4" speaker="ΜΥΡΣΩΝ" lemma="γῆρας" postag="n-s---ng-" head="190772" relation="ADV"/>
+    <word id="190774" form="οὐκ" line="4" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190775" relation="AuxZ"/>
+    <word id="190775" form="ἀπολειψῶ" line="4" speaker="ΜΥΡΣΩΝ" lemma="ἀπολείπω" postag="v1sfia---" head="0" relation="PRED"/>
+    <word id="190776" form="G?" form_original="[Gx]" line="4" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190767" relation="PUNCT"/>
+    <word id="190777" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190767" relation="PUNCT"/>
+    <word id="190778" form="οὐ" line="1" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190779" relation="AuxZ"/>
+    <word id="190779" form="καλὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="καλός" postag="a-s---nn-" head="190783" relation="ATR"/>
+    <word id="190780" form="ὦ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὦ" postag="i--------" head="190781" relation="AuxZ"/>
+    <word id="190781" form="φίλε" line="1" speaker="ΜΥΡΣΩΝ" lemma="φίλος" postag="a-s---mv-" head="190775" relation="ExD"/>
+    <word id="190782" form="πάντα" line="1" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-s---ma-" head="190783" relation="ATR"/>
+    <word id="190783" form="λόγον" line="1" speaker="ΜΥΡΣΩΝ" lemma="λόγος" postag="n-s---ma-" head="190786" relation="SBJ"/>
+    <word id="190784" form="ποτὶ" line="1" speaker="ΜΥΡΣΩΝ" lemma="πρός" postag="r--------" head="190786" relation="AuxP"/>
+    <word id="190785" form="τέκτονα" line="1" speaker="ΜΥΡΣΩΝ" lemma="τέκτων" postag="n-s---ma-" head="190784" relation="OBJ"/>
+    <word id="190786" form="φοιτᾶν" line="1" speaker="ΜΥΡΣΩΝ" lemma="φοιτάω" postag="v--pna---" head="190775" relation="OBJ"/>
+    <word id="190787" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190767" relation="PUNCT"/>
+    <word id="190788" form="μηδ’" line="2" speaker="ΜΥΡΣΩΝ" lemma="μηδέ" postag="b--------" head="190791" relation="AuxY"/>
+    <word id="190789" form="ἐπὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐπί" postag="r--------" head="190793" relation="AuxP"/>
+    <word id="190790" form="πάντ’" line="2" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190789" relation="OBJ"/>
+    <word id="190791" form="ἄλλω" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀναλούω" postag="v3siia---" head="190775" relation="CO"/>
+    <word id="190792" form="χρέος" line="2" speaker="ΜΥΡΣΩΝ" lemma="χρέος" postag="n-s---nn-" head="190793" relation="OBJ"/>
+    <word id="190793" form="ἰσχέμεν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἴσχω" postag="v--pna---" head="190791" relation="OBJ"/>
+    <word id="190794" form="·" line="2" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190767" relation="PUNCT"/>
+  </sentence>
+  <sentence id="63" document_id="0036-003" subdoc="2">
+    <word id="190795" form="ἀλλὰ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀλλά" postag="b--------" head="190798" relation="AuxY"/>
+    <word id="190796" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190797" relation="AuxZ"/>
+    <word id="190797" form="αὐτὸς" line="2" speaker="ΜΥΡΣΩΝ" lemma="αὐτός" postag="a-s---mn-" head="190798" relation="ADV"/>
+    <word id="190798" form="τεχνᾶσθαι" line="3" speaker="ΜΥΡΣΩΝ" lemma="τεχνάομαι" postag="v--pne---" head="0" relation="PRED"/>
+    <word id="190799" form="σύριγγα" line="3" speaker="ΜΥΡΣΩΝ" lemma="σῦριγξ" postag="n-s---fa-" head="190798" relation="OBJ"/>
+    <word id="190800" form="·" line="3" speaker="ΜΥΡΣΩΝ" lemma="·" postag="u--------" head="190795" relation="PUNCT"/>
+  </sentence>
+  <sentence id="64" document_id="0036-003" subdoc="3">
+    <word id="190801" form="πέλει" line="3" speaker="ΜΥΡΣΩΝ" lemma="πέλω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190802" form="δέ" line="3" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190801" relation="AuxY"/>
+    <word id="190803" form="τοι" line="3" speaker="ΜΥΡΣΩΝ" lemma="σύ" postag="p-s---cd-" head="190801" relation="ADV"/>
+    <word id="190804" form="εὐμαρὲς" line="3" speaker="ΜΥΡΣΩΝ" lemma="εὐμαρής" postag="a-s---nn-" head="190805" relation="ATR"/>
+    <word id="190805" form="ἔργον" line="3" speaker="ΜΥΡΣΩΝ" lemma="ἔργον" postag="n-s---nn-" head="190801" relation="SBJ"/>
+    <word id="190806" form="G?" form_original="[Gx]" line="3" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190801" relation="PUNCT"/>
+    <word id="190807" form="Μοίσας" line="1" speaker="ΜΥΡΣΩΝ" lemma="Μοῦσα" postag="n-s---fg-" head="190808" relation="APOS"/>
+    <word id="190808" form="Ἔρως" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---mn-" head="190809" relation="SBJ"/>
+    <word id="190809" form="καλέοι" line="1" speaker="ΜΥΡΣΩΝ" lemma="καλέω" postag="v3spoa---" head="190801" relation="ExD"/>
+    <word id="190810" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190814" relation="AuxY"/>
+    <word id="190811" form="Μοῖσαι" line="1" speaker="ΜΥΡΣΩΝ" lemma="Μοῦσα" postag="n-p---fn-" head="190814" relation="SBJ"/>
+    <word id="190812" form="τὸν" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---ma-" head="190813" relation="ATR"/>
+    <word id="190813" form="Ἔρωτα" line="1" speaker="ΜΥΡΣΩΝ" lemma="Ἔρως" postag="n-s---ma-" head="190814" relation="OBJ"/>
+    <word id="190814" form="φέροιεν" line="1" speaker="ΜΥΡΣΩΝ" lemma="φέρω" postag="v3ppoa---" head="190809" relation="CO"/>
+    <word id="190815" form="." line="1" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190801" relation="PUNCT"/>
+  </sentence>
+  <sentence id="65" document_id="0036-003" subdoc="2">
+    <word id="190816" form="μολπὰν" line="2" speaker="ΜΥΡΣΩΝ" lemma="μολπή" postag="n-s---fa-" head="190822" relation="OBJ"/>
+    <word id="190817" form="ταὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---fn-" head="190818" relation="ATR"/>
+    <word id="190818" form="Μοῖσαί" line="2" speaker="ΜΥΡΣΩΝ" lemma="Μοῦσα" postag="n-p---fn-" head="190822" relation="SBJ"/>
+    <word id="190819" form="μοι" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---cd-" head="190822" relation="OBJ"/>
+    <word id="190820" form="ἀεὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀεί" postag="d--------" head="190821" relation="ADV"/>
+    <word id="190821" form="ποθέοντι" line="2" speaker="ΜΥΡΣΩΝ" lemma="ποθέω" postag="v3ppia---" head="190822" relation="OBJ"/>
+    <word id="190822" form="διδοῖεν" line="2" speaker="ΜΥΡΣΩΝ" lemma="δίδωμι" postag="v3ppoa---" head="0" relation="PRED"/>
+    <word id="190823" form="," line="2" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190816" relation="PUNCT"/>
+    <word id="190824" form="τὰν" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fa-" head="190826" relation="ATR"/>
+    <word id="190825" form="γλυκερὰν" line="3" speaker="ΜΥΡΣΩΝ" lemma="γλυκερός" postag="a-s---fa-" head="190826" relation="ATR"/>
+    <word id="190826" form="μολπάν" line="3" speaker="ΜΥΡΣΩΝ" lemma="μολπή" postag="n-s---fa-" head="190816" relation="APOS"/>
+    <word id="190827" form="," line="3" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190816" relation="PUNCT"/>
+    <word id="190828" form="τᾶς" line="3" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fg-" head="190829" relation="ATR"/>
+    <word id="190829" form="φάρμακον" line="3" speaker="ΜΥΡΣΩΝ" lemma="φάρμακον" postag="n-s---ma-" head="190830" relation="OBJ"/>
+    <word id="190830" form="ἅδιον" line="3" speaker="ΜΥΡΣΩΝ" lemma="δίω" postag="v3piia---" head="190822" relation="CO"/>
+    <word id="190831" form="οὐδέν" line="3" speaker="ΜΥΡΣΩΝ" lemma="οὐδείς" postag="a-s---na-" head="190830" relation="OBJ"/>
+    <word id="190832" form="." line="3" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190816" relation="PUNCT"/>
+  </sentence>
+  <sentence id="66" document_id="0036-003" subdoc="1">
+    <word id="190833" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190848" relation="GAP"/>
+    <word id="190834" form="ἐκ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190848" relation="AuxP"/>
+    <word id="190835" form="θαμινᾶς" line="1" speaker="ΜΥΡΣΩΝ" lemma="θαμινός" postag="a-s---fg-" head="190836" relation="ATR"/>
+    <word id="190836" form="ῥαθάμιγγος" line="1" speaker="ΜΥΡΣΩΝ" lemma="ῥαθάμιγξ" postag="n-s---fg-" head="190834" relation="ADV"/>
+    <word id="190837" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190833" relation="PUNCT"/>
+    <word id="190838" form="ὅπως" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὅπως" postag="c--------" head="0" relation="PRED/AuxC"/>
+    <word id="190839" form="λόγος" line="1" speaker="ΜΥΡΣΩΝ" lemma="λόγος" postag="n-s---mn-" head="190838" relation="ADV/SBJ"/>
+    <word id="190840" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190833" relation="PUNCT"/>
+    <word id="190841" form="αἰὲς" line="1" speaker="ΜΥΡΣΩΝ" lemma="αἰής" postag="a-s---na-" head="190842" relation="ADV"/>
+    <word id="190842" form="ἰοίσας" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἰοίζω" postag="v-sapamn-" head="190848" relation="ADV"/>
+    <word id="190843" form="κ-" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190848" relation="AuxY"/>
+    <word id="190844" form="ἁ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---fn-" head="190845" relation="ATR"/>
+    <word id="190845" form="λίθος" line="2" speaker="ΜΥΡΣΩΝ" lemma="λίθος" postag="n-s---mn-" head="190848" relation="SBJ"/>
+    <word id="190846" form="ἐς" line="2" speaker="ΜΥΡΣΩΝ" lemma="εἰς" postag="r--------" head="190848" relation="AuxP"/>
+    <word id="190847" form="ῥωχμὸν" line="2" speaker="ΜΥΡΣΩΝ" lemma="ῥωχμός" postag="n-s---ma-" head="190846" relation="OBJ"/>
+    <word id="190848" form="κοιλαίνεται" line="2" speaker="ΜΥΡΣΩΝ" lemma="κοιλαίνω" postag="v3spie---" head="190838" relation="ADV"/>
+    <word id="190849" form="G?" form_original="[Gx]" line="2" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190833" relation="PUNCT"/>
+    <word id="190850" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190848" relation="CO"/>
+    <word id="190851" form="μηδὲ" line="1" speaker="ΜΥΡΣΩΝ" lemma="μηδέ" postag="b--------" head="190852" relation="AuxY"/>
+    <word id="190852" form="λίπῃς" line="1" speaker="ΜΥΡΣΩΝ" lemma="λείπω" postag="v2sasa---" head="190848" relation="CO"/>
+    <word id="190853" form="μ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐγώ" postag="p-s---ca-" head="190852" relation="OBJ"/>
+    <word id="190854" form="ἀγέραστον" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀγέραστος" postag="a-s---ma-" head="190853" relation="ADV"/>
+    <word id="190855" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190833" relation="PUNCT"/>
+    <word id="190856" form="ἐπεὶ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐπεί" postag="c--------" head="190852" relation="AuxC"/>
+    <word id="190857" form="κ-" line="1" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190859" relation="AuxZ"/>
+    <word id="190858" form="ὁ" line="1" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-s---mn-" head="190859" relation="ATR"/>
+    <word id="190859" form="Φοῖβος" line="1" speaker="ΜΥΡΣΩΝ" lemma="Φοῖβος" postag="n-s---mn-" head="190861" relation="SBJ"/>
+    <word id="190860" form="ἀείδων" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀείδω" postag="v-sppamn-" head="190861" relation="ADV"/>
+    <word id="190861" form="μισθοδοκεῖ" line="2" speaker="ΜΥΡΣΩΝ" lemma="μισθοδοκέω" postag="v3spia---" head="190856" relation="ADV"/>
+    <word id="190862" form="." line="2" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190833" relation="PUNCT"/>
+  </sentence>
+  <sentence id="67" document_id="0036-003" subdoc="2">
+    <word id="190863" form="τιμὰ" line="2" speaker="ΜΥΡΣΩΝ" lemma="τιμή" postag="n-s---fn-" head="190868" relation="SBJ"/>
+    <word id="190864" form="δὲ" line="2" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190868" relation="AuxY"/>
+    <word id="190865" form="τὰ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ὁ" postag="l-p---nn-" head="190866" relation="ATR"/>
+    <word id="190866" form="πράγματα" line="2" speaker="ΜΥΡΣΩΝ" lemma="πρᾶγμα" postag="n-p---nn-" head="190868" relation="OBJ"/>
+    <word id="190867" form="κρέσσονα" line="2" speaker="ΜΥΡΣΩΝ" lemma="κρατύς" postag="a-p---nnc" head="190868" relation="OCOMP"/>
+    <word id="190868" form="ποιεῖ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ποιέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="190869" form="G?" form_original="[Gx]" line="2" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190863" relation="PUNCT"/>
+    <word id="190870" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190863" relation="PUNCT"/>
+    <word id="190871" form="μορφὰ" line="1" speaker="ΜΥΡΣΩΝ" lemma="μορφή" postag="n-s---fn-" head="190873" relation="SBJ"/>
+    <word id="190872" form="θηλυτέραισι" line="1" speaker="ΜΥΡΣΩΝ" lemma="θῆλυς" postag="a-p---fdc" head="190871" relation="ATR"/>
+    <word id="190873" form="πέλει" line="1" speaker="ΜΥΡΣΩΝ" lemma="πέλω" postag="v3spia---" head="190868" relation="ExD"/>
+    <word id="190874" form="καλόν" line="1" speaker="ΜΥΡΣΩΝ" lemma="καλός" postag="a-s---nn-" head="190873" relation="PNOM"/>
+    <word id="190875" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190863" relation="PUNCT"/>
+    <word id="190876" form="ἀνέρι" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀνήρ" postag="n-s---md-" head="190873" relation="CO/ADV"/>
+    <word id="190877" form="δ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="δέ" postag="b--------" head="190873" relation="CO/AuxY"/>
+    <word id="190878" form="ἀλκά" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀλκή" postag="n-s---fn-" head="190894" relation="SBJ"/>
+    <word id="190879" form="G?" form_original="[Gx]" line="1" speaker="ΜΥΡΣΩΝ" lemma="_" postag="z--------" head="190873" relation="CO"/>
+    <word id="190880" form="πάντα" line="1" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---nn-" head="190883" relation="OBJ"/>
+    <word id="190881" form="θεοῦ" line="1" speaker="ΜΥΡΣΩΝ" lemma="θεός" postag="n-s---mg-" head="190883" relation="SBJ"/>
+    <word id="190882" form="γ’" line="1" speaker="ΜΥΡΣΩΝ" lemma="γε" postag="d--------" head="190881" relation="AuxZ"/>
+    <word id="190883" form="ἐθέλοντος" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἐθέλω" postag="v-sppamg-" head="190894" relation="ADV"/>
+    <word id="190884" form="ἀνύσιμα" line="1" speaker="ΜΥΡΣΩΝ" lemma="ἀνύσιμος" postag="a-p---na-" head="190883" relation="OBJ"/>
+    <word id="190885" form="," line="1" speaker="ΜΥΡΣΩΝ" lemma="," postag="u--------" head="190863" relation="PUNCT"/>
+    <word id="190886" form="πάντα" line="1" speaker="ΜΥΡΣΩΝ" lemma="πᾶς" postag="a-p---na-" head="190894" relation="SBJ"/>
+    <word id="190887" form="βροτοῖσιν" line="1" speaker="ΜΥΡΣΩΝ" lemma="βροτός" postag="n-p---md-" head="190894" relation="ADV"/>
+    <word id="190888" form="ἐκ" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἐκ" postag="r--------" head="190894" relation="AuxP"/>
+    <word id="190889" form="μακάρων" line="2" speaker="ΜΥΡΣΩΝ" lemma="μάκαρ" postag="a-p---mg-" head="190888" relation="ADV"/>
+    <word id="190890" form="ῥάϊστα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ῥᾴδιος" postag="a-p---nas" head="190894" relation="ADV"/>
+    <word id="190891" form="καὶ" line="2" speaker="ΜΥΡΣΩΝ" lemma="καί" postag="b--------" head="190893" relation="AuxY"/>
+    <word id="190892" form="οὐκ" line="2" speaker="ΜΥΡΣΩΝ" lemma="οὐ" postag="d--------" head="190893" relation="AuxZ"/>
+    <word id="190893" form="ἀτέλεστα" line="2" speaker="ΜΥΡΣΩΝ" lemma="ἀτέλεστος" postag="a-p---na-" head="190890" relation="CO"/>
+    <word id="190894" form="γένοντο" line="2" speaker="ΜΥΡΣΩΝ" lemma="γίγνομαι" postag="v3paim---" head="190868" relation="CO"/>
+    <word id="190895" form="." line="2" speaker="ΜΥΡΣΩΝ" lemma="." postag="u--------" head="190863" relation="PUNCT"/>
+  </sentence>
+</treebank>

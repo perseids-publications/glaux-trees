@@ -1,0 +1,23 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="0255-002" subdoc="AG.50">
+    <word id="701360" form="τὴν" line="1" section="AG" sub_section="50" lemma="ὁ" postag="l-s---fa-" head="701362" relation="ATR"/>
+    <word id="701361" form="σαυτοῦ" line="1" section="AG" sub_section="50" lemma="σεαυτοῦ" postag="p-s---mg-" head="701362" relation="ATR"/>
+    <word id="701362" form="φρένα" line="1" section="AG" sub_section="50" lemma="φρήν" postag="n-s---fa-" head="701363" relation="OBJ"/>
+    <word id="701363" form="τέρπε" line="1" section="AG" sub_section="50" lemma="τέρπω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="701364" form="·" line="1" section="AG" sub_section="50" lemma="·" postag="u--------" head="701360" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="0255-002" subdoc="AG.50">
+    <word id="701365" form="δυσηλεγέων" line="1" section="AG" sub_section="50" lemma="δυσηλεγής" postag="a-p---mg-" head="701367" relation="ATR"/>
+    <word id="701366" form="δὲ" line="1" section="AG" sub_section="50" lemma="δέ" postag="b--------" head="701375" relation="AuxY"/>
+    <word id="701367" form="πολιτῶν" line="1" section="AG" sub_section="50" lemma="πολίτης" postag="n-p---mg-" head="701369" relation="ATR"/>
+    <word id="701368" form="ἄλλος" line="2" section="AG" sub_section="50" lemma="ἄλλος" postag="a-s---mn-" head="701369" relation="ATR"/>
+    <word id="701369" form="τίς" line="2" section="AG" sub_section="50" lemma="τίς" postag="a-s---cn-" head="701375" relation="CO/SBJ"/>
+    <word id="701370" form="σε" line="2" section="AG" sub_section="50" lemma="σύ" postag="p-s---ca-" head="701375" relation="CO/OBJ"/>
+    <word id="701371" form="κακῶς" line="2" section="AG" sub_section="50" lemma="κακός" postag="d--------" head="701375" relation="CO/ADV"/>
+    <word id="701372" form="," line="2" section="AG" sub_section="50" lemma="," postag="u--------" head="701365" relation="PUNCT"/>
+    <word id="701373" form="ἄλλος" line="2" section="AG" sub_section="50" lemma="ἄλλος" postag="a-s---mn-" head="701375" relation="SBJ"/>
+    <word id="701374" form="ἄμεινον" line="2" section="AG" sub_section="50" lemma="ἀγαθός" postag="a-s---nac" head="701375" relation="ADV"/>
+    <word id="701375" form="ἐρεῖ" line="2" section="AG" sub_section="50" lemma="λέγω" postag="v3sfia---" head="0" relation="PRED"/>
+    <word id="701376" form="." line="2" section="AG" sub_section="50" lemma="." postag="u--------" head="701365" relation="PUNCT"/>
+  </sentence>
+</treebank>

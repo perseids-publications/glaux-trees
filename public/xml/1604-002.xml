@@ -1,0 +1,43 @@
+<treebank xmlns:saxon="http://saxon.sf.net/" version="2" xml:lang="grc" direction="ltr" format="pedalion">
+  <sentence id="1" document_id="1604-002" subdoc="AG.117">
+    <word id="734923" form="γνήσιός" line="1" lemma="γνήσιος" postag="a-s---mn-" head="734924" relation="PNOM"/>
+    <word id="734924" form="εἰμι" line="1" lemma="εἰμί" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="734925" form="φίλος" line="1" lemma="φίλος" postag="a-s---mn-" head="734924" relation="PNOM"/>
+    <word id="734926" form="," line="1" lemma="," postag="u--------" head="734923" relation="PUNCT"/>
+    <word id="734927" form="καὶ" line="1" lemma="καί" postag="b--------" head="734932" relation="AuxY"/>
+    <word id="734928" form="τὸν" line="1" lemma="ὁ" postag="l-s---ma-" head="734929" relation="ATR"/>
+    <word id="734929" form="φίλον" line="1" lemma="φίλος" postag="a-s---ma-" head="734932" relation="OBJ"/>
+    <word id="734930" form="ὡς" line="1" lemma="ὡς" postag="c--------" head="734932" relation="AuxC"/>
+    <word id="734931" form="φίλον" line="1" lemma="φίλος" postag="a-s---ma-" head="734930" relation="ADV/OBJ"/>
+    <word id="734932" form="οἶδα" line="1" lemma="οἶδα" postag="v1sria---" head="734924" relation="CO"/>
+    <word id="734933" form="," line="1" lemma="," postag="u--------" head="734923" relation="PUNCT"/>
+    <word id="734934" form="τοὺς" line="2" lemma="ὁ" postag="l-p---ma-" head="734936" relation="ATR"/>
+    <word id="734935" form="δὲ" line="2" lemma="δέ" postag="b--------" head="734939" relation="AuxY"/>
+    <word id="734936" form="κακοὺς" line="2" lemma="κακός" postag="a-p---ma-" head="734939" relation="OBJ"/>
+    <word id="734937" form="διόλου" line="2" lemma="διόλου" postag="d--------" head="734939" relation="ADV"/>
+    <word id="734938" form="πάντας" line="2" lemma="πᾶς" postag="a-p---ma-" head="734936" relation="ATR"/>
+    <word id="734939" form="ἀποστρέφομαι" line="2" lemma="ἀποστρέφω" postag="v1spie---" head="734932" relation="CO"/>
+    <word id="734940" form="·" line="2" lemma="·" postag="u--------" head="734923" relation="PUNCT"/>
+  </sentence>
+  <sentence id="2" document_id="1604-002" subdoc="AG.117">
+    <word id="734941" form="οὐδένα" line="3" lemma="οὐδείς" postag="a-s---ma-" head="734942" relation="OBJ"/>
+    <word id="734942" form="θωπεύω" line="3" lemma="θωπεύω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="734943" form="πρὸς" line="3" lemma="πρός" postag="r--------" head="734942" relation="AuxP"/>
+    <word id="734944" form="ὑπόκρισιν" line="3" lemma="ὑπόκρισις" postag="n-s---fa-" head="734943" relation="ADV"/>
+    <word id="734945" form="·" line="3" lemma="·" postag="u--------" head="734941" relation="PUNCT"/>
+  </sentence>
+  <sentence id="3" document_id="1604-002" subdoc="AG.117">
+    <word id="734946" form="οὓς" line="3" lemma="ὅς" postag="p-p---ma-" head="734949" relation="OBJ"/>
+    <word id="734947" form="δ’" line="3" lemma="δέ" postag="b--------" head="734956" relation="AuxY"/>
+    <word id="734948" form="ἄρα" line="3" lemma="ἄρα" postag="d--------" head="734949" relation="AuxY"/>
+    <word id="734949" form="τιμῶ" line="3" lemma="τιμάω" postag="v1spia---" head="734951" relation="ATR"/>
+    <word id="734950" form="," line="3" lemma="," postag="u--------" head="734946" relation="PUNCT"/>
+    <word id="734951" form="τούτους" line="4" lemma="οὗτος" postag="a-p---ma-" head="734956" relation="OBJ"/>
+    <word id="734952" form="ἐξ" line="4" lemma="ἐκ" postag="r--------" head="734956" relation="AuxP"/>
+    <word id="734953" form="ἀρχῆς" line="4" lemma="ἀρχή" postag="n-s---fg-" head="734952" relation="ADV"/>
+    <word id="734954" form="μέχρι" line="4" lemma="μέχρι" postag="r--------" head="734956" relation="AuxP"/>
+    <word id="734955" form="τέλους" line="4" lemma="τέλος" postag="n-s---ng-" head="734954" relation="ADV"/>
+    <word id="734956" form="ἀγαπῶ" line="4" lemma="ἀγαπάω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="734957" form="." line="4" lemma="." postag="u--------" head="734946" relation="PUNCT"/>
+  </sentence>
+</treebank>
